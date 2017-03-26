@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864711",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -91,8 +91,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948512",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -189,8 +189,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864245",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -259,8 +259,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948520",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -473,8 +473,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948582",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -519,8 +519,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948568",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -585,8 +585,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864789",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -735,8 +735,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864781",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -941,8 +941,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864330",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -1051,8 +1051,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864784",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -1269,8 +1269,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/107189967",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass"
       },
       "geometry": {
@@ -1366,8 +1366,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52947958",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -1596,8 +1596,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/279954322",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -1710,8 +1710,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948529",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -1760,8 +1760,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864734",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -1826,8 +1826,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/145075400",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "interpolation"
       },
@@ -1884,8 +1884,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864796",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -1922,8 +1922,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948364",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -2096,8 +2096,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/456549",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes",
         "type": "multipolygon"
@@ -2353,8 +2353,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864925",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -2407,8 +2407,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864797",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -2445,8 +2445,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864318",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -2547,8 +2547,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/430379824",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass"
       },
       "geometry": {
@@ -2624,8 +2624,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948315",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -2682,8 +2682,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864242",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -2732,8 +2732,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864809",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -2830,8 +2830,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/281772369",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass"
       },
       "geometry": {
@@ -2867,8 +2867,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948316",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -2925,8 +2925,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/281772368",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass"
       },
       "geometry": {
@@ -2962,8 +2962,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948312",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -3012,8 +3012,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864313",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -3090,8 +3090,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948548",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -3184,8 +3184,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/107189972",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -3222,8 +3222,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/530556",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes",
         "type": "multipolygon"
@@ -3507,8 +3507,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864726",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -3565,8 +3565,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/281772366",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass"
       },
       "geometry": {
@@ -3602,8 +3602,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948587",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -3684,8 +3684,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/530509",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes",
         "type": "multipolygon"
@@ -3975,8 +3975,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864933",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4049,8 +4049,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948517",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4279,8 +4279,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864769",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4321,8 +4321,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948572",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4423,8 +4423,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864805",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4537,8 +4537,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948528",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4583,8 +4583,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948503",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4633,8 +4633,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864320",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4699,8 +4699,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948531",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -4777,8 +4777,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/530566",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes",
         "type": "multipolygon"
@@ -4970,8 +4970,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948567",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass"
       },
       "geometry": {
@@ -5167,8 +5167,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948571",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -5349,8 +5349,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864926",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -5419,8 +5419,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/173095280",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -5473,8 +5473,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52947946",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -5547,8 +5547,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/530562",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes",
         "type": "multipolygon"
@@ -5840,8 +5840,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948569",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -5958,8 +5958,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948564",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6008,8 +6008,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948553",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6066,8 +6066,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864939",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6184,8 +6184,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52947945",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6234,8 +6234,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948525",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6288,8 +6288,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948504",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6374,8 +6374,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864938",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6416,8 +6416,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948591",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6466,8 +6466,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948526",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6520,8 +6520,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948317",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6566,8 +6566,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864685",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6680,8 +6680,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864315",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -6778,8 +6778,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/2368450",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "type": "multipolygon"
       },
@@ -6972,8 +6972,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948340",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -7046,8 +7046,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864681",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -7204,8 +7204,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864306",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -7442,8 +7442,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864919",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -7544,8 +7544,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864322",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -7714,8 +7714,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52947955",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -7840,8 +7840,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/456590",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes",
         "type": "multipolygon"
@@ -8707,8 +8707,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948516",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -8789,8 +8789,8 @@
       "type": "Feature",
       "properties": {
         "@id": "relation/456563",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes",
         "type": "multipolygon"
@@ -9050,8 +9050,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52946448",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -9176,8 +9176,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948574",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -9298,8 +9298,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/279954335",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -9344,8 +9344,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52864803",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -9382,8 +9382,8 @@
       "type": "Feature",
       "properties": {
         "@id": "way/52948530",
-        "start_date": 1964,
-        "end_date": 2016,
+        "start_date": "1964",
+        "end_date": "2016",
         "landuse": "grass",
         "source": "3dShapes"
       },
@@ -9419,6 +9419,1656 @@
         "type": "Polygon"
       },
       "id": "fec8a33d877d71472aea0ad1174dbbc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.848344802856444,
+              52.240494061009734
+            ],
+            [
+              6.848462820053101,
+              52.2407174331778
+            ],
+            [
+              6.848366260528564,
+              52.24078313066032
+            ],
+            [
+              6.8479907512664795,
+              52.24089481615741
+            ],
+            [
+              6.847894191741943,
+              52.24103934991287
+            ],
+            [
+              6.8479907512664795,
+              52.24158463211584
+            ],
+            [
+              6.848087310791016,
+              52.24236641057279
+            ],
+            [
+              6.847947835922241,
+              52.24284598213812
+            ],
+            [
+              6.8474650382995605,
+              52.24303649543111
+            ],
+            [
+              6.847593784332275,
+              52.243148175257076
+            ],
+            [
+              6.847808361053466,
+              52.24327956292777
+            ],
+            [
+              6.8481194972991934,
+              52.24330584041524
+            ],
+            [
+              6.847347021102905,
+              52.24354233710207
+            ],
+            [
+              6.8469929695129395,
+              52.24325328542478
+            ],
+            [
+              6.846703290939331,
+              52.24312189767625
+            ],
+            [
+              6.8455445766448975,
+              52.243167883432484
+            ],
+            [
+              6.845308542251587,
+              52.24310875888002
+            ],
+            [
+              6.845158338546752,
+              52.24292481532409
+            ],
+            [
+              6.845351457595825,
+              52.242760579361956
+            ],
+            [
+              6.845458745956421,
+              52.242596342791984
+            ],
+            [
+              6.84523344039917,
+              52.242359841063305
+            ],
+            [
+              6.84497594833374,
+              52.24226129830434
+            ],
+            [
+              6.844922304153442,
+              52.24212333807419
+            ],
+            [
+              6.8450188636779785,
+              52.242018225229984
+            ],
+            [
+              6.845061779022217,
+              52.24184741632713
+            ],
+            [
+              6.844900846481323,
+              52.24167003715518
+            ],
+            [
+              6.844782829284668,
+              52.24160434098565
+            ],
+            [
+              6.844782829284668,
+              52.24145980907034
+            ],
+            [
+              6.8449437618255615,
+              52.241328416011584
+            ],
+            [
+              6.845351457595825,
+              52.24112475600164
+            ],
+            [
+              6.845748424530029,
+              52.24099993166259
+            ],
+            [
+              6.848344802856444,
+              52.240494061009734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.84696614742279,
+              52.24365730031402
+            ],
+            [
+              6.846703290939331,
+              52.24374927066912
+            ],
+            [
+              6.846418976783752,
+              52.24387737191747
+            ],
+            [
+              6.84622049331665,
+              52.24401204206189
+            ],
+            [
+              6.846059560775757,
+              52.244169704150615
+            ],
+            [
+              6.845748424530029,
+              52.244094157803005
+            ],
+            [
+              6.84522807598114,
+              52.24408758854931
+            ],
+            [
+              6.845104694366455,
+              52.243371534065794
+            ],
+            [
+              6.846531629562378,
+              52.243309125100055
+            ],
+            [
+              6.84696614742279,
+              52.24365730031402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.84847891330719,
+              52.24430437340781
+            ],
+            [
+              6.846896409988403,
+              52.24451458801669
+            ],
+            [
+              6.846268773078918,
+              52.244222258055714
+            ],
+            [
+              6.846644282341003,
+              52.24391350297196
+            ],
+            [
+              6.847019791603088,
+              52.24377554787843
+            ],
+            [
+              6.84748649597168,
+              52.24363759235598
+            ],
+            [
+              6.848124861717224,
+              52.24349306706294
+            ],
+            [
+              6.848537921905518,
+              52.24328284761457
+            ],
+            [
+              6.848607659339905,
+              52.24320729975704
+            ],
+            [
+              6.850184798240662,
+              52.243709854825994
+            ],
+            [
+              6.849761009216308,
+              52.243736132058636
+            ],
+            [
+              6.849294304847717,
+              52.24377554787843
+            ],
+            [
+              6.848757863044739,
+              52.243943064721925
+            ],
+            [
+              6.848500370979309,
+              52.24415656566463
+            ],
+            [
+              6.84847891330719,
+              52.24430437340781
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.848419904708862,
+              52.24445874985834
+            ],
+            [
+              6.848285794258118,
+              52.244711663308074
+            ],
+            [
+              6.848307251930237,
+              52.2449547216286
+            ],
+            [
+              6.848666667938232,
+              52.245217485882776
+            ],
+            [
+              6.849326491355896,
+              52.24541127352325
+            ],
+            [
+              6.850104331970215,
+              52.24548681762839
+            ],
+            [
+              6.850672960281372,
+              52.24546711048293
+            ],
+            [
+              6.850694417953491,
+              52.24554922353128
+            ],
+            [
+              6.850490570068359,
+              52.245792277263796
+            ],
+            [
+              6.850683689117432,
+              52.245963070982015
+            ],
+            [
+              6.851080656051636,
+              52.24599920033817
+            ],
+            [
+              6.851423978805542,
+              52.24588095869954
+            ],
+            [
+              6.851697564125061,
+              52.24590395015396
+            ],
+            [
+              6.852550506591797,
+              52.24597292444571
+            ],
+            [
+              6.853001117706299,
+              52.24571673367871
+            ],
+            [
+              6.853596568107605,
+              52.245339013824065
+            ],
+            [
+              6.853365898132324,
+              52.245923657105386
+            ],
+            [
+              6.853049397468566,
+              52.246127295091085
+            ],
+            [
+              6.852303743362427,
+              52.246426181409724
+            ],
+            [
+              6.851466894149779,
+              52.246817029711536
+            ],
+            [
+              6.8509626388549805,
+              52.24696482859237
+            ],
+            [
+              6.850630044937134,
+              52.24671849685079
+            ],
+            [
+              6.850351095199585,
+              52.246672514774225
+            ],
+            [
+              6.850147247314453,
+              52.24669222138429
+            ],
+            [
+              6.849991679191589,
+              52.24651486157849
+            ],
+            [
+              6.849685907363892,
+              52.246307940909
+            ],
+            [
+              6.84920847415924,
+              52.24614043299355
+            ],
+            [
+              6.848629117012024,
+              52.246018907247304
+            ],
+            [
+              6.848178505897521,
+              52.24595650200501
+            ],
+            [
+              6.847502589225768,
+              52.245752863235445
+            ],
+            [
+              6.847009062767028,
+              52.24560506031737
+            ],
+            [
+              6.8466925621032715,
+              52.24543426522103
+            ],
+            [
+              6.846821308135986,
+              52.24523719313911
+            ],
+            [
+              6.846885681152343,
+              52.24502369739594
+            ],
+            [
+              6.846960783004761,
+              52.244816769772214
+            ],
+            [
+              6.846950054168701,
+              52.24463940246953
+            ],
+            [
+              6.848419904708862,
+              52.24445874985834
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.849836111068726,
+              52.24757244104087
+            ],
+            [
+              6.849632263183594,
+              52.247480478610086
+            ],
+            [
+              6.849369406700134,
+              52.24745748797261
+            ],
+            [
+              6.849176287651062,
+              52.24731954389756
+            ],
+            [
+              6.848779320716858,
+              52.247050223276865
+            ],
+            [
+              6.848312616348267,
+              52.24698453507259
+            ],
+            [
+              6.847947835922241,
+              52.246991103897415
+            ],
+            [
+              6.8476420640945435,
+              52.246948406518804
+            ],
+            [
+              6.847169995307922,
+              52.24716517740031
+            ],
+            [
+              6.846687197685242,
+              52.247056792091946
+            ],
+            [
+              6.846054196357727,
+              52.247043654460825
+            ],
+            [
+              6.84573233127594,
+              52.24693855327175
+            ],
+            [
+              6.845566034317017,
+              52.24604189863023
+            ],
+            [
+              6.845630407333373,
+              52.24600905379382
+            ],
+            [
+              6.845936179161072,
+              52.24586782072026
+            ],
+            [
+              6.846209764480591,
+              52.245746294227345
+            ],
+            [
+              6.84647798538208,
+              52.245532800933766
+            ],
+            [
+              6.846697926521301,
+              52.24566746605395
+            ],
+            [
+              6.847282648086548,
+              52.24584811374402
+            ],
+            [
+              6.8476903438568115,
+              52.24598606239387
+            ],
+            [
+              6.848596930503845,
+              52.24617656220528
+            ],
+            [
+              6.849433779716491,
+              52.24634406998432
+            ],
+            [
+              6.849809288978577,
+              52.24661996377122
+            ],
+            [
+              6.850066781044006,
+              52.2468958558426
+            ],
+            [
+              6.850254535675048,
+              52.24704037005243
+            ],
+            [
+              6.850254535675048,
+              52.24711262698085
+            ],
+            [
+              6.850168704986572,
+              52.24732282828529
+            ],
+            [
+              6.849836111068726,
+              52.24757244104087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.848618388175964,
+              52.248781072415426
+            ],
+            [
+              6.846386790275574,
+              52.24905695104838
+            ],
+            [
+              6.846338510513306,
+              52.24792386714527
+            ],
+            [
+              6.846740841865539,
+              52.24776950275065
+            ],
+            [
+              6.847164630889893,
+              52.247641412738844
+            ],
+            [
+              6.847502589225768,
+              52.24749033173679
+            ],
+            [
+              6.847829818725585,
+              52.24757572540988
+            ],
+            [
+              6.848618388175964,
+              52.248781072415426
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.850710511207581,
+              52.24931640676872
+            ],
+            [
+              6.8506890535354605,
+              52.249332827965794
+            ],
+            [
+              6.845549941062926,
+              52.250817279069864
+            ],
+            [
+              6.845828890800476,
+              52.25057096871767
+            ],
+            [
+              6.84598445892334,
+              52.25035421447649
+            ],
+            [
+              6.846156120300293,
+              52.250130890817275
+            ],
+            [
+              6.846182942390442,
+              52.249871439860286
+            ],
+            [
+              6.846188306808472,
+              52.2496776717001
+            ],
+            [
+              6.846354603767395,
+              52.249654682201204
+            ],
+            [
+              6.846987605094909,
+              52.249641545339365
+            ],
+            [
+              6.847588419914246,
+              52.249572576750786
+            ],
+            [
+              6.847878098487854,
+              52.24950032382867
+            ],
+            [
+              6.847856640815735,
+              52.24924086918392
+            ],
+            [
+              6.848098039627074,
+              52.24919488972152
+            ],
+            [
+              6.8487900495529175,
+              52.249020824182146
+            ],
+            [
+              6.849288940429687,
+              52.24896499169466
+            ],
+            [
+              6.850120425224304,
+              52.24878435669497
+            ],
+            [
+              6.850710511207581,
+              52.24931640676872
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.847518682479858,
+              52.25048558080971
+            ],
+            [
+              6.847507953643799,
+              52.25060709432158
+            ],
+            [
+              6.847658157348633,
+              52.250741744040575
+            ],
+            [
+              6.848001480102539,
+              52.25075159644301
+            ],
+            [
+              6.848393082618713,
+              52.250699050271486
+            ],
+            [
+              6.848537921905518,
+              52.250722039229174
+            ],
+            [
+              6.84872031211853,
+              52.25085340447317
+            ],
+            [
+              6.84872031211853,
+              52.25113912253573
+            ],
+            [
+              6.848950982093811,
+              52.25126720244918
+            ],
+            [
+              6.849068999290466,
+              52.25155620192095
+            ],
+            [
+              6.848854422569275,
+              52.25166786030351
+            ],
+            [
+              6.8482428789138785,
+              52.25204224224114
+            ],
+            [
+              6.84747040271759,
+              52.25197656142799
+            ],
+            [
+              6.847030520439147,
+              52.252114491023285
+            ],
+            [
+              6.844916939735413,
+              52.25186161977096
+            ],
+            [
+              6.845061779022217,
+              52.25166129217113
+            ],
+            [
+              6.846869587898254,
+              52.25130661157892
+            ],
+            [
+              6.8472665548324585,
+              52.25128033882966
+            ],
+            [
+              6.847684979438781,
+              52.2510800086048
+            ],
+            [
+              6.847255825996398,
+              52.25099462167663
+            ],
+            [
+              6.846928596496582,
+              52.25081399494083
+            ],
+            [
+              6.846837401390076,
+              52.25066620888269
+            ],
+            [
+              6.847518682479858,
+              52.25048558080971
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.849557161331176,
+              52.25152336116669
+            ],
+            [
+              6.849696636199951,
+              52.25171712126529
+            ],
+            [
+              6.850082874298096,
+              52.251992981640385
+            ],
+            [
+              6.8501365184783936,
+              52.25215061537024
+            ],
+            [
+              6.8499755859375,
+              52.25216375148911
+            ],
+            [
+              6.848843693733215,
+              52.25220644384857
+            ],
+            [
+              6.848393082618713,
+              52.25219002371517
+            ],
+            [
+              6.848559379577637,
+              52.2520356741642
+            ],
+            [
+              6.848993897438049,
+              52.251795938690364
+            ],
+            [
+              6.849557161331176,
+              52.25152336116669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.850335001945496,
+              52.252144047309336
+            ],
+            [
+              6.850141882896423,
+              52.251838631403814
+            ],
+            [
+              6.84998631477356,
+              52.25171712126529
+            ],
+            [
+              6.849766373634338,
+              52.25156605414247
+            ],
+            [
+              6.850157976150513,
+              52.25143469100879
+            ],
+            [
+              6.85072124004364,
+              52.25131646385588
+            ],
+            [
+              6.851032376289368,
+              52.2512770547349
+            ],
+            [
+              6.851397156715393,
+              52.25135915703079
+            ],
+            [
+              6.851670742034912,
+              52.25166129217113
+            ],
+            [
+              6.851981878280639,
+              52.252065230502765
+            ],
+            [
+              6.850335001945496,
+              52.252144047309336
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.851831674575806,
+              52.25166786030351
+            ],
+            [
+              6.851037740707397,
+              52.2508796774753
+            ],
+            [
+              6.854803562164307,
+              52.25026882615129
+            ],
+            [
+              6.8549323081970215,
+              52.250623515040886
+            ],
+            [
+              6.85421347618103,
+              52.250899382216694
+            ],
+            [
+              6.8533337116241455,
+              52.251221225086915
+            ],
+            [
+              6.852443218231201,
+              52.251510224858194
+            ],
+            [
+              6.851831674575806,
+              52.25166786030351
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.851552724838257,
+              52.248889453511545
+            ],
+            [
+              6.851295232772827,
+              52.24884347368491
+            ],
+            [
+              6.850973367691039,
+              52.2488500422345
+            ],
+            [
+              6.85072660446167,
+              52.24890915913691
+            ],
+            [
+              6.850275993347167,
+              52.24861357383702
+            ],
+            [
+              6.850576400756836,
+              52.24839681003211
+            ],
+            [
+              6.8505120277404785,
+              52.24809465265822
+            ],
+            [
+              6.85023307800293,
+              52.24772680612112
+            ],
+            [
+              6.850039958953857,
+              52.24762827528082
+            ],
+            [
+              6.850275993347167,
+              52.24743121294376
+            ],
+            [
+              6.8504798412323,
+              52.24731954389756
+            ],
+            [
+              6.850672960281372,
+              52.24750346923566
+            ],
+            [
+              6.8509840965271,
+              52.24747719423404
+            ],
+            [
+              6.851209402084351,
+              52.247306406344244
+            ],
+            [
+              6.851145029067993,
+              52.24712248018923
+            ],
+            [
+              6.85221791267395,
+              52.246636385966355
+            ],
+            [
+              6.852754354476929,
+              52.24635392336338
+            ],
+            [
+              6.853451728820801,
+              52.246018907247304
+            ],
+            [
+              6.853666305541991,
+              52.245624767401544
+            ],
+            [
+              6.853827238082886,
+              52.24530288393035
+            ],
+            [
+              6.854095458984375,
+              52.245072965735545
+            ],
+            [
+              6.8544602394104,
+              52.24478392402891
+            ],
+            [
+              6.854921579360961,
+              52.244389773212774
+            ],
+            [
+              6.855114698410034,
+              52.243975911087645
+            ],
+            [
+              6.855093240737915,
+              52.243640877016276
+            ],
+            [
+              6.855103969573975,
+              52.24318759159914
+            ],
+            [
+              6.854985952377319,
+              52.24299050953873
+            ],
+            [
+              6.8552327156066895,
+              52.24291167646947
+            ],
+            [
+              6.855404376983643,
+              52.24299050953873
+            ],
+            [
+              6.855672597885132,
+              52.2429510930216
+            ],
+            [
+              6.855769157409668,
+              52.242852551575645
+            ],
+            [
+              6.8560051918029785,
+              52.242813134935986
+            ],
+            [
+              6.856756210327148,
+              52.24274087100564
+            ],
+            [
+              6.856809854507446,
+              52.24376569392676
+            ],
+            [
+              6.856563091278076,
+              52.24377883252849
+            ],
+            [
+              6.856294870376587,
+              52.243916787611816
+            ],
+            [
+              6.856262683868408,
+              52.24410729630748
+            ],
+            [
+              6.856327056884766,
+              52.244337219506086
+            ],
+            [
+              6.856402158737182,
+              52.24439634242174
+            ],
+            [
+              6.855329275131226,
+              52.24565761252243
+            ],
+            [
+              6.854267120361328,
+              52.2470305168258
+            ],
+            [
+              6.853655576705933,
+              52.247720237405254
+            ],
+            [
+              6.852571964263916,
+              52.248357398317424
+            ],
+            [
+              6.851552724838257,
+              52.248889453511545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.854760646820068,
+              52.24302335660959
+            ],
+            [
+              6.854889392852783,
+              52.24333868725268
+            ],
+            [
+              6.854921579360961,
+              52.24369343154769
+            ],
+            [
+              6.854814291000366,
+              52.243923356890804
+            ],
+            [
+              6.85469627380371,
+              52.2443240810697
+            ],
+            [
+              6.854277849197388,
+              52.24463940246953
+            ],
+            [
+              6.853934526443481,
+              52.244875892048896
+            ],
+            [
+              6.8535590171813965,
+              52.244882461185874
+            ],
+            [
+              6.852936744689941,
+              52.244902168591025
+            ],
+            [
+              6.852679252624511,
+              52.2449547216286
+            ],
+            [
+              6.8524861335754395,
+              52.244935014246806
+            ],
+            [
+              6.851831674575806,
+              52.24439634242174
+            ],
+            [
+              6.851949691772461,
+              52.24417298877152
+            ],
+            [
+              6.8521106243133545,
+              52.24398248035788
+            ],
+            [
+              6.854760646820068,
+              52.24302335660959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.848827600479126,
+              52.24308905067836
+            ],
+            [
+              6.849192380905151,
+              52.242852551575645
+            ],
+            [
+              6.849514245986938,
+              52.242891968180295
+            ],
+            [
+              6.849846839904785,
+              52.24283284326017
+            ],
+            [
+              6.850093603134155,
+              52.242556925924745
+            ],
+            [
+              6.850029230117797,
+              52.24226786782843
+            ],
+            [
+              6.8495893478393555,
+              52.2419853774151
+            ],
+            [
+              6.849085092544555,
+              52.24200508610695
+            ],
+            [
+              6.848838329315185,
+              52.24172259402079
+            ],
+            [
+              6.848806142807007,
+              52.24147951799559
+            ],
+            [
+              6.8489670753479,
+              52.241151034765096
+            ],
+            [
+              6.8494713306427,
+              52.24119045288115
+            ],
+            [
+              6.849911212921143,
+              52.24103278020692
+            ],
+            [
+              6.849782466888427,
+              52.24078313066032
+            ],
+            [
+              6.849610805511475,
+              52.24072400293043
+            ],
+            [
+              6.849524974822998,
+              52.240704293669616
+            ],
+            [
+              6.8492138385772705,
+              52.24080283988612
+            ],
+            [
+              6.848849058151245,
+              52.24077656091644
+            ],
+            [
+              6.848548650741576,
+              52.24074371218247
+            ],
+            [
+              6.848452091217041,
+              52.24056632859889
+            ],
+            [
+              6.849020719528198,
+              52.240494061009734
+            ],
+            [
+              6.849106550216674,
+              52.24032981605121
+            ],
+            [
+              6.848838329315185,
+              52.24019841964671
+            ],
+            [
+              6.848419904708862,
+              52.24020498947616
+            ],
+            [
+              6.848280429840088,
+              52.23998161472876
+            ],
+            [
+              6.849428415298462,
+              52.23946259259213
+            ],
+            [
+              6.849181652069092,
+              52.23927206395559
+            ],
+            [
+              6.848344802856444,
+              52.23931148374059
+            ],
+            [
+              6.8470680713653564,
+              52.23946916253054
+            ],
+            [
+              6.846778392791748,
+              52.23931805370138
+            ],
+            [
+              6.8545567989349365,
+              52.23638118428841
+            ],
+            [
+              6.854621171951294,
+              52.236722843515416
+            ],
+            [
+              6.854674816131591,
+              52.23719590579562
+            ],
+            [
+              6.854792833328247,
+              52.2376295417898
+            ],
+            [
+              6.854792833328247,
+              52.23795148092393
+            ],
+            [
+              6.854074001312256,
+              52.238148585363696
+            ],
+            [
+              6.853483915328979,
+              52.23825370737368
+            ],
+            [
+              6.852786540985107,
+              52.2385033711494
+            ],
+            [
+              6.852368116378784,
+              52.238996124480096
+            ],
+            [
+              6.852625608444214,
+              52.23939032320559
+            ],
+            [
+              6.852990388870238,
+              52.23958742125531
+            ],
+            [
+              6.853301525115967,
+              52.239731959268816
+            ],
+            [
+              6.852765083312988,
+              52.239935625670604
+            ],
+            [
+              6.852850914001465,
+              52.24013929113777
+            ],
+            [
+              6.853097677230835,
+              52.240540049489184
+            ],
+            [
+              6.8534088134765625,
+              52.24061231700345
+            ],
+            [
+              6.85371994972229,
+              52.24055318904599
+            ],
+            [
+              6.853752136230469,
+              52.24034295567023
+            ],
+            [
+              6.8537843227386475,
+              52.2400735927021
+            ],
+            [
+              6.854116916656494,
+              52.23995533527281
+            ],
+            [
+              6.8544816970825195,
+              52.239935625670604
+            ],
+            [
+              6.854631900787353,
+              52.24002103388353
+            ],
+            [
+              6.854674816131591,
+              52.240579468147914
+            ],
+            [
+              6.854599714279175,
+              52.24103278020692
+            ],
+            [
+              6.854395866394043,
+              52.24104591961784
+            ],
+            [
+              6.854170560836792,
+              52.24093423450103
+            ],
+            [
+              6.853913068771361,
+              52.240815979365095
+            ],
+            [
+              6.853569746017456,
+              52.240815979365095
+            ],
+            [
+              6.853387355804443,
+              52.2408685372422
+            ],
+            [
+              6.853290796279907,
+              52.241243010314726
+            ],
+            [
+              6.853494644165039,
+              52.24147951799559
+            ],
+            [
+              6.853762865066528,
+              52.24157149286444
+            ],
+            [
+              6.854181289672851,
+              52.24149265727425
+            ],
+            [
+              6.854428052902221,
+              52.241446669781965
+            ],
+            [
+              6.854546070098877,
+              52.24147294835482
+            ],
+            [
+              6.854492425918579,
+              52.242786857156744
+            ],
+            [
+              6.850780248641968,
+              52.24408101929463
+            ],
+            [
+              6.8503618240356445,
+              52.24364744633609
+            ],
+            [
+              6.848827600479126,
+              52.24308905067836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": "1950",
+        "end_date": "1999",
+        "landuse": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.855179071426392,
+              52.23826027749103
+            ],
+            [
+              6.855050325393677,
+              52.23647316972364
+            ],
+            [
+              6.854835748672485,
+              52.236262917020156
+            ],
+            [
+              6.859052181243896,
+              52.23462685414405
+            ],
+            [
+              6.86070442199707,
+              52.23580298575898
+            ],
+            [
+              6.861401796340942,
+              52.235678146451455
+            ],
+            [
+              6.861584186553955,
+              52.23613807900623
+            ],
+            [
+              6.861788034439087,
+              52.23645345857497
+            ],
+            [
+              6.862292289733887,
+              52.23667685108035
+            ],
+            [
+              6.863032579421997,
+              52.23681482824257
+            ],
+            [
+              6.864126920700073,
+              52.23683453923071
+            ],
+            [
+              6.864781379699707,
+              52.2367294138594
+            ],
+            [
+              6.8653178215026855,
+              52.23669656212978
+            ],
+            [
+              6.865650415420531,
+              52.236795117245656
+            ],
+            [
+              6.865918636322021,
+              52.23700536742808
+            ],
+            [
+              6.865940093994141,
+              52.23734702185031
+            ],
+            [
+              6.8656182289123535,
+              52.239541431788695
+            ],
+            [
+              6.86542510986328,
+              52.241328416011584
+            ],
+            [
+              6.865253448486328,
+              52.24149265727425
+            ],
+            [
+              6.865274906158447,
+              52.24166346754262
+            ],
+            [
+              6.861906051635742,
+              52.241972238282344
+            ],
+            [
+              6.860811710357666,
+              52.24188026424411
+            ],
+            [
+              6.859234571456909,
+              52.242024794790055
+            ],
+            [
+              6.855179071426392,
+              52.24232042398597
+            ],
+            [
+              6.855093240737915,
+              52.24009987208804
+            ],
+            [
+              6.854771375656128,
+              52.23854936169176
+            ],
+            [
+              6.855179071426392,
+              52.23826027749103
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
