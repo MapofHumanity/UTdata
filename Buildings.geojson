@@ -71,11 +71,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844007",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -367,11 +372,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843866",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -527,11 +537,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844298",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -612,11 +627,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844251",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -795,11 +815,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844065",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -1015,11 +1040,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843914",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -1249,11 +1279,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843983",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -1459,11 +1494,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844470",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -1573,11 +1613,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844517",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -1611,11 +1656,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843925",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -1724,11 +1774,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843792",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -1941,11 +1996,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844076",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -2097,11 +2157,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844494",
         "building": "house",
-        "start_date": "1965",
-        "name": " "
+        "start_date": 1965,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -2135,11 +2200,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844754",
         "building": "house",
-        "start_date": "1969",
-        "name": " "
+        "start_date": 1969,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -2181,11 +2251,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843987",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -2259,11 +2334,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844318",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -2407,11 +2487,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843854",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -2473,11 +2558,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844040",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -2618,11 +2708,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843992",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -3285,11 +3380,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844462",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -3468,11 +3568,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843809",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -3612,11 +3717,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843807",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -3720,11 +3830,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844806",
         "building": "house",
-        "start_date": "1969",
-        "name": " "
+        "start_date": 1969,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -4069,11 +4184,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843975",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -4501,11 +4621,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844383",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -5066,11 +5191,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843968",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Residence staff"
       },
       "geometry": {
         "type": "Polygon",
@@ -5144,11 +5274,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844577",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -5544,11 +5679,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844571",
         "building": "house",
-        "start_date": "1965",
-        "name": " "
+        "start_date": 1965,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -5822,11 +5962,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844198",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -5860,11 +6005,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844229",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -5898,11 +6048,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843554",
         "building": "yes",
-        "name": " ",
-        "start_date": "1965"
+        "name": "Hal B",
+        "start_date": 1965
       },
       "geometry": {
         "type": "Polygon",
@@ -6152,11 +6307,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844323",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -6287,11 +6447,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844818",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -6372,11 +6537,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844095",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -6942,11 +7112,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843827",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -7097,11 +7272,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844695",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -7143,11 +7323,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844476",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -7970,11 +8155,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844147",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -8008,11 +8198,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844239",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -8046,11 +8241,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844947",
         "building": "house",
-        "start_date": "1965",
-        "name": " "
+        "start_date": 1965,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -8362,11 +8562,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844044",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -8587,11 +8792,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843996",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -8665,11 +8875,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844066",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -8763,11 +8978,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844888",
         "building": "house",
-        "start_date": "1969",
-        "name": " "
+        "start_date": 1969,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -9064,11 +9284,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844540",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -9102,11 +9327,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844532",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -9346,11 +9576,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844006",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -9517,11 +9752,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844223",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -10658,12 +10898,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "1991",
-        "start_date": "1965",
-        "Name": "Hall A",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 1991,
+        "start_date": 1965,
+        "name": "Hal A",
         "info": "",
-        "building": "yes",
-        "name": " "
+        "building": "yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -10737,11 +10981,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843998",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -10912,11 +11161,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843844",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -10983,7 +11237,7 @@
         "building": "apartments",
         "start_date": "2007",
         "type": "multipolygon",
-        "name": " "
+        "name": "Box"
       },
       "geometry": {
         "type": "Polygon",
@@ -11150,11 +11404,11 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": 2016,
         "@id": "way/269844997",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Zwembad"
       },
       "geometry": {
         "type": "Polygon",
@@ -11322,11 +11576,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844026",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -11446,11 +11705,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269845014",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -11504,11 +11768,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844038",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -12210,11 +12479,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844170",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -12248,11 +12522,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843980",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -12606,11 +12885,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844667",
         "building": "house",
-        "start_date": "1965",
-        "name": " "
+        "start_date": 1965,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -13169,11 +13453,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844895",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -13394,11 +13683,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844024",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -13555,11 +13849,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843871",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -13630,11 +13929,11 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": 2016,
         "@id": "way/269844511",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Zwembad"
       },
       "geometry": {
         "type": "Polygon",
@@ -14099,11 +14398,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844687",
         "building": "house",
-        "start_date": "1969",
-        "name": " "
+        "start_date": 1969,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -14187,11 +14491,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844436",
         "building": "yes",
-        "start_date": "1996",
-        "name": " "
+        "start_date": 1996,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -14225,11 +14534,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844015",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -14994,11 +15308,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843971",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -15110,11 +15429,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843886",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -15480,11 +15804,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843973",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -16019,11 +16348,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844685",
         "building": "house",
-        "start_date": "1965",
-        "name": " "
+        "start_date": 1965,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -16065,11 +16399,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844017",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -16193,11 +16532,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844337",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -16642,11 +16986,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844018",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -16728,11 +17077,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844029",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -17039,11 +17393,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844333",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -17077,11 +17436,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843876",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -18182,11 +18546,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844088",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -18301,11 +18670,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844319",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -18377,11 +18751,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843789",
         "building": "house",
-        "start_date": "1965",
-        "name": " "
+        "start_date": 1965,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -18439,11 +18818,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843990",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -19074,11 +19458,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843938",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -19231,11 +19620,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844023",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -19598,11 +19992,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843881",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -19930,11 +20329,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844183",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -20078,11 +20482,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844858",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -20876,11 +21285,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844232",
         "building": "yes",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff Wooning"
       },
       "geometry": {
         "type": "Polygon",
@@ -21460,11 +21874,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843888",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -21530,11 +21949,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844154",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -21661,11 +22085,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269845051",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -21798,11 +22227,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844724",
         "building": "house",
-        "start_date": "1965",
-        "name": " "
+        "start_date": 1965,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -21984,11 +22418,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843974",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -22283,11 +22722,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844382",
         "building": "yes",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -22321,11 +22765,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843863",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -22470,11 +22919,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843855",
         "building": "house",
-        "start_date": "1968",
-        "name": " "
+        "start_date": 1968,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -23258,11 +23712,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844025",
         "building": "house",
-        "start_date": "1964",
-        "name": " "
+        "start_date": 1964,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
@@ -23344,11 +23803,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269845010",
         "building": "house",
-        "start_date": "1965",
-        "name": " "
+        "start_date": 1965,
+        "name": "Staff residence"
       },
       "geometry": {
         "type": "Polygon",
