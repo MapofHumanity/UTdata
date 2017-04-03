@@ -4,12 +4,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Campuslaan",
+        "start_date": 1969,
+        "end_date": 2016,
         "@id": "way/269845044",
-        "building": "apartments",
-        "testtag": "testing"
+        "building": "apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -70,7 +74,8 @@
         "end_date": "2016",
         "@id": "way/269844007",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -190,10 +195,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843978",
         "building": "yes",
-        "start_date": "1971"
+        "start_date": 1971,
+        "name": "Witbreuksweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -270,7 +281,8 @@
         "end_date": "2016",
         "@id": "way/269844245",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": "1992",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -304,10 +316,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844688",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -352,7 +370,8 @@
         "end_date": "2016",
         "@id": "way/269843866",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -414,10 +433,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844348",
         "building": "yes",
-        "start_date": "1971"
+        "start_date": 1971,
+        "name": "Witbreuksweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -451,10 +476,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844765",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -499,7 +530,8 @@
         "end_date": "2016",
         "@id": "way/269844298",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -533,10 +565,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844629",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": " Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -577,7 +615,8 @@
         "end_date": "2016",
         "@id": "way/269844251",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -611,11 +650,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "@id": "way/269844906"
+        "@id": "way/269844906",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -661,10 +706,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844444",
         "building": "yes",
-        "start_date": "1996"
+        "start_date": 1996,
+        "name": "  "
       },
       "geometry": {
         "type": "Polygon",
@@ -701,7 +752,8 @@
         "end_date": "2016",
         "@id": "way/269844728",
         "building": "yes",
-        "start_date": "1990"
+        "start_date": "1990",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -746,7 +798,8 @@
         "end_date": "2016",
         "@id": "way/269844065",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -927,7 +980,8 @@
         "end_date": "2016",
         "@id": "way/269844129",
         "building": "yes",
-        "start_date": "2006"
+        "start_date": "2006",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -964,7 +1018,8 @@
         "end_date": "2016",
         "@id": "way/269843914",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1033,7 +1088,8 @@
         "end_date": "2016",
         "@id": "way/269844584",
         "building": "yes",
-        "start_date": "1978"
+        "start_date": "1978",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1067,10 +1123,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843590",
         "building": "yes",
-        "start_date": "1971"
+        "start_date": 1971,
+        "name": "Witbreuksweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1136,10 +1198,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844742",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -1184,7 +1252,8 @@
         "end_date": "2016",
         "@id": "way/269843983",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1258,10 +1327,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843604",
         "building": "yes",
-        "start_date": "1971"
+        "start_date": 1971,
+        "name": "Witbreuksweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1387,7 +1462,8 @@
         "end_date": "2016",
         "@id": "way/269844470",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1500,7 +1576,8 @@
         "end_date": "2016",
         "@id": "way/269844517",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1537,7 +1614,8 @@
         "end_date": "2016",
         "@id": "way/269843925",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1603,10 +1681,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844575",
         "building": "yes",
-        "start_date": "1915"
+        "start_date": 1915,
+        "name": "Erve Holzik"
       },
       "geometry": {
         "type": "Polygon",
@@ -1643,7 +1727,8 @@
         "end_date": "2016",
         "@id": "way/269843792",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1701,10 +1786,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
-        "@id": "way/269845008"
+        "@id": "way/269845008",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -1815,7 +1906,8 @@
         "end_date": "2016",
         "@id": "way/269844274",
         "building": "yes",
-        "start_date": "2005"
+        "start_date": "2005",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1852,7 +1944,8 @@
         "end_date": "2016",
         "@id": "way/269844076",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -1961,7 +2054,8 @@
         "end_date": "2016",
         "@id": "way/269844791",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -2006,7 +2100,8 @@
         "end_date": "2016",
         "@id": "way/269844494",
         "building": "house",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -2043,7 +2138,8 @@
         "end_date": "2016",
         "@id": "way/269844754",
         "building": "house",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -2089,7 +2185,7 @@
         "@id": "way/269843987",
         "building": "house",
         "start_date": "1968",
-        "name": ""
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -2166,7 +2262,8 @@
         "end_date": "2016",
         "@id": "way/269844318",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -2263,10 +2360,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844612",
         "building": "apartments",
-        "start_date": "2008"
+        "start_date": 2008,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -2307,7 +2410,8 @@
         "end_date": "2016",
         "@id": "way/269843854",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -2372,7 +2476,8 @@
         "end_date": "2016",
         "@id": "way/269844040",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -2458,10 +2563,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844874",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -2510,7 +2621,8 @@
         "end_date": "2016",
         "@id": "way/269843992",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -2587,7 +2699,8 @@
         "end_date": "2016",
         "@id": "way/269843976",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3175,7 +3288,8 @@
         "end_date": "2016",
         "@id": "way/269844462",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -3209,10 +3323,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844720",
         "building": "apartments",
-        "start_date": "2008"
+        "start_date": 2008,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3297,10 +3417,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844815",
         "building": "apartments",
-        "start_date": "2008"
+        "start_date": 2008,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3345,7 +3471,8 @@
         "end_date": "2016",
         "@id": "way/269843809",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -3406,7 +3533,8 @@
         "end_date": "2016",
         "@id": "way/269844001",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3487,7 +3615,8 @@
         "end_date": "2016",
         "@id": "way/269843807",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -3548,7 +3677,8 @@
         "end_date": "2016",
         "@id": "way/269844796",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3593,7 +3723,8 @@
         "end_date": "2016",
         "@id": "way/269844806",
         "building": "house",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -3635,10 +3766,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844805",
         "building": "apartments",
-        "start_date": "2008"
+        "start_date": 2008,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3680,11 +3817,17 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/399276559",
         "building": "yes",
         "source:date": "2016-02-22",
-        "start_date": "2011"
+        "start_date": 2011,
+        "name": "Erve Holzik"
       },
       "geometry": {
         "type": "Polygon",
@@ -3726,12 +3869,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844041"
+        "@id": "way/269844041",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -3872,11 +4021,17 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843619",
         "building": "apartments",
         "building:levels": 4,
-        "start_date": "1995"
+        "start_date": 1995,
+        "name": "Mondriaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3917,7 +4072,8 @@
         "end_date": "2016",
         "@id": "way/269843975",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -3991,12 +4147,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844027"
+        "@id": "way/269844027",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -4083,11 +4245,11 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": 2016,
         "@id": "way/269843502",
         "building": "yes",
         "name": "Cubicus",
-        "start_date": "1970"
+        "start_date": 1970
       },
       "geometry": {
         "type": "Polygon",
@@ -4296,7 +4458,8 @@
         "end_date": "2016",
         "@id": "way/269844760",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -4341,7 +4504,8 @@
         "end_date": "2016",
         "@id": "way/269844383",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -4378,7 +4542,8 @@
         "end_date": "2016",
         "@id": "way/269844551",
         "building": "yes",
-        "start_date": "2005"
+        "start_date": "2005",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -4737,7 +4902,8 @@
         "end_date": "2016",
         "@id": "way/269844852",
         "building": "yes",
-        "start_date": "2007"
+        "start_date": "2007",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -4782,7 +4948,8 @@
         "end_date": "2016",
         "@id": "way/269843991",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -4902,7 +5069,8 @@
         "end_date": "2016",
         "@id": "way/269843968",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -4979,7 +5147,8 @@
         "end_date": "2016",
         "@id": "way/269844577",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -5016,7 +5185,8 @@
         "end_date": "2016",
         "@id": "way/269844626",
         "building": "yes",
-        "start_date": "2005"
+        "start_date": "2005",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -5169,10 +5339,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844028",
         "building": "apartments",
-        "start_date": "1965"
+        "start_date": 1965,
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -5317,10 +5493,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844689",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -5365,7 +5547,8 @@
         "end_date": "2016",
         "@id": "way/269844571",
         "building": "house",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -5453,12 +5636,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844063"
+        "@id": "way/269844063",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -5555,7 +5744,8 @@
         "end_date": "2016",
         "@id": "way/269844220",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": "1992",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -5589,10 +5779,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844222",
         "building": "yes",
-        "start_date": "1997"
+        "start_date": 1997,
+        "name": "Erve Holzik"
       },
       "geometry": {
         "type": "Polygon",
@@ -5629,7 +5825,8 @@
         "end_date": "2016",
         "@id": "way/269844198",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -5666,7 +5863,8 @@
         "end_date": "2016",
         "@id": "way/269844229",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -5703,7 +5901,7 @@
         "end_date": "2016",
         "@id": "way/269843554",
         "building": "yes",
-        "name": "",
+        "name": " ",
         "start_date": "1965"
       },
       "geometry": {
@@ -5957,7 +6155,8 @@
         "end_date": "2016",
         "@id": "way/269844323",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -5994,7 +6193,8 @@
         "end_date": "2016",
         "@id": "way/269844197",
         "building": "yes",
-        "start_date": "1997"
+        "start_date": "1997",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6033,10 +6233,11 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": 2016,
         "@id": "way/269844925",
         "building": "industrial",
-        "start_date": "1965"
+        "start_date": 1965,
+        "name": "Garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -6089,7 +6290,8 @@
         "end_date": "2016",
         "@id": "way/269844818",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6173,7 +6375,8 @@
         "end_date": "2016",
         "@id": "way/269844095",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6210,7 +6413,8 @@
         "end_date": "2016",
         "@id": "way/269844669",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": "1992",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6313,7 +6517,8 @@
         "end_date": "2016",
         "@id": "way/269844128",
         "building": "yes",
-        "start_date": "1978"
+        "start_date": "1978",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6644,10 +6849,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844707",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -6692,7 +6903,8 @@
         "end_date": "2016",
         "@id": "way/269844670",
         "building": "yes",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6733,7 +6945,8 @@
         "end_date": "2016",
         "@id": "way/269843827",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6791,12 +7004,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844021"
+        "@id": "way/269844021",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -6881,7 +7100,8 @@
         "end_date": "2016",
         "@id": "way/269844695",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6926,7 +7146,8 @@
         "end_date": "2016",
         "@id": "way/269844476",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -6960,9 +7181,14 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1995",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1995,
         "name": "Mondriaan",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 4,
         "@id": "way/269843624"
@@ -7006,7 +7232,8 @@
         "end_date": "2016",
         "@id": "way/269844646",
         "building": "yes",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -7089,7 +7316,8 @@
         "end_date": "2016",
         "@id": "way/269844849",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -7136,10 +7364,11 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": 2016,
         "@id": "way/269844546",
         "building": "yes",
-        "start_date": "1915"
+        "start_date": 1915,
+        "name": "Erve Holzik"
       },
       "geometry": {
         "type": "Polygon",
@@ -7600,12 +7829,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269843596"
+        "@id": "way/269843596",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -7679,11 +7914,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "@id": "way/269844892"
+        "@id": "way/269844892",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -7732,7 +7973,8 @@
         "end_date": "2016",
         "@id": "way/269844147",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -7769,7 +8011,8 @@
         "end_date": "2016",
         "@id": "way/269844239",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -7806,7 +8049,8 @@
         "end_date": "2016",
         "@id": "way/269844947",
         "building": "house",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -7856,10 +8100,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844808",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -8115,7 +8365,8 @@
         "end_date": "2016",
         "@id": "way/269844044",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8251,7 +8502,8 @@
         "end_date": "2016",
         "@id": "way/269844459",
         "building": "yes",
-        "start_date": "2006"
+        "start_date": "2006",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8338,7 +8590,8 @@
         "end_date": "2016",
         "@id": "way/269843996",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8415,7 +8668,8 @@
         "end_date": "2016",
         "@id": "way/269844066",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8512,7 +8766,8 @@
         "end_date": "2016",
         "@id": "way/269844888",
         "building": "house",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8561,7 +8816,8 @@
         "end_date": "2016",
         "@id": "way/269844379",
         "building": "yes",
-        "start_date": "2005"
+        "start_date": "2005",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8598,7 +8854,8 @@
         "end_date": "2016",
         "@id": "way/269844335",
         "building": "yes",
-        "start_date": "1978"
+        "start_date": "1978",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8632,11 +8889,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843488",
         "building": "industrial",
         "name": "Biomagnetisch centrum",
-        "start_date": "1992"
+        "start_date": 1992
       },
       "geometry": {
         "type": "Polygon",
@@ -8805,7 +9067,8 @@
         "end_date": "2016",
         "@id": "way/269844540",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8842,7 +9105,8 @@
         "end_date": "2016",
         "@id": "way/269844532",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8879,7 +9143,8 @@
         "end_date": "2016",
         "@id": "way/269844434",
         "building": "yes",
-        "start_date": "2007"
+        "start_date": "2007",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8916,7 +9181,8 @@
         "end_date": "2016",
         "@id": "way/269844682",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": "1992",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -8954,11 +9220,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
+        "end_date": 2016,
         "building": "residential",
         "building:levels": 1,
-        "@id": "way/269844009"
+        "@id": "way/269844009",
+        "name": "Witbreuksweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -9039,7 +9311,8 @@
         "end_date": "2016",
         "@id": "way/269844321",
         "building": "yes",
-        "start_date": "1997"
+        "start_date": "1997",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -9076,7 +9349,8 @@
         "end_date": "2016",
         "@id": "way/269844006",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -9157,7 +9431,8 @@
         "end_date": "2016",
         "@id": "way/269844303",
         "building": "yes",
-        "start_date": "1978"
+        "start_date": "1978",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -9191,10 +9466,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844784",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -9239,7 +9520,8 @@
         "end_date": "2016",
         "@id": "way/269844223",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -10380,7 +10662,8 @@
         "start_date": "1965",
         "Name": "Hall A",
         "info": "",
-        "building": "yes"
+        "building": "yes",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -10457,7 +10740,8 @@
         "end_date": "2016",
         "@id": "way/269843998",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -10531,12 +10815,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844043"
+        "@id": "way/269844043",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -10625,7 +10915,8 @@
         "end_date": "2016",
         "@id": "way/269843844",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -10691,7 +10982,8 @@
         "@id": "relation/3611487",
         "building": "apartments",
         "start_date": "2007",
-        "type": "multipolygon"
+        "type": "multipolygon",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -10818,7 +11110,8 @@
         "end_date": "2016",
         "@id": "way/269844217",
         "building": "yes",
-        "start_date": "2005"
+        "start_date": "2005",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -10860,7 +11153,8 @@
         "end_date": "2016",
         "@id": "way/269844997",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -10910,10 +11204,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844778",
         "building": "apartments",
-        "start_date": "2008"
+        "start_date": 2008,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -10955,10 +11255,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
-        "@id": "way/269843817"
+        "@id": "way/269843817",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -11019,7 +11325,8 @@
         "end_date": "2016",
         "@id": "way/269844026",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -11104,7 +11411,8 @@
         "end_date": "2016",
         "@id": "way/269844396",
         "building": "yes",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -11141,7 +11449,8 @@
         "end_date": "2016",
         "@id": "way/269845014",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -11198,7 +11507,8 @@
         "end_date": "2016",
         "@id": "way/269844038",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -11284,10 +11594,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844794",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": " Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -11329,11 +11645,17 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844801",
         "building": "apartments",
         "building:levels": 3,
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -11375,11 +11697,17 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "relation/3611486",
         "building": "commercial",
-        "start_date": "1988",
-        "type": "multipolygon"
+        "start_date": 1988,
+        "type": "multipolygon",
+        "name": " De Veste"
       },
       "geometry": {
         "type": "Polygon",
@@ -11658,10 +11986,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
-        "@id": "way/269844890"
+        "@id": "way/269844890",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -11707,10 +12041,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844019",
         "building": "apartments",
-        "start_date": "1965"
+        "start_date": 1965,
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -11873,7 +12213,8 @@
         "end_date": "2016",
         "@id": "way/269844170",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -11910,7 +12251,8 @@
         "end_date": "2016",
         "@id": "way/269843980",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -11984,12 +12326,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844039"
+        "@id": "way/269844039",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -12078,7 +12426,8 @@
         "end_date": "2016",
         "@id": "way/269844165",
         "building": "yes",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -12112,11 +12461,17 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843617",
         "building": "apartments",
         "building:levels": 3,
-        "start_date": "1995"
+        "start_date": 1995,
+        "name": "Mondriaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -12154,12 +12509,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269843602"
+        "@id": "way/269843602",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -12248,7 +12609,8 @@
         "end_date": "2016",
         "@id": "way/269844667",
         "building": "house",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -12331,7 +12693,8 @@
         "end_date": "2016",
         "@id": "way/269844602",
         "building": "yes",
-        "start_date": "1962"
+        "start_date": "1962",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -12413,9 +12776,9 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "old_name": "BB-gebouw",
-        "start_date": "1964",
+        "start_date": 1964,
         "name": "Spiegel",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "yes",
         "@id": "way/269843758",
         "info": "The 'Spiegel' building is the home base of various support services of the University of Twente, in the area of personnel affairs, finance, ICT support, communication and policy. The 'Spiegel' building also accommodates various lecture halls, a canteen and project spaces that students can use. The 'Spiegel' also houses the Study Information Centre (SI) of the University of Twente. In the Study Information Centre students answer questions from pre-university education pupils across the various study programmes of the University of Twente.Â <b>Architecture by Wim van Tijen</b> This building dates from the heyday of the New Objectivity. The architecture is proud, with clean, imposing lines and few ties toÂ the surroundings. Initially, Van Tijen wanted to put the building on legs, inspired as he was by the famous architect Le Corbusier. The building was given an energy-saving skin in 2000; hence its new name 'Spiegel' (Mirror).",
@@ -12809,7 +13172,8 @@
         "end_date": "2016",
         "@id": "way/269844895",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -12858,7 +13222,8 @@
         "end_date": "2016",
         "@id": "way/269844486",
         "building": "yes",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -12892,10 +13257,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843985",
         "building": "yes",
-        "start_date": "1971"
+        "start_date": 1971,
+        "name": "Witbreuksweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -13026,7 +13397,8 @@
         "end_date": "2016",
         "@id": "way/269844024",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -13186,7 +13558,8 @@
         "end_date": "2016",
         "@id": "way/269843871",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -13260,7 +13633,8 @@
         "end_date": "2016",
         "@id": "way/269844511",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -13294,11 +13668,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "@id": "way/269844903"
+        "@id": "way/269844903",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -13382,10 +13762,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843984",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -13459,10 +13845,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
-        "@id": "way/269844884"
+        "@id": "way/269844884",
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -13710,7 +14102,8 @@
         "end_date": "2016",
         "@id": "way/269844687",
         "building": "house",
-        "start_date": "1969"
+        "start_date": "1969",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -13755,7 +14148,8 @@
         "end_date": "2016",
         "@id": "way/269844680",
         "building": "yes",
-        "start_date": "2005"
+        "start_date": "2005",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -13796,7 +14190,8 @@
         "end_date": "2016",
         "@id": "way/269844436",
         "building": "yes",
-        "start_date": "1996"
+        "start_date": "1996",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -13833,7 +14228,8 @@
         "end_date": "2016",
         "@id": "way/269844015",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -13962,10 +14358,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844627",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -14003,10 +14405,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
-        "@id": "way/269844732"
+        "@id": "way/269844732",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -14207,7 +14615,8 @@
         "@id": "way/101168693",
         "building": "yes",
         "layer": 1,
-        "start_date": "2009"
+        "start_date": "2009",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -14244,7 +14653,8 @@
         "end_date": "2016",
         "@id": "way/269844377",
         "building": "yes",
-        "start_date": "1978"
+        "start_date": "1978",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -14587,7 +14997,8 @@
         "end_date": "2016",
         "@id": "way/269843971",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -14702,7 +15113,8 @@
         "end_date": "2016",
         "@id": "way/269843886",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -14825,7 +15237,8 @@
         "end_date": "2016",
         "@id": "way/269806092",
         "building": "yes",
-        "start_date": "1997"
+        "start_date": "1997",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -14859,10 +15272,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
-        "@id": "way/269844898"
+        "@id": "way/269844898",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -14913,10 +15332,11 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": 2016,
         "@id": "way/269844098",
         "building": "industrial",
-        "start_date": "1915"
+        "start_date": 1915,
+        "name": "Erve Holzik"
       },
       "geometry": {
         "type": "Polygon",
@@ -15063,7 +15483,8 @@
         "end_date": "2016",
         "@id": "way/269843973",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -15137,10 +15558,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844829",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -15182,11 +15609,17 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "relation/3611488",
         "building": "apartments",
-        "start_date": "1965",
-        "type": "multipolygon"
+        "start_date": 1965,
+        "type": "multipolygon",
+        "name": " Matenweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -15589,7 +16022,8 @@
         "end_date": "2016",
         "@id": "way/269844685",
         "building": "house",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -15634,7 +16068,8 @@
         "end_date": "2016",
         "@id": "way/269844017",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -15719,7 +16154,8 @@
         "end_date": "2016",
         "@id": "way/269844675",
         "building": "yes",
-        "start_date": "1997"
+        "start_date": "1997",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -15760,7 +16196,8 @@
         "end_date": "2016",
         "@id": "way/269844337",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -15945,7 +16382,8 @@
         "end_date": "2016",
         "@id": "way/269844266",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": "1992",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -15979,12 +16417,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1995",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1995,
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 3,
         "website": "http://www.acasa.nl/en/totaal_bezit/Mondriaan%20Complex%20ingericht.doc/",
-        "@id": "way/269843621"
+        "@id": "way/269843621",
+        "name": "Mondriaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -16100,10 +16544,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844857",
         "building": "apartments",
-        "start_date": "2008"
+        "start_date": 2008,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -16150,10 +16600,11 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": 2016,
         "@id": "way/269844654",
         "building": "industrial",
-        "start_date": "1965"
+        "start_date": 1965,
+        "name": "Garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -16194,7 +16645,8 @@
         "end_date": "2016",
         "@id": "way/269844018",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -16279,7 +16731,8 @@
         "end_date": "2016",
         "@id": "way/269844029",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -16364,7 +16817,8 @@
         "end_date": "2016",
         "@id": "way/269844122",
         "building": "yes",
-        "start_date": "1978"
+        "start_date": "1978",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -16449,10 +16903,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844331",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": 1992,
+        "name": "Keet "
       },
       "geometry": {
         "type": "Polygon",
@@ -16489,7 +16949,8 @@
         "end_date": "2016",
         "@id": "way/269844099",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -16523,10 +16984,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
-        "@id": "way/269844872"
+        "@id": "way/269844872",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -16575,7 +17042,8 @@
         "end_date": "2016",
         "@id": "way/269844333",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -16612,7 +17080,8 @@
         "end_date": "2016",
         "@id": "way/269843876",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -16678,10 +17147,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844810",
         "building": "yes",
-        "start_date": "2010"
+        "start_date": 2010,
+        "name": "Keet"
       },
       "geometry": {
         "type": "Polygon",
@@ -16726,7 +17201,8 @@
         "end_date": "2016",
         "@id": "way/269844403",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -16760,11 +17236,17 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843628",
         "building": "apartments",
         "building:levels": 2,
-        "start_date": "1995"
+        "start_date": 1995,
+        "name": "Mondriaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -16916,7 +17398,8 @@
         "end_date": "2016",
         "@id": "way/269844439",
         "building": "yes",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -16950,11 +17433,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "@id": "way/269844879"
+        "@id": "way/269844879",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -17000,10 +17489,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844407",
         "building": "industrial",
-        "start_date": "1992"
+        "start_date": 1992,
+        "name": "Windpark"
       },
       "geometry": {
         "type": "Polygon",
@@ -17041,7 +17536,8 @@
         "@id": "way/101168690",
         "building": "yes",
         "layer": 1,
-        "start_date": "2009"
+        "start_date": "2009",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -17075,11 +17571,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "@id": "way/269844882"
+        "@id": "way/269844882",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -17213,12 +17715,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269843599"
+        "@id": "way/269843599",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -17304,10 +17812,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844406",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": 1992,
+        "name": "Hogedruklab"
       },
       "geometry": {
         "type": "Polygon",
@@ -17344,7 +17858,8 @@
         "end_date": "2016",
         "@id": "way/269844366",
         "building": "yes",
-        "start_date": "2006"
+        "start_date": "2006",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -17381,7 +17896,8 @@
         "end_date": "2016",
         "@id": "way/269844505",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": "1992",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -17415,10 +17931,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844662",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -17663,7 +18185,8 @@
         "end_date": "2016",
         "@id": "way/269844088",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -17700,7 +18223,8 @@
         "end_date": "2016",
         "@id": "way/269844194",
         "building": "yes",
-        "start_date": "1997"
+        "start_date": "1997",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -17734,10 +18258,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844422",
         "building": "yes",
-        "start_date": "1997"
+        "start_date": 1997,
+        "name": "Erve Holzik"
       },
       "geometry": {
         "type": "Polygon",
@@ -17774,7 +18304,8 @@
         "end_date": "2016",
         "@id": "way/269844319",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -17811,7 +18342,8 @@
         "end_date": "2016",
         "@id": "way/269844544",
         "building": "yes",
-        "start_date": "1997"
+        "start_date": "1997",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -17848,7 +18380,8 @@
         "end_date": "2016",
         "@id": "way/269843789",
         "building": "house",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -17909,7 +18442,8 @@
         "end_date": "2016",
         "@id": "way/269843990",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -18025,10 +18559,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844621",
         "building": "yes",
-        "start_date": "1971"
+        "start_date": 1971,
+        "name": "Witbreuksweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -18069,7 +18609,8 @@
         "end_date": "2016",
         "@id": "way/269844182",
         "building": "yes",
-        "start_date": "2006"
+        "start_date": "2006",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -18214,12 +18755,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844036"
+        "@id": "way/269844036",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -18308,7 +18855,8 @@
         "end_date": "2016",
         "@id": "way/269844125",
         "building": "yes",
-        "start_date": "1978"
+        "start_date": "1978",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -18345,7 +18893,8 @@
         "end_date": "2016",
         "@id": "way/269844518",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": "1992",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -18379,10 +18928,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844032",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -18522,7 +19077,8 @@
         "end_date": "2016",
         "@id": "way/269843938",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -18592,10 +19148,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843593",
         "building": "yes",
-        "start_date": "1971"
+        "start_date": 1971,
+        "name": "Witbreuksweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -18672,7 +19234,8 @@
         "end_date": "2016",
         "@id": "way/269844023",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -18973,11 +19536,11 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": 2016,
         "@id": "way/269843805",
         "building": "apartments",
-        "start_date": "1966",
-        "name": ""
+        "start_date": 1966,
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -19038,7 +19601,8 @@
         "end_date": "2016",
         "@id": "way/269843881",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -19166,7 +19730,8 @@
         "end_date": "2016",
         "@id": "way/279948333",
         "building": "yes",
-        "start_date": "2012"
+        "start_date": "2012",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -19200,10 +19765,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843862",
         "building": "apartments",
-        "start_date": "1967"
+        "start_date": 1967,
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -19362,7 +19933,8 @@
         "end_date": "2016",
         "@id": "way/269844183",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -19396,10 +19968,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844804",
         "building": "apartments",
-        "start_date": "2008"
+        "start_date": 2008,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -19441,10 +20019,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844941",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -19497,7 +20081,8 @@
         "end_date": "2016",
         "@id": "way/269844858",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -19833,12 +20418,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844020"
+        "@id": "way/269844020",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -19920,10 +20511,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844034",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -20282,7 +20879,8 @@
         "end_date": "2016",
         "@id": "way/269844232",
         "building": "yes",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -20316,10 +20914,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269845047",
         "building": "yes",
-        "start_date": "1992"
+        "start_date": 1992,
+        "name": "Hogedruklab"
       },
       "geometry": {
         "type": "Polygon",
@@ -20804,11 +21408,17 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843626",
         "building": "apartments",
         "building:levels": 4,
-        "start_date": "1995"
+        "start_date": 1995,
+        "name": "Mondriaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -20853,7 +21463,8 @@
         "end_date": "2016",
         "@id": "way/269843888",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -20922,7 +21533,8 @@
         "end_date": "2016",
         "@id": "way/269844154",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -20956,10 +21568,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
-        "@id": "way/269844798"
+        "@id": "way/269844798",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -21004,7 +21622,8 @@
         "end_date": "2016",
         "@id": "way/269844649",
         "building": "yes",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -21045,7 +21664,8 @@
         "end_date": "2016",
         "@id": "way/269845051",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -21099,11 +21719,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843630",
         "building": "yes",
-        "name": "Motor stalling",
-        "start_date": "1978"
+        "name": "Motorstalling",
+        "start_date": 1978
       },
       "geometry": {
         "type": "Polygon",
@@ -21176,7 +21801,8 @@
         "end_date": "2016",
         "@id": "way/269844724",
         "building": "house",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -21218,10 +21844,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844411",
         "building": "yes",
-        "start_date": "2007"
+        "start_date": 2007,
+        "name": "Garage"
       },
       "geometry": {
         "type": "Polygon",
@@ -21255,12 +21887,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1971",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1971,
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "dormitory",
         "building:levels": 4,
-        "@id": "way/269844035"
+        "@id": "way/269844035",
+        "name": "Piramide"
       },
       "geometry": {
         "type": "Polygon",
@@ -21349,7 +21987,8 @@
         "end_date": "2016",
         "@id": "way/269843974",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -21541,11 +22180,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "@id": "way/269844737"
+        "@id": "way/269844737",
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -21587,10 +22232,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844722",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -21635,7 +22286,8 @@
         "end_date": "2016",
         "@id": "way/269844382",
         "building": "yes",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -21672,7 +22324,8 @@
         "end_date": "2016",
         "@id": "way/269843863",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -21734,10 +22387,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843982",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -21814,7 +22473,8 @@
         "end_date": "2016",
         "@id": "way/269843855",
         "building": "house",
-        "start_date": "1968"
+        "start_date": "1968",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -22035,10 +22695,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269844814",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Calslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -22595,7 +23261,8 @@
         "end_date": "2016",
         "@id": "way/269844025",
         "building": "house",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -22680,7 +23347,8 @@
         "end_date": "2016",
         "@id": "way/269845010",
         "building": "house",
-        "start_date": "1965"
+        "start_date": "1965",
+        "name": " "
       },
       "geometry": {
         "type": "Polygon",
@@ -22734,10 +23402,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269843837",
         "building": "apartments",
-        "start_date": "1969"
+        "start_date": 1969,
+        "name": "Campuslaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -22799,10 +23473,16 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "@id": "way/269845048",
         "building": "industrial",
-        "start_date": "1992"
+        "start_date": 1992,
+        "name": " Keet"
       },
       "geometry": {
         "type": "Polygon",
@@ -22857,7 +23537,8 @@
       "type": "Feature",
       "properties": {
         "end_date": "1964",
-        "start_date": "1950"
+        "start_date": "1950",
+        "name": "Het Theehuisje"
       },
       "geometry": {
         "type": "Polygon",
@@ -22895,8 +23576,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -22974,8 +23656,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23029,8 +23712,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23084,8 +23768,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23139,8 +23824,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23194,8 +23880,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23233,8 +23920,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23296,8 +23984,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23371,8 +24060,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": "1950",
-        "end_date": "1970"
+        "start_date": 1950,
+        "end_date": 1970,
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23419,7 +24109,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1967"
+        "end_date": "1967",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23458,7 +24149,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1967"
+        "end_date": "1967",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23497,7 +24189,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1970"
+        "end_date": "1970",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23536,7 +24229,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1970"
+        "end_date": "1970",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23583,7 +24277,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1970"
+        "end_date": "1970",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23622,7 +24317,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1970"
+        "end_date": "1970",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23677,7 +24373,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1970"
+        "end_date": "1970",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23732,7 +24429,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1967"
+        "end_date": "1967",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23779,7 +24477,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1968"
+        "end_date": "1968",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23830,7 +24529,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1968"
+        "end_date": "1968",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23885,7 +24585,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1964"
+        "end_date": "1964",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23924,7 +24625,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1964"
+        "end_date": "1964",
+        "name": "Huis"
       },
       "geometry": {
         "type": "Polygon",
@@ -23963,7 +24665,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1964"
+        "end_date": "1964",
+        "name": "Boerderij"
       },
       "geometry": {
         "type": "Polygon",
@@ -24010,7 +24713,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "1964"
+        "end_date": "1964",
+        "name": "Boerderij"
       },
       "geometry": {
         "type": "Polygon",
@@ -24049,7 +24753,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1950",
-        "end_date": "2004"
+        "end_date": "2004",
+        "name": "Boerderij"
       },
       "geometry": {
         "type": "Polygon",
