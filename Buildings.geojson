@@ -12413,11 +12413,14 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "old_name": "BB-gebouw",
-        "start_date": "1964",
+        "start_date": 1964,
         "name": "Spiegel",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "yes",
-        "@id": "way/269843758"
+        "@id": "way/269843758",
+        "info": "The 'Spiegel' building is the home base of various support services of the University of Twente, in the area of personnel affairs, finance, ICT support, communication and policy. The 'Spiegel' building also accommodates various lecture halls, a canteen and project spaces that students can use. The 'Spiegel' also houses the Study Information Centre (SI) of the University of Twente. In the Study Information Centre students answer questions from pre-university education pupils across the various study programmes of the University of Twente.Â <b>Architecture by Wim van Tijen</b> This building dates from the heyday of the New Objectivity. The architecture is proud, with clean, imposing lines and few ties toÂ the surroundings. Initially, Van Tijen wanted to put the building on legs, inspired as he was by the famous architect Le Corbusier. The building was given an energy-saving skin in 2000; hence its new name 'Spiegel' (Mirror).",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic9/acb9260103db046d0035cbf403723b0b007b14cd030701c13c03000080.jpg",
+        "imgurl": "http://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen/Spiegel?fc=browse"
       },
       "geometry": {
         "type": "Polygon",
