@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -8,6 +9,7 @@
         "name": "Oude Horstlindeweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848459,
@@ -17,8 +19,7 @@
             6.848302,
             52.24443
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0082c238f932516609bf2ee65bd49455"
     },
@@ -32,6 +33,7 @@
         "name": "Reelaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849309,
@@ -69,8 +71,7 @@
             6.845875,
             52.249167
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "00c89e813df3c0b987c887f806fe7b2b"
     },
@@ -83,6 +84,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847923,
@@ -96,8 +98,7 @@
             6.847785,
             52.251751
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "00cbd5558381d93dabdb2786cf379820"
     },
@@ -111,6 +112,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852027,
@@ -148,8 +150,7 @@
             6.848509,
             52.243188
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "019906cde76e03c4ffaa5a8acba0ea72"
     },
@@ -162,6 +163,7 @@
         "surface": "paving_stones"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850291,
@@ -171,8 +173,7 @@
             6.850333,
             52.251335
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "019910b5038e946621a7ceb2d7a2f8b6"
     },
@@ -186,6 +187,7 @@
         "surface": "paving_stones:30"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854762,
@@ -195,8 +197,7 @@
             6.854448,
             52.242674
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "01e81f0fd5b4b26d5d3793e2456a54e1"
     },
@@ -209,6 +210,7 @@
         "surface": "mud"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.863249,
@@ -230,8 +232,7 @@
             6.861449,
             52.241937
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "021b96090c71cdde7de2db35f112c92f"
     },
@@ -243,6 +244,7 @@
         "highway": "cycleway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857407,
@@ -256,8 +258,7 @@
             6.856988,
             52.238222
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "025ed8808851be5a92ab3f20a0e8ea03"
     },
@@ -268,6 +269,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847277,
@@ -277,8 +279,7 @@
             6.846898,
             52.251544
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "032c02cce445575767a1fca3cb313561"
     },
@@ -289,6 +290,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854242,
@@ -318,8 +320,7 @@
             6.852648,
             52.243352
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "03b5c077e0b0f53a80f097a5454bf304"
     },
@@ -332,6 +333,7 @@
         "surface": "paved"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850992,
@@ -341,8 +343,7 @@
             6.851329,
             52.250515
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0417d561966c4649ed0d216566edbbac"
     },
@@ -355,6 +356,7 @@
         "name": "Drienerbeeklaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84728,
@@ -380,8 +382,7 @@
             6.845316,
             52.240851
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "04a7a6e35140df8294336ceb4020579b"
     },
@@ -395,6 +396,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850992,
@@ -412,8 +414,7 @@
             6.851262,
             52.249668
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0b78f937d390df569cff94cd034f7a24"
     },
@@ -425,6 +426,7 @@
         "tracktype": "grade4"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854969,
@@ -438,8 +440,7 @@
             6.853494,
             52.249236
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0cf3417d8f634f40f1a6ae31c7274dad"
     },
@@ -453,6 +454,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850304,
@@ -494,8 +496,7 @@
             6.853756,
             52.247678
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0d91d2f54f6ecccc6363724fd2a8bbdd"
     },
@@ -508,6 +509,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852289,
@@ -533,8 +535,7 @@
             6.850157,
             52.247253
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0e51ecf9493a2bc15080346b65c94857"
     },
@@ -549,6 +550,7 @@
         "oneway": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850567,
@@ -570,8 +572,7 @@
             6.849756,
             52.238345
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0edb9b7f2d9c4cf187c1fd3e56921074"
     },
@@ -584,6 +585,7 @@
         "name": "Promenade"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852904,
@@ -593,8 +595,7 @@
             6.852804,
             52.243293
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0f98e2781e928f7c6c45120698b2b1c6"
     },
@@ -605,6 +606,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.863588,
@@ -614,8 +616,7 @@
             6.863091,
             52.237193
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "10226fdd02db0aee6203829b212d7cdd"
     },
@@ -628,6 +629,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856401,
@@ -637,8 +639,7 @@
             6.856617,
             52.242271
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "113f9f1a5c17b1f9d0aa8183b909d1cd"
     },
@@ -649,6 +650,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854929,
@@ -662,8 +664,7 @@
             6.855454,
             52.245654
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "11fe2bc8d7255367ca25e3d34287d345"
     },
@@ -675,6 +676,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855072,
@@ -684,8 +686,7 @@
             6.85471,
             52.24313
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "130e49bba04d8d8bab57194d5bebed14"
     },
@@ -697,6 +698,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846898,
@@ -722,8 +724,7 @@
             6.846952,
             52.252135
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "13f3a00252ced457a10b96627cce1bc8"
     },
@@ -736,6 +737,7 @@
         "surface": "cobblestone"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854929,
@@ -761,8 +763,7 @@
             6.854688,
             52.245774
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "143d316e458d3ff2499a6404e4d30d05"
     },
@@ -774,6 +775,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846334,
@@ -791,8 +793,7 @@
             6.8459,
             52.241794
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "15eb787f1992b630ccf047ffba66b4af"
     },
@@ -803,6 +804,7 @@
         "highway": "cycleway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84768,
@@ -816,8 +818,7 @@
             6.847954,
             52.246854
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "1a64b0a95b87a4e0d30fc7538c25f198"
     },
@@ -830,6 +831,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856576,
@@ -851,8 +853,7 @@
             6.856775,
             52.238829
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "1b5467ce0b5ccdbb69f40b448199797f"
     },
@@ -865,6 +866,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856731,
@@ -878,8 +880,7 @@
             6.856964,
             52.242608
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "1e026728ec095b0ded9640850e43c06d"
     },
@@ -891,6 +892,7 @@
         "highway": "path"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855081,
@@ -900,8 +902,7 @@
             6.854436,
             52.250118
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "20d333c0f03db238a0a4c623d53716d3"
     },
@@ -913,6 +914,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857046,
@@ -930,8 +932,7 @@
             6.856496,
             52.240739
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2125b5dc110e5f63404eb616e0ca2cff"
     },
@@ -946,6 +947,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84423,
@@ -967,8 +969,7 @@
             6.845104,
             52.240894
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "21991526d94e7fe981d5166dc6e7a420"
     },
@@ -981,6 +982,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852027,
@@ -990,8 +992,7 @@
             6.851977,
             52.241959
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "21a740c8f88c106c4e44709fa1512f5a"
     },
@@ -1002,6 +1003,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.863611,
@@ -1015,8 +1017,7 @@
             6.864034,
             52.237661
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2228bfa361af66fdca11a6187b1e5e46"
     },
@@ -1028,6 +1029,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.853596,
@@ -1041,8 +1043,7 @@
             6.852,
             52.25211
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "233cd2cded46a86d0f0ce2e62a171a16"
     },
@@ -1054,6 +1055,7 @@
         "highway": "cycleway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857721,
@@ -1063,8 +1065,7 @@
             6.857865,
             52.239119
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2641abb7ebf87e0c3f80752279f75a2c"
     },
@@ -1076,6 +1077,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855744,
@@ -1085,8 +1087,7 @@
             6.85618,
             52.24307
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "26f160410624298489110897dd3230a0"
     },
@@ -1099,6 +1100,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847702,
@@ -1120,8 +1122,7 @@
             6.847777,
             52.251919
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "282ed73c88d1c6d4ae6b898884e73640"
     },
@@ -1134,6 +1135,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852,
@@ -1143,8 +1145,7 @@
             6.850399,
             52.25215
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "28b5dc006d4bab5301e48321d8478503"
     },
@@ -1157,6 +1158,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848901,
@@ -1194,8 +1196,7 @@
             6.84792,
             52.24715
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2962c7385d2732f16320aaee351e67c7"
     },
@@ -1208,6 +1209,7 @@
         "layer": "-1"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856988,
@@ -1217,8 +1219,7 @@
             6.857721,
             52.238966
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "29bf0f3d08a9fcefd54a9ed557ae49b8"
     },
@@ -1230,6 +1231,7 @@
         "highway": "path"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854436,
@@ -1243,8 +1245,7 @@
             6.851449,
             52.250664
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2e474f09ab051b99ae59fad414888957"
     },
@@ -1255,6 +1256,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846575,
@@ -1264,8 +1266,7 @@
             6.846633,
             52.245562
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2e7e4ffb2f44852a50182241184af57e"
     },
@@ -1277,6 +1278,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855744,
@@ -1290,8 +1292,7 @@
             6.855072,
             52.242919
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2f14e500daa3d6a0d2ed31b36dfe33a1"
     },
@@ -1305,6 +1306,7 @@
         "surface": "paving_stones"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848509,
@@ -1354,8 +1356,7 @@
             6.84592,
             52.244713
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2f4f8163c54a99a86ac82edda8f04662"
     },
@@ -1366,6 +1367,7 @@
         "highway": "path"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846352,
@@ -1403,8 +1405,7 @@
             6.849049,
             52.251568
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "306128500963975c6088a55a3ae692ee"
     },
@@ -1416,6 +1417,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854586,
@@ -1425,8 +1427,7 @@
             6.854393,
             52.238479
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "30982f56783e7eea02a109c7f54fe62d"
     },
@@ -1439,6 +1440,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850304,
@@ -1448,8 +1450,7 @@
             6.848901,
             52.246136
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "34bca821961f1af013a113052df468a9"
     },
@@ -1462,6 +1463,7 @@
         "oneway": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850874,
@@ -1471,8 +1473,7 @@
             6.850567,
             52.239103
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "34d67f5fa6674e99658324b2d9ea73a1"
     },
@@ -1483,6 +1484,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848221,
@@ -1492,8 +1494,7 @@
             6.848506,
             52.240309
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "36e9c59e9bf17497c85d4fe843cbf85a"
     },
@@ -1506,6 +1507,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851049,
@@ -1515,8 +1517,7 @@
             6.851102,
             52.249323
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "3709a9abcd13ada79e0a557da48da17c"
     },
@@ -1529,6 +1530,7 @@
         "surface": "mud"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861907,
@@ -1538,8 +1540,7 @@
             6.861449,
             52.241937
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "374976bfcf5e2bbbf0a6095bee53c009"
     },
@@ -1553,6 +1554,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850277,
@@ -1562,8 +1564,7 @@
             6.850304,
             52.245013
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "37ad0b88b3172a119ad402ff28b7066d"
     },
@@ -1576,6 +1577,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847785,
@@ -1589,8 +1591,7 @@
             6.847395,
             52.251904
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "3844c07bfb5f4ee1b17f9e0d4ca97fec"
     },
@@ -1602,6 +1603,7 @@
         "name": "Dienstweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854961,
@@ -1627,8 +1629,7 @@
             6.85249,
             52.23952
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "3ed6f54d10c0c68f1218b3b0437c5448"
     },
@@ -1641,6 +1642,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850399,
@@ -1666,8 +1668,7 @@
             6.84472,
             52.251863
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "3f1d6ff2c5035c760a6246fb5e04de3b"
     },
@@ -1681,6 +1682,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.864263,
@@ -1694,8 +1696,7 @@
             6.861907,
             52.24202
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "40ffc0e93488180eca651177e02b0653"
     },
@@ -1706,6 +1707,7 @@
         "highway": "steps"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.859963,
@@ -1715,8 +1717,7 @@
             6.859977,
             52.238214
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "45251a321987a895d60b894bb705344f"
     },
@@ -1728,6 +1729,7 @@
         "highway": "cycleway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85847,
@@ -1737,8 +1739,7 @@
             6.858125,
             52.237951
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "45c59415530832a7ffc4da4818ae9d40"
     },
@@ -1752,6 +1753,7 @@
         "tracktype": "grade3"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861738,
@@ -1761,8 +1763,7 @@
             6.86136,
             52.241164
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "46c0b7a3c50e82e39ce0d34e9748b156"
     },
@@ -1776,6 +1777,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852166,
@@ -1789,8 +1791,7 @@
             6.852027,
             52.242018
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "470034c1cb87e18c6c5c16c5374c0e5a"
     },
@@ -1804,6 +1805,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855066,
@@ -1817,8 +1819,7 @@
             6.854791,
             52.241696
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "48ce18b00c4cd339ac4047a113c97f3d"
     },
@@ -1835,6 +1836,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856617,
@@ -1844,8 +1846,7 @@
             6.856731,
             52.242379
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4b4393febdcb19210c75b116ff4d8eac"
     },
@@ -1857,6 +1858,7 @@
         "name": "'t Ritke"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847418,
@@ -1882,8 +1884,7 @@
             6.84728,
             52.240345
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4b70f9b05bc6f4a276571bf909b9e940"
     },
@@ -1897,6 +1898,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855873,
@@ -1926,8 +1928,7 @@
             6.85585,
             52.238205
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4bf2874cb8a3e4a5a92349fce56faaf8"
     },
@@ -1939,6 +1940,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846139,
@@ -1952,8 +1954,7 @@
             6.846192,
             52.2426
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4c0ec15bfab692d220035d3d41b6e9bd"
     },
@@ -1965,6 +1966,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855146,
@@ -1974,8 +1976,7 @@
             6.85471,
             52.24313
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4fc3cc02118c776d8450611c5e498b1d"
     },
@@ -1989,6 +1990,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.8453,
@@ -1998,8 +2000,7 @@
             6.84472,
             52.251863
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4fe53a5d7c6df2411faea5ae711f7e0d"
     },
@@ -2015,6 +2016,7 @@
         "oneway": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849921,
@@ -2036,8 +2038,7 @@
             6.850746,
             52.239063
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "50a8bcc5017053f442d04d029f31f061"
     },
@@ -2050,6 +2051,7 @@
         "name": "Drienerbeeklaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84976,
@@ -2067,8 +2069,7 @@
             6.84728,
             52.240345
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "52f0279a57afc32ca1ac3177d9d5fdd9"
     },
@@ -2080,6 +2081,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.862835,
@@ -2089,8 +2091,7 @@
             6.8631,
             52.239904
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "54f4e248e2dd784e4e119d24c088e995"
     },
@@ -2101,6 +2102,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858081,
@@ -2114,8 +2116,7 @@
             6.857863,
             52.237332
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "55056af730d7b7b1f33c5d8b263c16e8"
     },
@@ -2129,6 +2130,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84578,
@@ -2146,8 +2148,7 @@
             6.845875,
             52.249167
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "559e9fa3b8b820fcc81b2dd51316ed9e"
     },
@@ -2159,6 +2160,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847714,
@@ -2172,8 +2174,7 @@
             6.847628,
             52.241217
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "57215a0c1e6d9d6189ca317834e6c1e2"
     },
@@ -2188,6 +2189,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84423,
@@ -2229,8 +2231,7 @@
             6.842888,
             52.240694
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "57b2c2f6eb4ba2607b1e564a14b6c5aa"
     },
@@ -2242,6 +2243,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856162,
@@ -2275,8 +2277,7 @@
             6.857096,
             52.236543
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5925dd3ca7c29a51f5e03b169e965fff"
     },
@@ -2290,6 +2291,7 @@
         "surface": "paving_stones:30"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854448,
@@ -2303,8 +2305,7 @@
             6.852904,
             52.243255
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5abc4808bf8945f0475c4587ef72b48f"
     },
@@ -2319,6 +2320,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.844529,
@@ -2328,8 +2330,7 @@
             6.84423,
             52.240936
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5adeab436403f25af7ae73b7c5ab71b1"
     },
@@ -2342,6 +2343,7 @@
         "name": "Drienerbeeklaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850567,
@@ -2351,8 +2353,7 @@
             6.850746,
             52.239063
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5aee20f3739cf8257fddf0563c868ace"
     },
@@ -2364,6 +2365,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857922,
@@ -2381,8 +2383,7 @@
             6.857237,
             52.236554
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5b912d1096e61a0917cf0cc8ddda58f8"
     },
@@ -2395,6 +2396,7 @@
         "service": "driveway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85898,
@@ -2408,8 +2410,7 @@
             6.859977,
             52.238214
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5bdcf28c609d339b6f397cecb37aed6d"
     },
@@ -2423,6 +2424,7 @@
         "tracktype": "grade5"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851449,
@@ -2456,8 +2458,7 @@
             6.853596,
             52.25201
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5c75cacc1c678a1925e8b6f3c0996299"
     },
@@ -2472,6 +2473,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856964,
@@ -2509,8 +2511,7 @@
             6.853756,
             52.247678
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5db04d4d48380c98444c1c1c622dac46"
     },
@@ -2521,6 +2522,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845937,
@@ -2534,8 +2536,7 @@
             6.845804,
             52.243856
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "602b8a8c136631bb0ea0c11ccc6fb345"
     },
@@ -2548,6 +2549,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846283,
@@ -2557,8 +2559,7 @@
             6.846334,
             52.241742
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "603cc40563f17aace408be0aee82e2eb"
     },
@@ -2571,6 +2572,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851102,
@@ -2592,8 +2594,7 @@
             6.851262,
             52.249668
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "604692024a173fd95ad54483941d6d78"
     },
@@ -2605,6 +2606,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.8555,
@@ -2614,8 +2616,7 @@
             6.855146,
             52.243561
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "60dced29bb1e2c9af7a6f7f1c6f3557b"
     },
@@ -2629,6 +2630,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852199,
@@ -2638,8 +2640,7 @@
             6.852166,
             52.241934
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "61095b366faf6487f30ed5c7afe34488"
     },
@@ -2651,6 +2652,7 @@
         "highway": "path"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.853494,
@@ -2672,8 +2674,7 @@
             6.854436,
             52.250118
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "610ed3c0382ad6c2bc92fca19aca28ed"
     },
@@ -2686,6 +2687,7 @@
         "source": "guess"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850073,
@@ -2703,8 +2705,7 @@
             6.850699,
             52.239612
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6224ae05b757677f50bbb5aaf3ba2251"
     },
@@ -2717,6 +2718,7 @@
         "name": "Promenade"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852029,
@@ -2730,8 +2732,7 @@
             6.851329,
             52.243848
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "62294dde603cf3193793e62d5c1a4fcb"
     },
@@ -2743,6 +2744,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84708,
@@ -2752,21 +2754,25 @@
             6.846557,
             52.251708
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "63912e698d2ca95e0b51779eaea96fb7"
     },
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "@id": "way/6665489",
         "highway": "tertiary",
-        "maxspeed": "60",
+        "maxspeed": 60,
         "name": "Horstlindelaan",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "end_date": 2017
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.859257,
@@ -2784,8 +2790,7 @@
             6.856964,
             52.242608
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "65bfc515d9d0f8b32b2a7f707b653e8c"
     },
@@ -2797,6 +2802,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846653,
@@ -2806,8 +2812,7 @@
             6.84792,
             52.24715
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "65d318a49ed372fc8ea2f75fc82f040b"
     },
@@ -2821,6 +2826,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845139,
@@ -2834,8 +2840,7 @@
             6.84578,
             52.24781
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6935c022152b6aa78ca3d23ff551c441"
     },
@@ -2849,6 +2854,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856381,
@@ -2858,8 +2864,7 @@
             6.856025,
             52.243853
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "698bb655f5193dbd8b49c55b755ae2f6"
     },
@@ -2872,6 +2877,7 @@
         "name": "Drienerbeeklaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850567,
@@ -2885,8 +2891,7 @@
             6.84976,
             52.239392
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "69b17d2b69abefef9af67cb7f26e8c43"
     },
@@ -2897,6 +2902,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861864,
@@ -2918,8 +2924,7 @@
             6.863611,
             52.237232
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6aea7ca0d70e5ccc0da620a6b96dca2e"
     },
@@ -2932,6 +2937,7 @@
         "name": "Promenade"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852804,
@@ -2945,8 +2951,7 @@
             6.852029,
             52.243584
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6c93a1b1ba5d308f366bab8d73e36335"
     },
@@ -2959,6 +2964,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848901,
@@ -3008,8 +3014,7 @@
             6.850157,
             52.247253
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6d315ad86960c3b007e8c2459dac366a"
     },
@@ -3021,6 +3026,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855215,
@@ -3030,8 +3036,7 @@
             6.853596,
             52.25201
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6e8ae2eb32a2b4c32148d03fdcedf71c"
     },
@@ -3045,6 +3050,7 @@
         "surface": "metal"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858564,
@@ -3054,8 +3060,7 @@
             6.858477,
             52.239119
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6f6b441eff2de58597a4a0d69687cc55"
     },
@@ -3068,6 +3073,7 @@
         "surface": "paving_stones"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850333,
@@ -3081,8 +3087,7 @@
             6.849887,
             52.251497
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "72986fec73e65d3792eea56a00970b97"
     },
@@ -3097,6 +3102,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851049,
@@ -3118,8 +3124,7 @@
             6.8453,
             52.25098
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "73f2709cd7370507ba70811b894c41d0"
     },
@@ -3131,6 +3136,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.853962,
@@ -3144,8 +3150,7 @@
             6.853948,
             52.241559
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "74dafd308e85692590c74ff4902baf85"
     },
@@ -3156,6 +3161,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849836,
@@ -3165,8 +3171,7 @@
             6.84976,
             52.239392
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "7569922646cc366bffd3370dc624d823"
     },
@@ -3178,6 +3183,7 @@
         "service": "driveway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.862728,
@@ -3191,8 +3197,7 @@
             6.863281,
             52.23882
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "762b5ebec97ac46207567ba7e53ed929"
     },
@@ -3205,6 +3210,7 @@
         "name": "Oude Horstlindeweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848302,
@@ -3218,8 +3224,7 @@
             6.84592,
             52.244713
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "79b78c4a200e5c5b34462da19130bf86"
     },
@@ -3233,6 +3238,7 @@
         "surface": "paving_stones:30"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851323,
@@ -3242,8 +3248,7 @@
             6.850277,
             52.244986
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "7df228ad8aca659dc30923ffddd10833"
     },
@@ -3256,6 +3261,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854311,
@@ -3281,8 +3287,7 @@
             6.854628,
             52.237151
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "7e3839061e7086b961548b85daaf97cd"
     },
@@ -3294,6 +3299,7 @@
         "name": "De Achterhorst;Hallenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857863,
@@ -3399,8 +3405,7 @@
             6.862406,
             52.23824
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "7f48f8abeaec7c0d5f86c551e87b8d22"
     },
@@ -3412,6 +3417,7 @@
         "name": "Drienerlolaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850874,
@@ -3421,8 +3427,7 @@
             6.850915,
             52.239346
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "853d1711e88e36bed0a0591e61b70351"
     },
@@ -3435,6 +3440,7 @@
         "surface": "paved"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861757,
@@ -3468,8 +3474,7 @@
             6.862174,
             52.237709
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "85b15e13894637f80a8fe8c07b193775"
     },
@@ -3480,6 +3485,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850354,
@@ -3489,8 +3495,7 @@
             6.8503,
             52.239794
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "86a8da5055e3f1c675ed0b1506f25983"
     },
@@ -3503,6 +3508,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849309,
@@ -3512,8 +3518,7 @@
             6.850198,
             52.248678
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "8718280a25b13a184c37e66bb824ebad"
     },
@@ -3526,6 +3531,7 @@
         "noexit": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858775,
@@ -3543,8 +3549,7 @@
             6.860495,
             52.241129
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "8729ccea9fe0d5265403ea1ee25d1120"
     },
@@ -3556,6 +3561,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856617,
@@ -3581,8 +3587,7 @@
             6.855744,
             52.242683
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "8a8b71f2a8832b63eed2377aa75ab029"
     },
@@ -3595,6 +3600,7 @@
         "service": "driveway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861189,
@@ -3612,8 +3618,7 @@
             6.861545,
             52.241028
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "8c3e8b389cfd9a465a997687f6418c7c"
     },
@@ -3625,6 +3630,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.8631,
@@ -3642,8 +3648,7 @@
             6.863249,
             52.24029
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "8d1d7ea4a7082fea593ae0606fb9e1fd"
     },
@@ -3655,6 +3660,7 @@
         "name": "Drienerlolaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850915,
@@ -3668,8 +3674,7 @@
             6.851111,
             52.239676
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "8d48b5115272b249ff7ccf5fcf31be8b"
     },
@@ -3682,6 +3687,7 @@
         "name": "Hallenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854749,
@@ -3727,8 +3733,7 @@
             6.850746,
             52.239063
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "8e958de3205efc2acd7afefa53c65526"
     },
@@ -3740,6 +3745,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846945,
@@ -3753,8 +3759,7 @@
             6.846528,
             52.24102
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9025397a8818efe9d885e6856c1e79ec"
     },
@@ -3767,6 +3772,7 @@
         "layer": "-1"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858125,
@@ -3776,8 +3782,7 @@
             6.857407,
             52.238025
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9089f56d73d2a16d875cf2d3baceab0c"
     },
@@ -3790,6 +3795,7 @@
         "surface": "cobblestone"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854688,
@@ -3827,8 +3833,7 @@
             6.85391,
             52.24589
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "91ea9064c466e9678765ee264453d354"
     },
@@ -3839,6 +3844,7 @@
         "highway": "cycleway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855412,
@@ -3856,8 +3862,7 @@
             6.856851,
             52.238082
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "925fd0139644a0536accec0f5c3ad947"
     },
@@ -3870,6 +3875,7 @@
         "service": "driveway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.860309,
@@ -3899,8 +3905,7 @@
             6.860327,
             52.237539
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "937d3b378456546875124fb97bac905d"
     },
@@ -3915,6 +3920,7 @@
         "surface": "paving_stones:30"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85475,
@@ -3932,8 +3938,7 @@
             6.855072,
             52.242919
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "94572f1f04f8126f904622cc27745db3"
     },
@@ -3945,6 +3950,7 @@
         "name": "De Horst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858818,
@@ -3978,8 +3984,7 @@
             6.85898,
             52.238579
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9530818081ecf1361a02bc3e30597fd8"
     },
@@ -3992,6 +3997,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849175,
@@ -4001,8 +4007,7 @@
             6.849256,
             52.243948
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "962392d4a0165be95a29420ff972b560"
     },
@@ -4015,6 +4020,7 @@
         "source": "guess"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850758,
@@ -4044,8 +4050,7 @@
             6.849836,
             52.239483
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "975b15c21278fe0512d3f76c06479bee"
     },
@@ -4057,6 +4062,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856381,
@@ -4066,8 +4072,7 @@
             6.856849,
             52.241102
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9bf086fe932092e45b300e5ef95c40d2"
     },
@@ -4081,6 +4086,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.844238,
@@ -4094,8 +4100,7 @@
             6.845139,
             52.244842
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9c4ea606eea0141c5a405e916ee58c85"
     },
@@ -4106,6 +4111,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848048,
@@ -4115,8 +4121,7 @@
             6.848007,
             52.246741
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9dbef9965dd449cb298f6e0a4272b411"
     },
@@ -4128,6 +4133,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847718,
@@ -4153,8 +4159,7 @@
             6.847782,
             52.242176
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a227dcb848e92ff86d88aefa9421e652"
     },
@@ -4167,6 +4172,7 @@
         "surface": "paving_stones"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849887,
@@ -4176,8 +4182,7 @@
             6.850399,
             52.25215
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a4a776e355f958260da748974e9ab228"
     },
@@ -4188,6 +4193,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.844529,
@@ -4197,8 +4203,7 @@
             6.844522,
             52.240908
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a60a6fbec8fd4ba9faf1dc1f47d58e02"
     },
@@ -4211,6 +4216,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84592,
@@ -4244,8 +4250,7 @@
             6.848901,
             52.246136
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a6a0f2e47b594a8d8c0d95ece3153582"
     },
@@ -4256,6 +4261,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854929,
@@ -4285,8 +4291,7 @@
             6.854242,
             52.24469
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a6d95d0464dc08a6a34ba740fd4cb7d2"
     },
@@ -4298,6 +4303,7 @@
         "name": "De Achterhorst;Hallenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856726,
@@ -4307,8 +4313,7 @@
             6.857863,
             52.237332
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a82aecba55dfcf1f74468c03b775adcd"
     },
@@ -4321,6 +4326,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855982,
@@ -4334,8 +4340,7 @@
             6.85618,
             52.241819
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a8958028351b4c59b4ba4fc13baa45e1"
     },
@@ -4347,6 +4352,7 @@
         "highway": "cycleway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85068,
@@ -4388,8 +4394,7 @@
             6.849874,
             52.246628
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a9b6d22492b301abaacc0022fb6b228b"
     },
@@ -4402,6 +4407,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847777,
@@ -4427,8 +4433,7 @@
             6.847121,
             52.251873
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a9d9b630a65723da3b54400c6cbbca71"
     },
@@ -4441,6 +4446,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851329,
@@ -4466,8 +4472,7 @@
             6.850291,
             52.251283
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ac2ef2f70cf65e8388bb747650531d1b"
     },
@@ -4481,6 +4486,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845875,
@@ -4506,8 +4512,7 @@
             6.8453,
             52.25098
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "adccedfc1e5358cba480c594f87429a8"
     },
@@ -4521,6 +4526,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845316,
@@ -4598,8 +4604,7 @@
             6.848509,
             52.243188
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "af9534b57e546eba6cd8b13b0c57b32f"
     },
@@ -4612,6 +4617,7 @@
         "service": "driveway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.860625,
@@ -4629,8 +4635,7 @@
             6.861373,
             52.240879
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b16eb3acc0b6a511808e55ff139a3c7c"
     },
@@ -4643,6 +4648,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850433,
@@ -4652,8 +4658,7 @@
             6.850638,
             52.248976
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b3f019b0c585dc6395929ba9b21a465f"
     },
@@ -4666,6 +4671,7 @@
         "oneway": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850746,
@@ -4675,8 +4681,7 @@
             6.850874,
             52.239296
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b4054d4c42c673b470568dd9b6745a64"
     },
@@ -4689,6 +4694,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850659,
@@ -4710,8 +4716,7 @@
             6.850119,
             52.247002
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b4914f51c3c5adc18ac35caa4e1b9363"
     },
@@ -4724,6 +4729,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84792,
@@ -4737,8 +4743,7 @@
             6.849309,
             52.248076
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b545ade67988b104b1868c224bf27cbd"
     },
@@ -4753,6 +4758,7 @@
         "surface": "paving_stones:30"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854738,
@@ -4762,8 +4768,7 @@
             6.854762,
             52.242556
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b5adfbe3942e7418862e4bf2a3284ab0"
     },
@@ -4774,6 +4779,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852963,
@@ -4823,8 +4829,7 @@
             6.852244,
             52.247638
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b6f421c87733ae4192b3631f9fc0cf8a"
     },
@@ -4837,6 +4842,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850198,
@@ -4846,8 +4852,7 @@
             6.850433,
             52.248836
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b93b17f4f2e96fac383e3d61413b2703"
     },
@@ -4860,6 +4865,7 @@
         "name": "Boerderijweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852282,
@@ -4869,8 +4875,7 @@
             6.852199,
             52.24187
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b93ffc263eeb5faf052ec433a8f99a96"
     },
@@ -4883,6 +4888,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85618,
@@ -4896,8 +4902,7 @@
             6.856401,
             52.242044
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ba3bb23f08602dab4fb739ee55fcc666"
     },
@@ -4908,6 +4913,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857096,
@@ -4925,8 +4931,7 @@
             6.857225,
             52.23687
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "be2a8d8565d4a115988e55f043d99104"
     },
@@ -4938,6 +4943,7 @@
         "name": "De Hems"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852278,
@@ -4951,8 +4957,7 @@
             6.850831,
             52.243439
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "be55918c979530817f7195d21fc6d0a4"
     },
@@ -4968,6 +4973,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845104,
@@ -4985,8 +4991,7 @@
             6.844529,
             52.240947
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c00b26144b6a226af25639473950910f"
     },
@@ -5000,6 +5005,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854791,
@@ -5025,8 +5031,7 @@
             6.852282,
             52.241902
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c0fcc430b980de36d4620928e93260a5"
     },
@@ -5038,6 +5043,7 @@
         "highway": "path"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854969,
@@ -5047,8 +5053,7 @@
             6.855081,
             52.250065
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c177ce39766fb496905e9ee05b1eb933"
     },
@@ -5060,6 +5065,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85391,
@@ -5081,8 +5087,7 @@
             6.852289,
             52.246475
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c1d6e92ec9a7efe803e019bcdf302e04"
     },
@@ -5094,6 +5099,7 @@
         "name": "De Horst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858818,
@@ -5123,8 +5129,7 @@
             6.859257,
             52.242284
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c336dc9e81d2ce22731f8dac31b26e74"
     },
@@ -5136,6 +5141,7 @@
         "name": "'t Ritke"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845725,
@@ -5153,8 +5159,7 @@
             6.847418,
             52.240782
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c4c16198e2eef0451075121a28884e22"
     },
@@ -5167,6 +5172,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850157,
@@ -5192,8 +5198,7 @@
             6.849309,
             52.248076
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c57e2a3a5c4605b95667d57a7cf69ff2"
     },
@@ -5205,6 +5210,7 @@
         "name": "Boerderijweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.8631,
@@ -5238,8 +5244,7 @@
             6.858818,
             52.240958
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c68617c7d1245df9bc36863aa88c52d4"
     },
@@ -5253,6 +5258,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.864539,
@@ -5262,8 +5268,7 @@
             6.864263,
             52.241813
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c6fd5aa3695f458a6d23b2665a69e97b"
     },
@@ -5277,6 +5282,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855982,
@@ -5286,8 +5292,7 @@
             6.855066,
             52.241661
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c73224f1ef60e720bf343ee6292d502d"
     },
@@ -5299,6 +5304,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858138,
@@ -5308,8 +5314,7 @@
             6.858081,
             52.237544
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c77154db4940aee2b0b5d869930d8a33"
     },
@@ -5323,6 +5328,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845316,
@@ -5332,8 +5338,7 @@
             6.845104,
             52.240894
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c780732217d81202cdf16978333eba1c"
     },
@@ -5345,6 +5350,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858849,
@@ -5410,8 +5416,7 @@
             6.857553,
             52.24016
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c8b437672059a08183b4c1cfc00ca226"
     },
@@ -5423,6 +5428,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846031,
@@ -5440,8 +5446,7 @@
             6.846331,
             52.243812
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c9433e2f1b06fc8eb47c92e25a7203b9"
     },
@@ -5454,6 +5459,7 @@
         "service": "driveway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.860705,
@@ -5463,8 +5469,7 @@
             6.860737,
             52.23798
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ccb93228f61a54f5d304209d02358108"
     },
@@ -5475,6 +5480,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84817,
@@ -5484,8 +5490,7 @@
             6.848227,
             52.246643
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ce079fd7ec7445462e0711bc8d7524c8"
     },
@@ -5499,6 +5504,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858477,
@@ -5520,8 +5526,7 @@
             6.857496,
             52.239281
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ce5963a7045391991224006a0de116dd"
     },
@@ -5533,6 +5538,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848558,
@@ -5546,8 +5552,7 @@
             6.848069,
             52.240465
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "cf3f6a88f8f8834ce654f541375629c0"
     },
@@ -5561,6 +5566,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851489,
@@ -5582,8 +5588,7 @@
             6.852199,
             52.24187
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "cf52eebea842fe52ad2240302a821bef"
     },
@@ -5597,6 +5602,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851262,
@@ -5618,8 +5624,7 @@
             6.850992,
             52.250188
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d05fd64dd53ca93ca61289013a09d464"
     },
@@ -5632,6 +5637,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849887,
@@ -5657,8 +5663,7 @@
             6.847777,
             52.251919
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d1cf80aec4fe1c9a09f23948167701ef"
     },
@@ -5670,6 +5675,7 @@
         "name": "Drienerlolaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851111,
@@ -5683,8 +5689,7 @@
             6.851489,
             52.240333
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d3a6d18e44cfb78375c07cefb9019a76"
     },
@@ -5696,6 +5701,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850851,
@@ -5705,8 +5711,7 @@
             6.851211,
             52.240402
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d53326711a1522dc6ca9de61c8dab449"
     },
@@ -5720,6 +5725,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84423,
@@ -5729,8 +5735,7 @@
             6.844238,
             52.240961
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d60fb2c1069a1b50ef94250387140125"
     },
@@ -5742,6 +5747,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857406,
@@ -5763,8 +5769,7 @@
             6.858271,
             52.236401
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d71f057ff0a8072ef0ff791b7f383007"
     },
@@ -5775,6 +5780,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.862742,
@@ -5784,8 +5790,7 @@
             6.862572,
             52.237182
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d81130e2aca078b7e838f2256b2a9bdb"
     },
@@ -5798,6 +5803,7 @@
         "name": "Oude Horstlindeweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84592,
@@ -5807,8 +5813,7 @@
             6.845345,
             52.24481
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "da8fd78f45210cf6b7e8e5cf8c05afb5"
     },
@@ -5820,6 +5825,7 @@
         "name": "De Hems"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850831,
@@ -5841,8 +5847,7 @@
             6.849256,
             52.243948
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dab879ab6a40d13f32c07b7e03dd9f46"
     },
@@ -5855,6 +5860,7 @@
         "name": "De Zul"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854749,
@@ -5920,8 +5926,7 @@
             6.855982,
             52.241568
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dc3235933f77ff0a01a2f9a8662b75fc"
     },
@@ -5934,6 +5939,7 @@
         "surface": "paved"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851329,
@@ -5943,8 +5949,7 @@
             6.851449,
             52.250664
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dd507a3ac527b60fdc2b5086dbb605bb"
     },
@@ -5956,6 +5961,7 @@
         "tracktype": "grade4"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.853494,
@@ -5965,8 +5971,7 @@
             6.851102,
             52.249323
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "de09b9a99d15a3a479136bc9aa1c0c0e"
     },
@@ -5977,6 +5982,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851111,
@@ -5998,8 +6004,7 @@
             6.850354,
             52.239781
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "de7815beff1a30d6aa9885e54d5cdbd7"
     },
@@ -6014,6 +6019,7 @@
         "surface": "paving_stones:30"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85475,
@@ -6031,8 +6037,7 @@
             6.85471,
             52.24313
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "df1f7b667bb26c4674b8977f0bf0e68b"
     },
@@ -6044,6 +6049,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.863249,
@@ -6053,8 +6059,7 @@
             6.863519,
             52.240723
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "df4838877303f54b992b6c4d09af1c75"
     },
@@ -6066,6 +6071,7 @@
         "name": "De Hems"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852347,
@@ -6075,8 +6081,7 @@
             6.852278,
             52.24279
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "df649bd3717a2d18d8413d9b22863b50"
     },
@@ -6089,6 +6094,7 @@
         "name": "Oude Horstlindeweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845345,
@@ -6098,8 +6104,7 @@
             6.845139,
             52.244842
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dff346772354e6becbd929deba586759"
     },
@@ -6111,6 +6116,7 @@
         "name": "De Hems"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85169,
@@ -6124,8 +6130,7 @@
             6.852347,
             52.242763
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e014e507e0514cb7393626d0a9868d98"
     },
@@ -6136,6 +6141,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.862845,
@@ -6157,8 +6163,7 @@
             6.863167,
             52.237801
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e0a2a15c09c6dac9c195bfe0ece4f979"
     },
@@ -6170,6 +6175,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847121,
@@ -6179,8 +6185,7 @@
             6.846536,
             52.251835
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e2a777fb92766d723cdecac624316eb9"
     },
@@ -6191,6 +6196,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847418,
@@ -6200,8 +6206,7 @@
             6.847714,
             52.241039
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e2c795d50ca87f95644f1c58017fc165"
     },
@@ -6213,6 +6218,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856025,
@@ -6234,8 +6240,7 @@
             6.8555,
             52.24391
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e2e2110c0f0345d7aeaae6f3c367a7be"
     },
@@ -6248,6 +6253,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847691,
@@ -6257,8 +6263,7 @@
             6.847621,
             52.251818
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e4e2e6860e72cfc58c2838865d62d9eb"
     },
@@ -6269,6 +6274,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85898,
@@ -6286,8 +6292,7 @@
             6.858138,
             52.237597
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e661c1ea1522f2ce10a47ee6c676f0dc"
     },
@@ -6298,6 +6303,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.862543,
@@ -6307,8 +6313,7 @@
             6.862202,
             52.237761
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e7a2a37d4bb8d0478e5fb5297e25c144"
     },
@@ -6322,6 +6327,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861907,
@@ -6331,8 +6337,7 @@
             6.859257,
             52.242284
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e82a985968c94cb3df89f5fe3179fcab"
     },
@@ -6344,6 +6349,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85618,
@@ -6365,8 +6371,7 @@
             6.856381,
             52.243738
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e833e2ae571fb1feaa9229f6c7bc89cc"
     },
@@ -6378,6 +6383,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.863519,
@@ -6403,8 +6409,7 @@
             6.864067,
             52.241829
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e84e2489acac4809317b57bec5948ece"
     },
@@ -6419,6 +6424,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.853756,
@@ -6432,8 +6438,7 @@
             6.851049,
             52.249262
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e91ed4a92fe823d8554d1dc2df1bf742"
     },
@@ -6448,6 +6453,7 @@
         "tunnel": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.859977,
@@ -6457,8 +6463,7 @@
             6.860309,
             52.23809
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "eb173ce11a33d47be10fe2be25f347d5"
     },
@@ -6469,6 +6474,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857861,
@@ -6490,8 +6496,7 @@
             6.855768,
             52.237365
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ebbb8c201e7be1ac0fee1514de947c49"
     },
@@ -6503,6 +6508,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.862406,
@@ -6516,8 +6522,7 @@
             6.862835,
             52.239239
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ebd7724a0e4e9f9918e5226b29e0e116"
     },
@@ -6531,6 +6536,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848509,
@@ -6540,8 +6546,7 @@
             6.849175,
             52.243867
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "eda1898b5b9c55a56a38472d70c75560"
     },
@@ -6554,6 +6559,7 @@
         "highway": "footway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.860945,
@@ -6571,8 +6577,7 @@
             6.860495,
             52.241129
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ee4381f8292f1dc5ece9e85149ed6473"
     },
@@ -6586,6 +6591,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858938,
@@ -6599,8 +6605,7 @@
             6.858564,
             52.239117
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ef9dc0b32238ecdef0f26bd539776419"
     },
@@ -6612,6 +6617,7 @@
         "service": "parking_aisle"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856501,
@@ -6653,8 +6659,7 @@
             6.856496,
             52.240739
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "f2df6eacd03290fbafdecb5e2c35f622"
     },
@@ -6665,6 +6670,7 @@
         "highway": "cycleway"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856851,
@@ -6674,8 +6680,7 @@
             6.856726,
             52.237766
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "f31e87188628a9881f2208bc57163684"
     },
@@ -6687,6 +6692,7 @@
         "name": "Boerderijweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858818,
@@ -6720,8 +6726,7 @@
             6.855982,
             52.241568
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "f91539435abbe631fc4eea9088cda857"
     },
@@ -6737,6 +6742,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856349,
@@ -6758,8 +6764,7 @@
             6.854311,
             52.236824
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "f975935b6febe061d40d576b0ec9db53"
     },
@@ -6774,6 +6779,7 @@
         "surface": "paving_stones:30"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85475,
@@ -6783,8 +6789,7 @@
             6.854738,
             52.242724
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "f977c7e917f926fdb4b0701e8100d664"
     },
@@ -6797,6 +6802,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849256,
@@ -6810,8 +6816,7 @@
             6.850277,
             52.244986
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "fa4ac8f7e738e044efe672ecf91d12d4"
     },
@@ -6823,6 +6828,7 @@
         "name": "Hallenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854848,
@@ -6844,8 +6850,7 @@
             6.855412,
             52.23827
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "fb5ad4964d481390ded78beb57e35d1f"
     },
@@ -6859,6 +6864,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.865333,
@@ -6868,8 +6874,7 @@
             6.864539,
             52.24179
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "fcd9d42e9e00a7f9cbb101c5897d634f"
     },
@@ -6883,6 +6888,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854311,
@@ -6892,8 +6898,7 @@
             6.853962,
             52.23665
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "fe13f836570f9e8a9c2e435a8f479b3e"
     },
@@ -6911,6 +6916,7 @@
         "traffic_sign": "NL:G12a"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.844069,
@@ -6924,11 +6930,9 @@
             6.84423,
             52.240936
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "fe2268fc6ee1cdf389b963969ab22a0c"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
