@@ -4,8 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#800040",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -236,8 +239,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1992,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -423,8 +429,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#5e8bdd",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1970,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -505,8 +514,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1992,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -764,8 +776,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#ab7e00",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "start_date": 1995,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -795,8 +810,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#0ed900",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1964,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -907,10 +925,6 @@
           [
             6.846385,
             52.249097
-          ],
-          [
-            6.845875,
-            52.249167
           ]
         ]
       },
@@ -1091,15 +1105,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665519",
         "foot": "yes",
         "highway": "tertiary",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Calslaan"
       },
       "geometry": {
@@ -1110,8 +1127,12 @@
             52.244986
           ],
           [
-            6.850304,
-            52.245013
+            6.8508875370025635,
+            52.24557057289896
+          ],
+          [
+            6.852287650108337,
+            52.246473805966836
           ]
         ]
       },
@@ -1285,8 +1306,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 2010,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -1370,40 +1394,6 @@
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/52824586",
-        "highway": "unclassified"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.857861,
-            52.23721
-          ],
-          [
-            6.85755,
-            52.237144
-          ],
-          [
-            6.85725,
-            52.236857
-          ],
-          [
-            6.8571,
-            52.236912
-          ]
-        ]
-      },
-      "id": "5d63737103fe06695a5d8ac3dbdae8aa"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/192475028",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -1456,8 +1446,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#008080",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -1483,39 +1476,6 @@
         ]
       },
       "id": "627c3d299bc0fc12dacf351b679d95b9"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/166173516",
-        "highway": "residential",
-        "maxspeed": "50",
-        "name": "Boerderijweg",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.855066,
-            52.241661
-          ],
-          [
-            6.85485,
-            52.24169
-          ],
-          [
-            6.854791,
-            52.241696
-          ]
-        ]
-      },
-      "id": "65092f446c669706592de3e2e0e25a5b"
     },
     {
       "type": "Feature",
@@ -1595,14 +1555,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#800000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "start_date": 1965,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665410",
         "highway": "residential",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Boerderijweg",
         "surface": "asphalt"
       },
@@ -1614,8 +1577,8 @@
             52.241568
           ],
           [
-            6.855066,
-            52.241661
+            6.854626536369324,
+            52.24170781240864
           ]
         ]
       },
@@ -1686,8 +1649,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1995,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -1929,14 +1895,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#0000ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/314335425",
         "highway": "residential",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Boerderijweg",
         "surface": "asphalt"
       },
@@ -1944,12 +1913,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.854791,
-            52.241696
-          ],
-          [
-            6.854305,
-            52.241744
+            6.854733824729919,
+            52.241699600399755
           ],
           [
             6.853962,
@@ -2040,7 +2005,10 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": 1960,
+        "stroke": "#66ffcc",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1965,
         "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
@@ -2200,44 +2168,6 @@
       "type": "Feature",
       "properties": {
         "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/178238331",
-        "highway": "unclassified"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.857113,
-            52.23653
-          ],
-          [
-            6.857183,
-            52.236605
-          ],
-          [
-            6.85726,
-            52.236689
-          ],
-          [
-            6.857288,
-            52.236753
-          ],
-          [
-            6.85725,
-            52.236852
-          ]
-        ]
-      },
-      "id": "993e1559917f3875ef1a726f471cc1a4"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
         "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
@@ -2336,7 +2266,10 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": 1960,
+        "stroke": "#400080",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "start_date": 1968,
         "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
@@ -2459,8 +2392,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#ffcc66",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -2486,8 +2422,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1969,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -2842,8 +2781,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#408000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3016,8 +2958,8 @@
             52.249084
           ],
           [
-            6.845875,
-            52.249167
+            6.845877170562743,
+            52.24916533147053
           ]
         ]
       },
@@ -3064,8 +3006,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#ff0080",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3115,8 +3060,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3300,8 +3248,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#cccccc",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1965,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3604,8 +3555,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#b3b3b3",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3631,43 +3585,26 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#000080",
+        "stroke-width": 5.2,
+        "stroke-opacity": 1,
+        "start_date": 1970,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858483",
         "foot": "yes",
         "highway": "tertiary",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Calslaan"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            6.850304,
-            52.245013
-          ],
-          [
-            6.85068,
-            52.245383
-          ],
-          [
-            6.850755,
-            52.245458
-          ],
-          [
-            6.850885,
-            52.245564
-          ],
-          [
-            6.85135,
-            52.24587
-          ],
-          [
             6.852289,
-            52.246475
+            52.24647499999999
           ],
           [
             6.852963,
@@ -3675,15 +3612,15 @@
           ],
           [
             6.853247,
-            52.247269
+            52.247268999999996
           ],
           [
             6.853493,
-            52.247487
+            52.24748699999999
           ],
           [
             6.853756,
-            52.247678
+            52.247677999999986
           ]
         ]
       },
@@ -3760,8 +3697,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#e6e6e6",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3821,8 +3761,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#808000",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3896,7 +3839,8 @@
         "start_date": 1960,
         "end_date": 2017,
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl"
+        "imgurl": "http://beeldbank.utwente.nl",
+        "info": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3948,6 +3892,356 @@
           [
             6.851246953010559,
             52.24966453484505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#be424f",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1960,
+        "end_date": 1964,
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.852293014526367,
+            52.24647216374159
+          ],
+          [
+            6.853666305541991,
+            52.24553936997349
+          ],
+          [
+            6.853988170623779,
+            52.244580279877745
+          ],
+          [
+            6.854503154754639,
+            52.243883941202306
+          ],
+          [
+            6.854653358459472,
+            52.24280656549261
+          ],
+          [
+            6.854739189147949,
+            52.24199194698002
+          ],
+          [
+            6.85471773147583,
+            52.240559758822926
+          ],
+          [
+            6.85469627380371,
+            52.239929055801284
+          ],
+          [
+            6.854578256607056,
+            52.23933119361999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1960,
+        "end_date": 1975
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.848301887512206,
+            52.244435757655054
+          ],
+          [
+            6.849621534347534,
+            52.24431751185003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1960,
+        "end_date": 2010,
+        "info": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.846649646759033,
+            52.24768410945053
+          ],
+          [
+            6.8463170528411865,
+            52.247799061931616
+          ],
+          [
+            6.846376061439514,
+            52.249096362141614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1962,
+        "end_date": 2017
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.846376061439514,
+            52.249099646397795
+          ],
+          [
+            6.845877170562743,
+            52.249168615721594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#b038b1",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "start_date": 1964,
+        "end_date": 1977,
+        "info": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.854631900787353,
+            52.241716024416
+          ],
+          [
+            6.854739189147949,
+            52.241735733227465
+          ],
+          [
+            6.854771375656128,
+            52.24189340340411
+          ],
+          [
+            6.854749917984009,
+            52.242793426603
+          ],
+          [
+            6.854825019836426,
+            52.242852551575645
+          ],
+          [
+            6.8550825119018555,
+            52.242891968180295
+          ],
+          [
+            6.85697078704834,
+            52.242596342791984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#bb5427",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "start_date": 1977,
+        "end_date": 1992
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.854610443115234,
+            52.24171273961324
+          ],
+          [
+            6.854741871356964,
+            52.241735733227465
+          ],
+          [
+            6.854776740074157,
+            52.241896688193485
+          ],
+          [
+            6.854749917984009,
+            52.24280656549261
+          ],
+          [
+            6.85472846031189,
+            52.243148175257076
+          ],
+          [
+            6.854985952377319,
+            52.243437227619104
+          ],
+          [
+            6.855554580688477,
+            52.24396934181645
+          ],
+          [
+            6.856337785720824,
+            52.244580279877745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00ff00",
+        "stroke-width": 2.1,
+        "stroke-opacity": 1,
+        "start_date": 1964,
+        "end_date": 1968,
+        "info": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.854760646820068,
+            52.23848366090238
+          ],
+          [
+            6.8549323081970215,
+            52.238371969337244
+          ],
+          [
+            6.855511665344238,
+            52.238247137255335
+          ],
+          [
+            6.8576788902282715,
+            52.23799747203818
+          ],
+          [
+            6.8584513664245605,
+            52.237905489762035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffff00",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2005,
+        "info": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.854760646820068,
+            52.23848366090238
+          ],
+          [
+            6.854916214942932,
+            52.2383752543873
+          ],
+          [
+            6.856750845909118,
+            52.23773795012638
+          ],
+          [
+            6.857861280441283,
+            52.2373305962171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": 1960,
+        "stroke-width": 1962,
+        "stroke-opacity": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.848537921905518,
+            52.24318102221123
+          ],
+          [
+            6.848870515823364,
+            52.242970801284564
+          ],
+          [
+            6.849095821380615,
+            52.24272116264059
+          ],
+          [
+            6.84971809387207,
+            52.242248159253286
+          ],
+          [
+            6.849997043609619,
+            52.24209705988646
+          ],
+          [
+            6.850394010543823,
+            52.242018225229984
+          ],
+          [
+            6.850823163986206,
+            52.24207735123547
+          ],
+          [
+            6.851166486740112,
+            52.242202172543934
+          ],
+          [
+            6.851692199707031,
+            52.24270145426679
+          ],
+          [
+            6.851928234100342,
+            52.243358395343456
+          ],
+          [
+            6.852014064788818,
+            52.2438313868965
+          ],
+          [
+            6.8521857261657715,
+            52.24430437340781
+          ],
+          [
+            6.852872371673584,
+            52.24469852498252
+          ],
+          [
+            6.853644847869873,
+            52.244987567245445
+          ],
+          [
+            6.853730678558349,
+            52.245355436493305
           ]
         ]
       }
