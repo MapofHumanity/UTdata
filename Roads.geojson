@@ -3,6 +3,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6661716",
         "highway": "unclassified",
         "name": "De Achterhorst"
@@ -33,6 +38,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/192496434",
         "highway": "residential",
         "maxspeed": "50",
@@ -56,6 +66,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/163869061",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -96,6 +111,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/162234835",
         "highway": "residential",
         "maxspeed": "50",
@@ -188,6 +208,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/441967117",
         "highway": "unclassified",
         "name": "De Hems"
@@ -210,6 +235,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665169",
         "highway": "unclassified",
         "name": "De Veldmaat"
@@ -236,6 +266,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/145481724",
         "highway": "service"
       },
@@ -257,6 +292,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/259703331",
         "highway": "service"
       },
@@ -278,6 +318,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665520",
         "hgv": "no",
         "highway": "tertiary",
@@ -307,6 +352,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858514",
         "highway": "service",
         "service": "parking_aisle"
@@ -329,6 +379,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/34205963",
         "highway": "service"
       },
@@ -366,6 +421,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665492",
         "highway": "residential",
         "maxspeed": "50",
@@ -413,6 +473,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665426",
         "highway": "tertiary",
         "name": "Drienerlolaan",
@@ -436,6 +501,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/237305177",
         "highway": "service",
         "service": "parking_aisle"
@@ -462,6 +532,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858484",
         "highway": "unclassified",
         "name": "De Hems"
@@ -496,6 +571,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/163313010",
         "highway": "service",
         "name": "'t Ritke"
@@ -534,6 +614,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/149049221",
         "highway": "unclassified",
         "maxspeed": "60",
@@ -569,6 +654,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665172",
         "highway": "unclassified",
         "name": "De Veldmaat"
@@ -607,6 +697,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665289",
         "highway": "unclassified",
         "name": "De Veldmaat"
@@ -629,6 +724,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/77926471",
         "highway": "service",
         "service": "parking_aisle"
@@ -655,6 +755,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665490",
         "highway": "unclassified",
         "maxspeed": "50",
@@ -678,6 +783,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/134903541",
         "highway": "service",
         "service": "parking_aisle"
@@ -708,6 +818,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665427",
         "highway": "tertiary",
         "name": "Drienerlolaan",
@@ -731,6 +846,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665212",
         "highway": "unclassified",
         "name": "De Horst"
@@ -773,6 +893,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858489",
         "highway": "service",
         "service": "parking_aisle"
@@ -795,6 +920,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/111706862",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -819,6 +949,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/163313012",
         "highway": "tertiary",
         "maxspeed": "50",
@@ -871,6 +1006,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665286",
         "highway": "residential",
         "name": "De Hems"
@@ -897,6 +1037,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665295",
         "highway": "service",
         "name": "Campuslaan"
@@ -931,6 +1076,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858481",
         "highway": "tertiary",
         "maxspeed": "50",
@@ -954,6 +1104,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/44103727",
         "highway": "service",
         "service": "driveway"
@@ -980,6 +1135,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665488",
         "hgv": "no",
         "highway": "residential",
@@ -1032,6 +1192,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665508",
         "highway": "residential",
         "maxspeed": "50",
@@ -1083,6 +1248,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/51492488",
         "highway": "tertiary",
         "name": "Drienerlolaan"
@@ -1109,6 +1279,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665605",
         "highway": "unclassified",
         "maxspeed": "60",
@@ -1148,6 +1323,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665496",
         "highway": "service",
         "name": "Oude Horstlindeweg"
@@ -1170,6 +1350,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/132522985",
         "cycleway": "shared_lane",
         "highway": "tertiary",
@@ -1228,6 +1413,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665519",
         "foot": "yes",
         "highway": "tertiary",
@@ -1252,6 +1442,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/409325633",
         "highway": "service"
       },
@@ -1277,6 +1472,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665507",
         "highway": "residential",
         "maxspeed": "50",
@@ -1316,6 +1516,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/36843298",
         "highway": "residential",
         "maxspeed": "50",
@@ -1343,6 +1548,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/163313011",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -1367,6 +1577,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/44298399",
         "highway": "unclassified",
         "name": "Witbreuksweg"
@@ -1393,6 +1608,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/144633681",
         "highway": "unclassified",
         "maxspeed": "60",
@@ -1429,6 +1649,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665408",
         "highway": "tertiary",
         "maxspeed": "50",
@@ -1453,6 +1678,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/107189979",
         "highway": "service",
         "service": "alley",
@@ -1500,6 +1730,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/159556415",
         "highway": "unclassified",
         "maxspeed": "60",
@@ -1523,6 +1758,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/52824586",
         "highway": "unclassified"
       },
@@ -1552,6 +1792,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/192475028",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -1576,6 +1821,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/192496436",
         "highway": "residential",
         "maxspeed": "50",
@@ -1599,6 +1849,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6661682",
         "highway": "unclassified",
         "name": "De Achterhorst"
@@ -1625,6 +1880,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/162234849",
         "highway": "service"
       },
@@ -1646,6 +1906,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/166173516",
         "highway": "residential",
         "maxspeed": "50",
@@ -1674,6 +1939,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665409",
         "highway": "tertiary",
         "name": "Drienerlolaan"
@@ -1700,6 +1970,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/163313014",
         "highway": "residential",
         "maxspeed": "50",
@@ -1739,6 +2014,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665410",
         "highway": "residential",
         "maxspeed": "50",
@@ -1763,6 +2043,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/162234832",
         "highway": "service",
         "name": "'t Ritke"
@@ -1793,6 +2078,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/159556414",
         "highway": "unclassified",
         "name": "Witbreuksweg"
@@ -1815,6 +2105,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665283",
         "highway": "unclassified",
         "name": "De Hems"
@@ -1841,6 +2136,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/176482979",
         "access": "destination",
         "highway": "service"
@@ -1883,6 +2183,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/4487832",
         "bicycle": "yes",
         "highway": "footway",
@@ -1906,6 +2211,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665444",
         "highway": "residential",
         "maxspeed": "50",
@@ -1965,6 +2275,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/162234843",
         "highway": "residential",
         "maxspeed": "50",
@@ -2044,6 +2359,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/8097339",
         "bicycle": "yes",
         "highway": "pedestrian",
@@ -2068,6 +2388,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/205987465",
         "highway": "service",
         "oneway": "no",
@@ -2092,6 +2417,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665432",
         "highway": "residential",
         "name": "De Zul",
@@ -2119,6 +2449,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/259703332",
         "highway": "service"
       },
@@ -2140,6 +2475,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/144988070",
         "highway": "residential",
         "maxspeed": "50",
@@ -2167,6 +2507,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665278",
         "highway": "service",
         "name": "De Veldmaat"
@@ -2189,6 +2534,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/314335425",
         "highway": "residential",
         "maxspeed": "50",
@@ -2229,6 +2579,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665213",
         "highway": "service",
         "name": "De Veldmaat"
@@ -2251,6 +2606,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/144988066",
         "highway": "cycleway",
         "name": "Hallenweg"
@@ -2285,6 +2645,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/227579808",
         "bicycle": "use_sidepath",
         "highway": "tertiary",
@@ -2346,6 +2711,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6661740",
         "highway": "unclassified",
         "name": "Boerderijweg"
@@ -2410,6 +2780,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6661662",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -2438,6 +2813,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665369",
         "highway": "unclassified",
         "name": "De Zul",
@@ -2465,6 +2845,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665387",
         "bicycle": "no",
         "highway": "tertiary",
@@ -2503,6 +2888,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/178238331",
         "highway": "unclassified"
       },
@@ -2536,6 +2926,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "maxspeed": 60,
         "name": "Horstlindelaan",
         "surface": "asphalt",
@@ -2572,6 +2967,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/409325619",
         "highway": "service"
       },
@@ -2593,6 +2993,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/31989510",
         "highway": "service",
         "name": "Witbreuksweg"
@@ -2631,6 +3036,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/26147652",
         "highway": "residential",
         "name": "Matenweg"
@@ -2653,6 +3063,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/111706865",
         "highway": "unclassified",
         "name": "De Zul",
@@ -2680,6 +3095,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/60954186",
         "highway": "unclassified",
         "name": "De Achterhorst;Hallenweg"
@@ -2816,6 +3236,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/192496428",
         "highway": "unclassified",
         "name": "De Achterhorst"
@@ -2838,6 +3263,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/53744359",
         "highway": "unclassified"
       },
@@ -2871,6 +3301,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858508",
         "highway": "service"
       },
@@ -2896,6 +3331,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/144988081",
         "highway": "cycleway"
       },
@@ -2925,6 +3365,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665497",
         "highway": "unclassified",
         "maxspeed": "50",
@@ -2989,6 +3434,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665363",
         "highway": "residential",
         "maxspeed": "50",
@@ -3012,6 +3462,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/8066391",
         "highway": "service",
         "name": "Witbreuksweg",
@@ -3035,6 +3490,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665612",
         "highway": "unclassified",
         "maxspeed": "60",
@@ -3059,6 +3519,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/192496432",
         "highway": "service",
         "name": "De Veldmaat"
@@ -3081,6 +3546,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/146294574",
         "highway": "residential",
         "maxspeed": "50",
@@ -3112,6 +3582,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/162234844",
         "highway": "residential",
         "maxspeed": "50",
@@ -3135,6 +3610,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/163313013",
         "highway": "tertiary",
         "maxspeed": "50",
@@ -3163,6 +3643,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665392",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -3191,6 +3676,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858482",
         "highway": "tertiary",
         "maxspeed": "50",
@@ -3218,6 +3708,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/144988085",
         "highway": "service"
       },
@@ -3251,6 +3746,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/192496429",
         "highway": "unclassified",
         "name": "De Achterhorst"
@@ -3289,6 +3789,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665368",
         "foot": "yes",
         "hgv": "no",
@@ -3316,6 +3821,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/231208888",
         "highway": "service",
         "smoothness": "good",
@@ -3355,6 +3865,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/148888873",
         "highway": "residential",
         "maxspeed": "50",
@@ -3390,6 +3905,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/111707346",
         "highway": "service",
         "maxspeed": "50",
@@ -3417,6 +3937,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/409850457",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -3467,6 +3992,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/231511259",
         "highway": "unclassified",
         "maxspeed": "50",
@@ -3500,6 +4030,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665320",
         "highway": "unclassified",
         "name": "De Horst"
@@ -3546,6 +4081,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/231678439",
         "covered": "yes",
         "highway": "unclassified"
@@ -3568,6 +4108,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665515",
         "hgv": "no",
         "highway": "tertiary",
@@ -3621,6 +4166,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/59087111",
         "highway": "residential",
         "maxspeed": "60",
@@ -3644,6 +4194,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/166173515",
         "highway": "residential",
         "maxspeed": "50",
@@ -3667,6 +4222,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/144633685",
         "highway": "unclassified",
         "maxspeed": "60",
@@ -3690,6 +4250,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665517",
         "highway": "residential",
         "maxspeed": "50",
@@ -3729,6 +4294,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665412",
         "highway": "unclassified",
         "name": "Boerderijweg"
@@ -3775,6 +4345,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665498",
         "highway": "tertiary",
         "maxspeed": "50",
@@ -3799,6 +4374,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/111706864",
         "highway": "residential",
         "name": "De Zul",
@@ -3822,6 +4402,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/441967124",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -3846,6 +4431,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/259703334",
         "highway": "service"
       },
@@ -3901,6 +4491,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665495",
         "highway": "unclassified",
         "maxspeed": "50",
@@ -3924,6 +4519,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/145481723",
         "highway": "unclassified",
         "maxspeed": "50",
@@ -3948,6 +4548,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665149",
         "highway": "unclassified",
         "name": "Dienstweg"
@@ -3978,6 +4583,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/231511257",
         "highway": "tertiary",
         "maxspeed": "60",
@@ -4006,6 +4616,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665430",
         "highway": "tertiary",
         "lanes": "3",
@@ -4043,6 +4658,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6661680",
         "highway": "unclassified",
         "name": "De Achterhorst"
@@ -4065,6 +4685,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858483",
         "foot": "yes",
         "highway": "tertiary",
@@ -4121,6 +4746,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665516",
         "highway": "residential",
         "maxspeed": "50",
@@ -4184,6 +4814,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/60954184",
         "highway": "unclassified"
       },
@@ -4213,6 +4848,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665376",
         "highway": "tertiary",
         "name": "Drienerlolaan"
@@ -4235,6 +4875,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/143331023",
         "cycleway": "cyclestreet",
         "highway": "unclassified",
@@ -4273,6 +4918,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/34205965",
         "highway": "unclassified",
         "maxspeed": "60",
@@ -4305,6 +4955,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/231678438",
         "highway": "unclassified"
       },
@@ -4330,6 +4985,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/144633673",
         "hgv": "no",
         "highway": "tertiary",
@@ -4367,6 +5027,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/44103721",
         "highway": "service",
         "name": "Holzikerstraat",
@@ -4394,6 +5059,11 @@
     {
       "type": "Feature",
       "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/145075403",
         "highway": "service",
         "service": "parking_aisle"
