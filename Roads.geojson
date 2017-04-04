@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -13,6 +14,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.8631,
@@ -30,8 +32,7 @@
             6.863249,
             52.24029
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "011f77de2963c2b806aca75628d97d54"
     },
@@ -49,6 +50,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850198,
@@ -58,8 +60,7 @@
             6.850433,
             52.248836
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "01ccc369bbd631d4af2c953df3ad07f6"
     },
@@ -78,6 +79,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845875,
@@ -103,8 +105,7 @@
             6.8453,
             52.25098
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0277fbc62988e0fd1b1b92def8b34783"
     },
@@ -123,6 +124,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845316,
@@ -200,8 +202,7 @@
             6.848509,
             52.243188
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "06595af2e6358cc20f369bdceb8984dd"
     },
@@ -218,6 +219,7 @@
         "name": "De Hems"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852347,
@@ -227,8 +229,7 @@
             6.852278,
             52.24279
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "07dfb10a329cdd54fc9396706c264a89"
     },
@@ -245,6 +246,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855744,
@@ -258,62 +260,9 @@
             6.855072,
             52.242919
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "094c09498695a70a510f1e2df74e229b"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/145481724",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.848221,
-            52.239982
-          ],
-          [
-            6.848506,
-            52.240309
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "0b401a62ebb5264bb068d8e9b6308cc4"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/259703331",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.84817,
-            52.24662
-          ],
-          [
-            6.848227,
-            52.246643
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "0c233c9bf4a724619ea8fddba586a34d"
     },
     {
       "type": "Feature",
@@ -331,6 +280,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.853756,
@@ -344,37 +294,9 @@
             6.851049,
             52.249262
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "0d627f09ea86d261f9812dfc55ca0959"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/174858514",
-        "highway": "service",
-        "service": "parking_aisle"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.857046,
-            52.241431
-          ],
-          [
-            6.856954,
-            52.241285
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "10c81be3b5ba812c593e3cc0d1c0f7dc"
     },
     {
       "type": "Feature",
@@ -388,6 +310,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854929,
@@ -413,8 +336,7 @@
             6.854407,
             52.244839
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "13a49b752d24b43ab979237092f2806a"
     },
@@ -432,6 +354,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84592,
@@ -465,8 +388,7 @@
             6.848901,
             52.246136
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "16356bb4a64edff9bca00481eb2f52e2"
     },
@@ -484,6 +406,7 @@
         "oneway": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850874,
@@ -493,41 +416,9 @@
             6.850567,
             52.239103
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "1bb03bc81e8cd74b7902652033bd47dc"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/237305177",
-        "highway": "service",
-        "service": "parking_aisle"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.853962,
-            52.241785
-          ],
-          [
-            6.853959,
-            52.241737
-          ],
-          [
-            6.853948,
-            52.241559
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "1d0978743ae85cf2afdb3931923f4981"
     },
     {
       "type": "Feature",
@@ -542,6 +433,7 @@
         "name": "De Hems"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850831,
@@ -563,8 +455,7 @@
             6.849256,
             52.243948
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "1f3bc78716f407bf1d4ffd763b6b2beb"
     },
@@ -581,6 +472,7 @@
         "name": "'t Ritke"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.847418,
@@ -606,50 +498,9 @@
             6.84728,
             52.240345
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "238c7380f1cbbb911cca3b8e3f0f5b22"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/149049221",
-        "highway": "unclassified",
-        "maxspeed": "60",
-        "name": "Witbreuksweg"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.851102,
-            52.249323
-          ],
-          [
-            6.851102,
-            52.249356
-          ],
-          [
-            6.851078,
-            52.24941
-          ],
-          [
-            6.851089,
-            52.249458
-          ],
-          [
-            6.851262,
-            52.249668
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "267d733075cb4f37ef6ba69235fde48b"
     },
     {
       "type": "Feature",
@@ -664,6 +515,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856617,
@@ -689,8 +541,7 @@
             6.855744,
             52.242683
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "27806e1a69a5a908875353e042a31233"
     },
@@ -707,6 +558,7 @@
         "name": "De Veldmaat"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855072,
@@ -716,41 +568,9 @@
             6.85471,
             52.24313
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "29fe51e2b0144571dd38b65fd43c2766"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/77926471",
-        "highway": "service",
-        "service": "parking_aisle"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.858849,
-            52.240799
-          ],
-          [
-            6.858744,
-            52.240722
-          ],
-          [
-            6.858608,
-            52.240651
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "2a03767d30c0bc9742554fffccfee8ec"
     },
     {
       "type": "Feature",
@@ -766,6 +586,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850304,
@@ -775,45 +596,9 @@
             6.848901,
             52.246136
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "2c3621b62b72824ff2b99865abb60242"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/134903541",
-        "highway": "service",
-        "service": "parking_aisle"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.846031,
-            52.244243
-          ],
-          [
-            6.845937,
-            52.244072
-          ],
-          [
-            6.845961,
-            52.24405
-          ],
-          [
-            6.846331,
-            52.243812
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "2f300bbd7862f5196a6001724c061d2f"
     },
     {
       "type": "Feature",
@@ -829,6 +614,7 @@
         "oneway": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850746,
@@ -838,8 +624,7 @@
             6.850874,
             52.239296
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "30f083ce3f1c339397153fb569fe5fc6"
     },
@@ -856,6 +641,7 @@
         "name": "De Horst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858818,
@@ -885,37 +671,9 @@
             6.859257,
             52.242284
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "31d0e935a1e500db53310533847eaaa4"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/174858489",
-        "highway": "service",
-        "service": "parking_aisle"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.856501,
-            52.241521
-          ],
-          [
-            6.85646,
-            52.241393
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "35e605e68fa9cd29bfca2552ceeda0df"
     },
     {
       "type": "Feature",
@@ -932,6 +690,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861907,
@@ -941,8 +700,7 @@
             6.859257,
             52.242284
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "371e77d3b23e0146348a54434d8b80ff"
     },
@@ -961,6 +719,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852027,
@@ -998,8 +757,7 @@
             6.848509,
             52.243188
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "379c5cd82850477a61cbcf8434b2b406"
     },
@@ -1016,6 +774,7 @@
         "name": "De Hems"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85169,
@@ -1029,8 +788,7 @@
             6.852347,
             52.242763
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "3a14f3a0000c4dcb6bbdf8648426e97e"
     },
@@ -1047,6 +805,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85391,
@@ -1068,8 +827,7 @@
             6.852289,
             52.246475
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "3c95521e8ebd72923309019d73953b6b"
     },
@@ -1087,6 +845,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849175,
@@ -1096,41 +855,9 @@
             6.849256,
             52.243948
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "3fc7317020376804a9dc73aa3e9fbdcc"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/44103727",
-        "highway": "service",
-        "service": "driveway"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.862728,
-            52.238979
-          ],
-          [
-            6.863054,
-            52.238904
-          ],
-          [
-            6.863281,
-            52.23882
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "413d800677ff24488ce280d30a665b97"
     },
     {
       "type": "Feature",
@@ -1147,6 +874,7 @@
         "name": "Reelaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849309,
@@ -1184,8 +912,7 @@
             6.845875,
             52.249167
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4365d12b788bd9ce3b54e303901f09ee"
     },
@@ -1203,6 +930,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848901,
@@ -1240,8 +968,7 @@
             6.84792,
             52.24715
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4ab6e4c9cf5b6c58acb1de1b6e3c221b"
     },
@@ -1258,6 +985,7 @@
         "name": "Drienerlolaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851111,
@@ -1271,8 +999,7 @@
             6.851489,
             52.240333
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4b042a0549ea9cd278fc8ffae1a2e451"
     },
@@ -1290,6 +1017,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850399,
@@ -1315,43 +1043,15 @@
             6.84472,
             52.251863
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4b5a1647fd2df625c0fec6ed8823e52b"
     },
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/6665496",
-        "highway": "service",
-        "name": "Oude Horstlindeweg"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.848459,
-            52.244413
-          ],
-          [
-            6.848302,
-            52.24443
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "4ca71b7e8374b71bcc7427fc72e67c82"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "start_date": 1960,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -1362,9 +1062,10 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
-            6.851489,
+            6.851489000000001,
             52.240333
           ],
           [
@@ -1376,39 +1077,16 @@
             52.241709
           ],
           [
-            6.852209,
-            52.241809
+            6.852209000000001,
+            52.24180900000001
           ],
           [
             6.852199,
             52.24187
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "4d5a805f06c41b2cb8603984dad398c4"
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            6.854291,
-            52.241747
-          ],
-          [
-            6.854411,
-            52.24192
-          ],
-          [
-            6.854393,
-            52.241993
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "4f97051b4936cf51d30867a8d77260df"
     },
     {
       "type": "Feature",
@@ -1425,6 +1103,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850277,
@@ -1434,40 +1113,9 @@
             6.850304,
             52.245013
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5248b574e8b28e962b1657f136f64c70"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/409325633",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.850069,
-            52.239434
-          ],
-          [
-            6.849914,
-            52.239413
-          ],
-          [
-            6.84976,
-            52.239392
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "5743864468cfa9abdf01e51b39ea7792"
     },
     {
       "type": "Feature",
@@ -1483,6 +1131,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850157,
@@ -1508,8 +1157,7 @@
             6.849309,
             52.248076
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "58f4717ac6cfdb8151122c2e4a67ef9e"
     },
@@ -1527,6 +1175,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84792,
@@ -1540,8 +1189,7 @@
             6.849309,
             52.248076
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "59bd298485a6204dc214f1c236b92a77"
     },
@@ -1560,6 +1208,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.844208,
@@ -1569,8 +1218,7 @@
             6.844238,
             52.240961
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "59dad279b0017a3322541138ffdfc8cb"
     },
@@ -1587,6 +1235,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.853596,
@@ -1600,51 +1249,9 @@
             6.852,
             52.25211
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5a991eff70e4ec0ee4893b9a9c7fcd51"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/144633681",
-        "highway": "unclassified",
-        "maxspeed": "60",
-        "name": "Witbreuksweg",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.851262,
-            52.249668
-          ],
-          [
-            6.850762,
-            52.249868
-          ],
-          [
-            6.850742,
-            52.249888
-          ],
-          [
-            6.850742,
-            52.249938
-          ],
-          [
-            6.850992,
-            52.250188
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "5b5205b6a85058c871b5c293cd0b0edf"
     },
     {
       "type": "Feature",
@@ -1661,6 +1268,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852199,
@@ -1670,8 +1278,7 @@
             6.852166,
             52.241934
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5c100c5fa6dd25408c7c4ccd581a13ba"
     },
@@ -1689,6 +1296,7 @@
         "surface": "paved"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861757,
@@ -1722,8 +1330,7 @@
             6.862174,
             52.237709
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5c212421b0d63d6d4a7ce8e843f72dc6"
     },
@@ -1741,6 +1348,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852,
@@ -1748,10 +1356,9 @@
           ],
           [
             6.850399,
-            52.25215
+            52.25215000000001
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5c5641c0234acfa78c6f03f02cd4b00d"
     },
@@ -1767,6 +1374,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857861,
@@ -1784,8 +1392,7 @@
             6.8571,
             52.236912
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "5d63737103fe06695a5d8ac3dbdae8aa"
     },
@@ -1804,6 +1411,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.865333,
@@ -1813,8 +1421,7 @@
             6.864539,
             52.24179
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6008f13d7a7787e2523c6729fbdf8470"
     },
@@ -1832,6 +1439,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850433,
@@ -1841,8 +1449,7 @@
             6.850638,
             52.248976
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "621998feb26570a213d01bdf64225519"
     },
@@ -1859,6 +1466,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.862406,
@@ -1872,36 +1480,9 @@
             6.862835,
             52.239239
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "627c3d299bc0fc12dacf351b679d95b9"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/162234849",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.847418,
-            52.240782
-          ],
-          [
-            6.847714,
-            52.241039
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "63fec40a163badb93cdc2aee5cd5e66e"
     },
     {
       "type": "Feature",
@@ -1918,6 +1499,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855066,
@@ -1931,8 +1513,7 @@
             6.854791,
             52.241696
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "65092f446c669706592de3e2e0e25a5b"
     },
@@ -1949,6 +1530,7 @@
         "name": "Drienerlolaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850915,
@@ -1962,8 +1544,7 @@
             6.851111,
             52.239676
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "67f4ff7172a82b64af8ca6bc9a08ac3b"
     },
@@ -1981,6 +1562,7 @@
         "name": "Drienerbeeklaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84728,
@@ -2006,8 +1588,7 @@
             6.845316,
             52.240851
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6860244ee6b621b37a0de888107af608"
     },
@@ -2026,6 +1607,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855982,
@@ -2035,8 +1617,7 @@
             6.855066,
             52.241661
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "68f8305628812ad9100079ca1b117703"
     },
@@ -2053,6 +1634,7 @@
         "name": "'t Ritke"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845725,
@@ -2070,8 +1652,7 @@
             6.847418,
             52.240781
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6ad641b8fa0d5b5ac2f7ce4ad9099f3a"
     },
@@ -2088,6 +1669,7 @@
         "name": "Witbreuksweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855215,
@@ -2097,8 +1679,7 @@
             6.853596,
             52.25201
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6b24f4b46b0f5ceeec454f563d7f914f"
     },
@@ -2115,6 +1696,7 @@
         "name": "De Hems"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852278,
@@ -2128,85 +1710,9 @@
             6.850831,
             52.243439
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "6f718c12c8d9f8aa915daad4f64cff44"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/176482979",
-        "access": "destination",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.856349,
-            52.235982
-          ],
-          [
-            6.856365,
-            52.236004
-          ],
-          [
-            6.856464,
-            52.236129
-          ],
-          [
-            6.856697,
-            52.236296
-          ],
-          [
-            6.856869,
-            52.236375
-          ],
-          [
-            6.857019,
-            52.236464
-          ],
-          [
-            6.857111,
-            52.23653
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "7028c35294252da7e17f2f60737f9128"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/4487832",
-        "bicycle": "yes",
-        "highway": "footway",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.852027,
-            52.242018
-          ],
-          [
-            6.851977,
-            52.241959
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "7101500fc3ce97bdfec9a9809725d3b6"
     },
     {
       "type": "Feature",
@@ -2222,6 +1728,7 @@
         "name": "Hallenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854749,
@@ -2267,8 +1774,7 @@
             6.850746,
             52.239063
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "73ec498053d5c631e8f0995c38464f8f"
     },
@@ -2286,6 +1792,7 @@
         "name": "De Zul"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854749,
@@ -2351,68 +1858,9 @@
             6.855982,
             52.241568
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "78a993aaa8a93f3bb946c2c1a9e4992a"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/8097339",
-        "bicycle": "yes",
-        "highway": "pedestrian",
-        "name": "Calslaan",
-        "surface": "paving_stones:30"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.851323,
-            52.244594
-          ],
-          [
-            6.850277,
-            52.244986
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "7962268ab29fbc6ba0ec5ffa3bb93cb3"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/205987465",
-        "highway": "service",
-        "oneway": "no",
-        "smoothness": "good",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.854311,
-            52.236824
-          ],
-          [
-            6.854114,
-            52.236678
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "81649269de4031842fdd5114e000569c"
     },
     {
       "type": "Feature",
@@ -2428,6 +1876,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.855982,
@@ -2441,36 +1890,9 @@
             6.85618,
             52.241819
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "83a540dcc4bcfc79bd2b987338a88fc3"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/259703332",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.848048,
-            52.246782
-          ],
-          [
-            6.848007,
-            52.246741
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "863b4d7add048db4a59e590418af5d5d"
     },
     {
       "type": "Feature",
@@ -2486,6 +1908,7 @@
         "name": "Drienerbeeklaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850567,
@@ -2499,37 +1922,9 @@
             6.84976,
             52.239392
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "87438d13ea8aba284ae6ae4719668fba"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/6665278",
-        "highway": "service",
-        "name": "De Veldmaat"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.855744,
-            52.242683
-          ],
-          [
-            6.85618,
-            52.24307
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "8bf474096b8fffee970fde6aaa263691"
     },
     {
       "type": "Feature",
@@ -2546,6 +1941,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854791,
@@ -2571,76 +1967,9 @@
             6.852282,
             52.241902
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "8e028bff53881a1a94394300f2ca74a6"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/6665213",
-        "highway": "service",
-        "name": "De Veldmaat"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.8555,
-            52.24391
-          ],
-          [
-            6.855146,
-            52.243561
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "8eb00a2bfc5bbc9f5bd78bbac51e34c0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/144988066",
-        "highway": "cycleway",
-        "name": "Hallenweg"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.854848,
-            52.238417
-          ],
-          [
-            6.854954,
-            52.23838
-          ],
-          [
-            6.85508,
-            52.238336
-          ],
-          [
-            6.855179,
-            52.2383
-          ],
-          [
-            6.855412,
-            52.23827
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "8fcf12d5c7b18dc16e2900823310a796"
     },
     {
       "type": "Feature",
@@ -2658,6 +1987,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.844206,
@@ -2703,16 +2033,15 @@
             6.842888,
             52.240694
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "91ed09d3203ed8f7ee012590a8159d75"
     },
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "start_date": 1960,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -2721,6 +2050,7 @@
         "name": "Boerderijweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.8631,
@@ -2754,28 +2084,9 @@
             6.858818,
             52.240958
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9299307f7ef301e5eb8874d33e7133b7"
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            6.850757,
-            52.239686
-          ],
-          [
-            6.850701,
-            52.23961
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "9402c1cb4d0078ac933fbdebe2ddde4c"
     },
     {
       "type": "Feature",
@@ -2792,6 +2103,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.864263,
@@ -2805,8 +2117,7 @@
             6.861907,
             52.24202
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "943b13e6266100b254cb4c47afb7173f"
     },
@@ -2824,6 +2135,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856731,
@@ -2837,8 +2149,7 @@
             6.856964,
             52.242608
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "981c6a8576aeb2fe34c15dd248c75ae3"
     },
@@ -2859,6 +2170,7 @@
         "oneway": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849921,
@@ -2880,8 +2192,7 @@
             6.850746,
             52.239063
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "989257a194f650917f826d6d6b309c59"
     },
@@ -2897,6 +2208,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857113,
@@ -2918,8 +2230,7 @@
             6.85725,
             52.236852
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "993e1559917f3875ef1a726f471cc1a4"
     },
@@ -2927,7 +2238,7 @@
       "type": "Feature",
       "properties": {
         "start_date": "1960",
-        "end_date": "2017",
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -2936,12 +2247,12 @@
         "surface": "asphalt",
         "highway": "tertiary",
         "stroke-width": 2,
-        "end_date": 2017,
         "stroke-opacity": 1,
         "stroke": "#555555",
         "@id": "way/6665489"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.859257,
@@ -2959,79 +2270,9 @@
             6.856964,
             52.242608
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "99b2f5baebcecaff96973fc6cc897c89"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/409325619",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.850354,
-            52.239781
-          ],
-          [
-            6.8503,
-            52.239794
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "99f2196d262f00a200b1657a23e007e8"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/31989510",
-        "highway": "service",
-        "name": "Witbreuksweg"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.846898,
-            52.251544
-          ],
-          [
-            6.846994,
-            52.251631
-          ],
-          [
-            6.84708,
-            52.251738
-          ],
-          [
-            6.84712,
-            52.251796
-          ],
-          [
-            6.847121,
-            52.251873
-          ],
-          [
-            6.846952,
-            52.252135
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "9a92bf995e51c4c7cb8c06876c5a7cde"
     },
     {
       "type": "Feature",
@@ -3046,6 +2287,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.846653,
@@ -3055,8 +2297,7 @@
             6.84792,
             52.24715
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9b22052e01c200015dd3d648ce19712e"
     },
@@ -3074,6 +2315,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85618,
@@ -3087,16 +2329,15 @@
             6.856401,
             52.242044
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "9d60181d1d1ceb0017594b31e761d4b5"
     },
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "start_date": 1960,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3105,6 +2346,7 @@
         "name": "De Achterhorst;Hallenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.857863,
@@ -3210,28 +2452,9 @@
             6.862406,
             52.23824
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a04fbd0711e5c2f8e4c2a7378439085f"
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            6.854845,
-            52.238417
-          ],
-          [
-            6.854736,
-            52.238477
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "a1776a8945dd040d6887d20d2e25f658"
     },
     {
       "type": "Feature",
@@ -3246,6 +2469,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.863249,
@@ -3255,8 +2479,7 @@
             6.863519,
             52.240723
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a30d2601b2be813f2807d84946e100e4"
     },
@@ -3272,6 +2495,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.861864,
@@ -3293,8 +2517,7 @@
             6.863611,
             52.237232
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a34204dc3f6eb02110c62158c8b889f3"
     },
@@ -3310,6 +2533,7 @@
         "highway": "service"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854929,
@@ -3323,44 +2547,9 @@
             6.855454,
             52.245654
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a69fa812dff32febc03c878c8512578c"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/144988081",
-        "highway": "cycleway"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.855412,
-            52.23827
-          ],
-          [
-            6.85585,
-            52.238205
-          ],
-          [
-            6.856043,
-            52.238181
-          ],
-          [
-            6.856851,
-            52.238082
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "a6aec7fccbb15a8c7581fc8da1c966e5"
     },
     {
       "type": "Feature",
@@ -3377,6 +2566,7 @@
         "surface": "paving_stones"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848509,
@@ -3426,8 +2616,7 @@
             6.84592,
             52.244713
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a73e864580f21f300a37c4c75752325a"
     },
@@ -3445,6 +2634,7 @@
         "name": "Matenweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849309,
@@ -3454,38 +2644,9 @@
             6.850198,
             52.248678
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "a984f3e66fdb3c77d6e5b4361b357e3d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/8066391",
-        "highway": "service",
-        "name": "Witbreuksweg",
-        "surface": "paving_stones"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.849887,
-            52.251497
-          ],
-          [
-            6.850399,
-            52.25215
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "ac245455a44741677210e605f181bbe6"
     },
     {
       "type": "Feature",
@@ -3502,6 +2663,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.8453,
@@ -3511,37 +2673,9 @@
             6.84472,
             52.251863
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ad834f34fc907231a171bf0b86f57107"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/192496432",
-        "highway": "service",
-        "name": "De Veldmaat"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.855146,
-            52.243561
-          ],
-          [
-            6.85471,
-            52.24313
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "af7f6d81aca4cb7828ca5d83586f20d7"
     },
     {
       "type": "Feature",
@@ -3557,6 +2691,7 @@
         "name": "Drienerbeeklaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84976,
@@ -3574,8 +2709,7 @@
             6.84728,
             52.240345
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b045d9dbd3cf4fa801b9a59733e3db81"
     },
@@ -3593,6 +2727,7 @@
         "name": "Drienerbeeklaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850567,
@@ -3602,8 +2737,7 @@
             6.850746,
             52.239063
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b2a0948e0cd53ca3787eb5c326bc58e1"
     },
@@ -3622,6 +2756,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852166,
@@ -3635,8 +2770,7 @@
             6.852027,
             52.242018
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b46f905c3348b845acf8052764705dc9"
     },
@@ -3655,6 +2789,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845139,
@@ -3668,8 +2803,7 @@
             6.84578,
             52.24781
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b530f61fa8ffb255522980858dd21eb6"
     },
@@ -3687,6 +2821,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.849256,
@@ -3700,48 +2835,9 @@
             6.850277,
             52.244986
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b5748d66b88bff0fa71cd8d51b6f0e91"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/144988085",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.851111,
-            52.239676
-          ],
-          [
-            6.85089,
-            52.239674
-          ],
-          [
-            6.850851,
-            52.239672
-          ],
-          [
-            6.850758,
-            52.239687
-          ],
-          [
-            6.850354,
-            52.239781
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "b5ec3594e51aef8225c84e9f98e017d7"
     },
     {
       "type": "Feature",
@@ -3756,6 +2852,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.863519,
@@ -3781,8 +2878,7 @@
             6.864067,
             52.241829
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b6028b93efa86085c2febed968509d04"
     },
@@ -3804,6 +2900,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856617,
@@ -3813,54 +2910,9 @@
             6.856731,
             52.242379
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b60df4c26995f1e48261ab8d48532fad"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/231208888",
-        "highway": "service",
-        "smoothness": "good",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.854311,
-            52.236824
-          ],
-          [
-            6.854368,
-            52.236874
-          ],
-          [
-            6.854598,
-            52.237083
-          ],
-          [
-            6.854658,
-            52.237137
-          ],
-          [
-            6.854641,
-            52.237145
-          ],
-          [
-            6.854628,
-            52.237151
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "b80b65b1002541db3b084613aa6b6e30"
     },
     {
       "type": "Feature",
@@ -3876,6 +2928,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850659,
@@ -3897,8 +2950,7 @@
             6.850119,
             52.247002
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "b9f7fe683ee24aa5085e3429fd10bc7c"
     },
@@ -3916,6 +2968,7 @@
         "name": "Oude Horstlindeweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848302,
@@ -3929,16 +2982,15 @@
             6.84592,
             52.244713
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "bd4302bd8532fdeace15603ec93afded"
     },
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "start_date": 1960,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -3949,6 +3001,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84578,
@@ -3966,28 +3019,9 @@
             6.845875,
             52.249167
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "be43a78ce593ee3e4f36ccfce02e791d"
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            6.858541,
-            52.236673
-          ],
-          [
-            6.858664,
-            52.236801
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "bfa3a7b6161fb67da9b29a0a33a00a5a"
     },
     {
       "type": "Feature",
@@ -4005,6 +3039,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.844206,
@@ -4022,8 +3057,7 @@
             6.845099,
             52.240868
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "bfe907fe41467a4888137d848bbf0cc7"
     },
@@ -4040,6 +3074,7 @@
         "name": "De Horst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858818,
@@ -4073,8 +3108,7 @@
             6.85898,
             52.238579
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c4184c0fc5e86915b6b951d8dadcddcb"
     },
@@ -4091,6 +3125,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858138,
@@ -4100,8 +3135,7 @@
             6.858081,
             52.237544
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c6859e81b18d3be92e3e68442843ef75"
     },
@@ -4121,6 +3155,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856964,
@@ -4158,8 +3193,7 @@
             6.853756,
             52.247678
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c8879bc119ffbee3494e40ed792463db"
     },
@@ -4177,6 +3211,7 @@
         "name": "Oude Horstlindeweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845345,
@@ -4186,8 +3221,7 @@
             6.845139,
             52.244842
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "c9f882f855954124931587aef0850eab"
     },
@@ -4205,6 +3239,7 @@
         "name": "Boerderijweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852282,
@@ -4214,38 +3249,9 @@
             6.852199,
             52.24187
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "cafb2e0060b38036d3a32db21e9db5ce"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/144633685",
-        "highway": "unclassified",
-        "maxspeed": "60",
-        "name": "Witbreuksweg"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.851049,
-            52.249262
-          ],
-          [
-            6.851102,
-            52.249323
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "ccbce1526b3b95578c35079355e0c465"
     },
     {
       "type": "Feature",
@@ -4261,6 +3267,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.852289,
@@ -4286,8 +3293,7 @@
             6.850157,
             52.247253
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ceb0b3da53f0977f43101ae389793864"
     },
@@ -4304,6 +3310,7 @@
         "name": "Boerderijweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858818,
@@ -4337,8 +3344,7 @@
             6.855982,
             52.241568
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d05a85edd0653c3e48d431b7f846d5d8"
     },
@@ -4357,6 +3363,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848509,
@@ -4366,8 +3373,7 @@
             6.849175,
             52.243867
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d1773c8a35f12a91b72b3ed13d1c91c2"
     },
@@ -4385,6 +3391,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.856401,
@@ -4394,8 +3401,7 @@
             6.856617,
             52.242271
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d368151523f7f9b4717f7a14464c3f92"
     },
@@ -4414,6 +3420,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.864539,
@@ -4423,70 +3430,9 @@
             6.864263,
             52.241813
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "d4502349c70d5e55ff50a564e1064c16"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/259703334",
-        "highway": "service"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.846575,
-            52.245628
-          ],
-          [
-            6.846633,
-            52.245562
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "d7e785ce4b1f71809767d0ce3bfb2ae0"
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            6.847719,
-            52.242942
-          ],
-          [
-            6.847805,
-            52.242864
-          ],
-          [
-            6.847851,
-            52.242801
-          ],
-          [
-            6.84787,
-            52.242742
-          ],
-          [
-            6.84784,
-            52.242561
-          ],
-          [
-            6.847816,
-            52.242297
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "da22f2819683da7c3fad54ac6ec031a2"
     },
     {
       "type": "Feature",
@@ -4502,6 +3448,7 @@
         "name": "Oude Horstlindeweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.84592,
@@ -4511,8 +3458,7 @@
             6.845345,
             52.24481
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dbba43019886c6ddca69fafa39ff5c6d"
     },
@@ -4531,6 +3477,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.845316,
@@ -4540,8 +3487,7 @@
             6.845099,
             52.240868
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dbe9112e41d131fe1d1ca46a9b00056f"
     },
@@ -4558,6 +3504,7 @@
         "name": "Dienstweg"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.854961,
@@ -4575,8 +3522,7 @@
             6.853169,
             52.239456
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dcac2a70d692ba09cf7455e315e159cd"
     },
@@ -4595,6 +3541,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.844238,
@@ -4608,8 +3555,7 @@
             6.845139,
             52.244842
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dcdd5caad3999404e270e576b9bc24da"
     },
@@ -4629,6 +3575,7 @@
         "oneway": "yes"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850567,
@@ -4650,8 +3597,7 @@
             6.849756,
             52.238345
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "dcea108aa2aad2e9f0b6e63afb1918df"
     },
@@ -4668,6 +3614,7 @@
         "name": "De Achterhorst"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.862835,
@@ -4677,8 +3624,7 @@
             6.8631,
             52.239904
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "e161df41c07726abc7425b4f13a5cce8"
     },
@@ -4697,6 +3643,7 @@
         "name": "Calslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850304,
@@ -4738,8 +3685,7 @@
             6.853756,
             52.247678
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "ea1ad83f2cac781d25029a260014eec2"
     },
@@ -4757,6 +3703,7 @@
         "name": "Campuslaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.848901,
@@ -4806,8 +3753,7 @@
             6.850157,
             52.247253
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "f11641f2e05ef5108a83390bad9f2ae7"
     },
@@ -4823,6 +3769,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.85898,
@@ -4840,8 +3787,7 @@
             6.858138,
             52.237597
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "f4673fced78c4a0de0d3f2827fef78af"
     },
@@ -4858,6 +3804,7 @@
         "name": "Drienerlolaan"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.850874,
@@ -4867,90 +3814,9 @@
             6.850915,
             52.239346
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "f5cdf234dadaab2a6b7d81209e32a055"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/143331023",
-        "cycleway": "cyclestreet",
-        "highway": "unclassified",
-        "maxspeed": "30",
-        "name": "Hengelosestraat",
-        "smoothness": "good",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.856349,
-            52.235982
-          ],
-          [
-            6.856116,
-            52.236071
-          ],
-          [
-            6.854776,
-            52.236591
-          ],
-          [
-            6.854515,
-            52.236727
-          ],
-          [
-            6.854311,
-            52.236824
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "f9ceb195a998da870b46de5bbfeacac8"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/34205965",
-        "highway": "unclassified",
-        "maxspeed": "60",
-        "name": "Witbreuksweg",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.850992,
-            52.250188
-          ],
-          [
-            6.851492,
-            52.249978
-          ],
-          [
-            6.851519,
-            52.24994
-          ],
-          [
-            6.851262,
-            52.249668
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "fae13b2bf2934b33c0b6f5e416bcf3bb"
     },
     {
       "type": "Feature",
@@ -4964,6 +3830,7 @@
         "highway": "unclassified"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.858081,
@@ -4977,16 +3844,15 @@
             6.857863,
             52.237332
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "fbe2a646db9965e655ae86dc4b7860f0"
     },
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "start_date": 1960,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -4998,6 +3864,7 @@
         "surface": "asphalt"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
             6.851049,
@@ -5019,70 +3886,71 @@
             6.8453,
             52.25098
           ]
-        ],
-        "type": "LineString"
+        ]
       },
       "id": "fc8aaaf6d6d9e4faf6647538465f078a"
     },
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
+        "start_date": 1960,
+        "end_date": 2017,
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/44103721",
-        "highway": "service",
-        "name": "Holzikerstraat",
-        "service": "driveway"
+        "imgurl": "http://beeldbank.utwente.nl"
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
-            6.860625,
-            52.240537
+            6.851037740707397,
+            52.24927042738459
           ],
           [
-            6.860945,
-            52.241018
+            6.851091384887695,
+            52.249336112204475
           ],
           [
-            6.861189,
-            52.241018
+            6.851069927215576,
+            52.24941493385994
+          ],
+          [
+            6.851107478141785,
+            52.24949375537539
+          ],
+          [
+            6.8512630462646475,
+            52.2496776717001
+          ],
+          [
+            6.851504445075989,
+            52.2499371237903
+          ],
+          [
+            6.8514883518218985,
+            52.24998310248347
+          ],
+          [
+            6.850994825363158,
+            52.25019000601295
+          ],
+          [
+            6.85072660446167,
+            52.24994697637143
+          ],
+          [
+            6.850742697715759,
+            52.24988129245599
+          ],
+          [
+            6.850833892822266,
+            52.24984188206004
+          ],
+          [
+            6.851246953010559,
+            52.24966453484505
           ]
-        ],
-        "type": "LineString"
-      },
-      "id": "feb6f5e4deca829b745418a82b135c75"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/145075403",
-        "highway": "service",
-        "service": "parking_aisle"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            6.850851,
-            52.239672
-          ],
-          [
-            6.851211,
-            52.240402
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": "ffe5b7c538a755fbcb85ad478680e81a"
+        ]
+      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
