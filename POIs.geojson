@@ -11,15 +11,15 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Carillon",
         "Start_date": "",
         "end_date": "",
         "description": "The campus of the Universityof Twente has its own carillon. The carillon, comprising 49 bells, was designedby the well-known architect Gerrit Rietveld and was donated in 1964 bymunicipalities in the environment of the University of Twente. Staff andstudents can take carillon lessons and play the instrument.",
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id8/b40efd0103f360a20091ec9b02fe3b0b00e9995f020701c13c03000080.jpg",
         "imgURL": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i65/37ce9b0103f360a20091ec9b02fe3b0b00e9995f020701c1da00da0080.jpg"
       }
     },
