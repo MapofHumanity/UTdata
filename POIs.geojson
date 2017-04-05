@@ -534,13 +534,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "\"Het Signaal\"",
-        "marker-size": 1975,
-        "name": "At one time Bert Meinen had his studio on campus. Students particularly admired the sculpture 'Het Signaal' as part of the exhibition he organized when he left. In material, colour and form it's typically Meinen s inspiration. The sculpture is well placed at the entrance, where most cars, cycles and pedestrians enter the campus. Meinen uses many geometric shapes and modern materials; you can find his work throughout the Netherlands.",
-        "Start_date": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i46/f7de4701039960a200caa0d602fe3b0b009a2e55020701c13c03000080.jpg",
-        "end_date": "",
-        "description": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i19/78c0da01039960a200caa0d602fe3b0b009a2e55020701c1da00da0080.jpg",
-        "marker-symbol": 2017
+        "name": ""Het Signaal"",
+        "Start_date": "1975",
+        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i19/78c0da01039960a200caa0d602fe3b0b009a2e55020701c1da00da0080.jpg",        
+        "end_date": "2017",
+        "description": "At one time Bert Meinen had his studio on campus. Students particularly admired the sculpture 'Het Signaal' as part of the exhibition he organized when he left. In material, colour and form it's typically Meinen s inspiration. The sculpture is well placed at the entrance, where most cars, cycles and pedestrians enter the campus. Meinen uses many geometric shapes and modern materials; you can find his work throughout the Netherlands.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i46/f7de4701039960a200caa0d602fe3b0b009a2e55020701c13c03000080.jpg"
       },
       "geometry": {
         "type": "Point",
