@@ -6,106 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.840169,
-          52.237919
-        ]
-      },
-      "properties": {
-        "name": "Kennispark Station",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "'Kennispark Station' is a train and bus station. It serves as a hub for the recreation area, University and Business and Science...",
-        "description": "'Kennispark Station' is a\ntrain and bus station. It serves as a hub for the recreation area, University\nand Business and Science Park.",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ib3/bc9dba0103f85da20086c07e04fe3b0b00e15c67020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic3/49d8fa0103f85da20086c07e04fe3b0b00e15c67020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.843624,
-          52.240461
-        ]
-      },
-      "properties": {
-        "name": "Bus stop De Broeierd",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i83/aec9ea0103b15ca200d2fa7004b13b0b00de26c2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i65/b90bc60103b15ca200d2fa7004b13b0b00de26c2010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.844482,
-          52.23836
-        ]
-      },
-      "properties": {
-        "name": "ThermoPlastic Composite Research Center",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "ThermoPlastic Composite Research Center (TPRC) is a collaboration project between industrial parties (Boeing, TenCate, Stork...",
-        "description": "ThermoPlastic Composite\nResearch Center (TPRC) is a collaboration project between industrial parties\n(Boeing, TenCate, Stork Fokker) and the University of Twente. This research centre\ncarries out research into thermoplastic composites. These lightweight materials\nare increasingly being put to use in the aviation and automotive industries.\nThe laboratory of TPRC is located on the premises of the University of Twente. More information: www.tprc.nl.",
-        "categories/0": "Research",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i34/452b7d0103215ba200a3743b04fe3b0b00bf2e71020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic0/8cd12e0103215ba200a3743b04fe3b0b00bf2e71020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.844547,
-          52.240856
-        ]
-      },
-      "properties": {
-        "name": "Bus stop Drienerbeeklaan",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i76/3e2c890103195da200f2a97704b13b0b00b0ffc0010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ia4/8384a50103195da200f2a97704b13b0b00b0ffc0010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.845467,
           52.241247
         ]
@@ -781,56 +681,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.849713,
-          52.239433
-        ]
-      },
-      "properties": {
-        "name": "Bus stop UT Main entrance",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i40/011c100103de5ba20050057604b13b0b0067dbc2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie9/a8e2810103de5ba20050057604b13b0b0067dbc2010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849782,
-          52.244527
-        ]
-      },
-      "properties": {
-        "name": "Bus stop UT De Hems",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i7e/49a0ad01037e60a2002a708f04b13b0b002a7cc2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie2/41bd1f01037e60a2002a708f04b13b0b002a7cc2010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.850002,
           52.239785
         ]
@@ -1006,31 +856,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.850319,
-          52.238267
-        ]
-      },
-      "properties": {
-        "name": "Bus stop Kennispark",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i92/82b8ce0103095ea200978e7404b13b0b00f641c2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/icb/c636c60103095ea200978e7404b13b0b00f641c2010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.850415,
           52.23987
         ]
@@ -1198,31 +1023,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i1e/a536ee010309076d009d0f2f04763b0b00bdea3b020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i83/99656b010309076d009d0f2f04763b0b00bdea3b020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.851037,
-          52.249723
-        ]
-      },
-      "properties": {
-        "name": "Bus stop UT Langenkampweg",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i1c/7f9f600103e65ca200ea748d04b13b0b00d1c4c2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/idc/8251420103e65ca200ea748d04b13b0b00d1c4c2010701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -1898,31 +1698,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ibc/195ed7010369076d001b843904763b0b00a9483e020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i66/3736f5010369076d001b843904763b0b00a9483e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8521,
-          52.246315
-        ]
-      },
-      "properties": {
-        "name": "Bus stop UT Reelaan",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ib8/92e75f0103105da200afc68f04b13b0b00b0f0c2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iaa/2544820103105da200afc68f04b13b0b00b0f0c2010701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -2732,31 +2507,6 @@
         "type": "Point",
         "coordinates": [
           6.853817,
-          52.238549
-        ]
-      },
-      "properties": {
-        "name": "Bus stop UT Hallenweg",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i55/c9ee6001030a5ea2005b028a04b13b0b00d9b1c2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i97/005ab001030a5ea2005b028a04b13b0b00d9b1c2010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853817,
           52.243503
         ]
       },
@@ -3323,31 +3073,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i20/f589a70103bf5aa200537d5403fe3b0b0096165d020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i87/5768140103bf5aa200537d5403fe3b0b0096165d020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.855801,
-          52.241365
-        ]
-      },
-      "properties": {
-        "name": "Bus stop UT De Zul",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iea/25612a0103af5ca20047c18a04b13b0b00a799c2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie2/fb84620103af5ca20047c18a04b13b0b00a799c2010701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -4431,31 +4156,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.861741,
-          52.250327
-        ]
-      },
-      "properties": {
-        "name": "Student housing Witbreuksweg",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The ground floor and the first floor of the pyramid dwellings at 'Witbreuksweg' house student communities, having their own...",
-        "description": "The ground floor and the first\nfloor of the pyramid dwellings at 'Witbreuksweg' house student communities, having\ntheir own sanitary facilities and a communal kitchen. The size of the rooms\nvaries between 16 and 22 m2. The third floor consists of independent\nrooms, each having sanitary facilities and a kitchen block of its own. The upper floor of the\npyramid dwellings contains apartments.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ida/5783bd01031259a2003a684304fe3b0b005f0f6f020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i75/83929f01031259a2003a684304fe3b0b005f0f6f020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.863365,
           52.241286
         ]
@@ -4524,56 +4224,6 @@
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i3a/b3ffe601038dfe6c0042e5f403763b0b00468e5f020701c1da00da0080.jpg",
         "parent": "poiobject:134B881A00DA25FB24AE0D7B766DF83E"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.885895,
-          52.223829
-        ]
-      },
-      "properties": {
-        "name": "Faculty ITC",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The Faculty of Geo-Information Science and Earth Observation.",
-        "description": "The Faculty of Geo-Information\nScience and Earth Observation (ITC) provides international postgraduate\neducation, as well as research and project services in the field of\ngeo-information science and earth observation, using remote sensing and GIS.\nThe aim of ITC's activities is the international exchange of knowledge,\nfocusing on capacity building and institutional development in developing countries\nand emerging economies.",
-        "categories/0": "Education",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i94/6b4f6c010303036d004ad7f403723b0b003dc6ad030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ibd/8c2577010303036d004ad7f403723b0b003dc6ad030701c1da00da0080.jpg",
-        "parent": "poiobject:E3881A4C449216DCCB2B2F44BB79B07F"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.885895,
-          52.223829
-        ]
-      },
-      "properties": {
-        "name": "ITC",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The ITC building is not established on the campus. ITC engages in research in the fields of geo-information sciences and earth...",
-        "description": "The ITC building is not\nestablished on the campus. ITC engages in research in the fields of\ngeo-information sciences and earth observation. The emphasis lies on\napplications in developing countries, using modern technology such as remote\nsensing and GIS (Geographical Information Systems).",
-        "categories/0": "Buildings",
-        "categories/1": "Research",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i94/6b4f6c010303036d004ad7f403723b0b003dc6ad030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ibd/8c2577010303036d004ad7f403723b0b003dc6ad030701c1da00da0080.jpg",
-        "parent": ""
       }
     }
   ]
