@@ -11,17 +11,20 @@
         ]
       },
       "properties": {
+        "marker-symbol": "oil-well",
         "name": "",
         "buildingnumber": 64,
         "Start_date": "",
         "end_date": "",
         "shortdescription": "The campus accommodates a comprehensive tennis park with four artificial grass and six hard courts. Some of the courts have...",
-        "description": "The campus accommodates a\ncomprehensive tennis park with four artificial grass and six hard courts. Some\nof the courts have artificial lighting. The tennis complex has a separate\ncanteen and changing rooms. For more information about the Tennis Association Ludica,\nplease contact bestuur@ludica.nl",
+        "description": "The campus accommodates acomprehensive tennis park with four artificial grass and six hard courts. Someof the courts have artificial lighting. The tennis complex has a separatecanteen and changing rooms. For more information about the Tennis Association Ludica,please contact bestuur@ludica.nl",
         "categories/0": "Sports",
         "categories/1": "",
         "categories/2": "",
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id2/ef5ec601033b056d00c7caf403763b0b0085bb48020701c13c03000080.jpg",
         "imgURL": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iff/f43d7401033b056d00c7caf403763b0b0085bb48020701c1da00da0080.jpg",
         "parent": ""
       }
