@@ -6,87 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.845467,
-          52.241247
-        ]
-      },
-      "properties": {
-        "name": "Calslaan 1",
-        "buildingnumber": 99,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "At Calslaan Oud students live in four-storey flats. On each floor lives one group consisting of eleven students. Each group has...",
-        "description": "At Calslaan Oud students live in four-storey flats. On each floor lives \none group consisting of eleven students. Each group has a balcony, two \nshowers, two wash basins and two toilets. The rooms are between 11 and \n16 m2 in size. On the upper floor of the flat there is an apartment.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i68/a30e9c0103bf60a200bc2c5402b13b0b0041fbcb010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i75/a50f8c0103bf60a200bc2c5402b13b0b0041fbcb010701c1da00da0080.jpg",
-        "parent": "poiobject:8C8E3CEB4A4575FD936B50CE277A2077"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.845467,
-          52.241247
-        ]
-      },
-      "properties": {
-        "name": "Student housing Calslaan Oud",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "At 'Calslaan Oud' students live in four-storey flats. Each floor accommodates one group consisting of eleven students. Each...",
-        "description": "At 'Calslaan Oud' students\nlive in four-storey flats. Each floor accommodates one group consisting of\neleven students. Each floor has a balcony, two showers, two washbasins and two\ntoilets. The rooms are between 11 and 16 m2 in size. An apartment is\nlocated on the upper floor of the flat.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i7b/5057750103855ba200833c4e04fe3b0b000d356e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i07/221ee40103855ba200833c4e04fe3b0b000d356e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.845877,
-          52.241624
-        ]
-      },
-      "properties": {
-        "name": "Student housing Calslaan Nieuw",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "'Calslaan Nieuw' is a four-storey flat. The building accommodates student communities who share sanitary facilities and a...",
-        "description": "'Calslaan Nieuw' is a\nfour-storey flat. The building accommodates student communities who share\nsanitary facilities and a kitchen. The groups vary in size from four to ten\nstudents. The rooms vary in size between 15 and 27 m2. Several other\ncomplexes consist of apartments with own sanitary facilities and an own\nkitchen.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ifb/2e38970103315ba200957c4804fe3b0b00e4096e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ida/cfe0570103315ba200957c4804fe3b0b00e4096e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.845952,
           52.243739
         ]
       },
       "properties": {
-        "name": "Tennispark",
+        "name": "",
         "buildingnumber": 64,
         "Start_date": "",
         "end_date": "",
@@ -111,7 +36,7 @@
         ]
       },
       "properties": {
-        "name": "Woonflatje by Maarten van Wensveen",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -136,7 +61,7 @@
         ]
       },
       "properties": {
-        "name": "Log cabins",
+        "name": "",
         "buildingnumber": 36,
         "Start_date": "",
         "end_date": "",
@@ -161,7 +86,7 @@
         ]
       },
       "properties": {
-        "name": "Logica",
+        "name": "",
         "buildingnumber": 65,
         "Start_date": "",
         "end_date": "",
@@ -186,7 +111,7 @@
         ]
       },
       "properties": {
-        "name": "Boerderij Bosch",
+        "name": "",
         "buildingnumber": 62,
         "Start_date": "",
         "end_date": "",
@@ -211,7 +136,7 @@
         ]
       },
       "properties": {
-        "name": "Employee housing Torenflat",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -231,62 +156,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.847291,
-          52.240302
-        ]
-      },
-      "properties": {
-        "name": "Employee housing Drienerbeeklaan",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i05/ef36d501037959a20083c0f502bc3b0b0032b38c010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i84/44f32701037959a20083c0f502bc3b0b0032b38c010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.847497,
-          52.248931
-        ]
-      },
-      "properties": {
-        "name": "Employee housing Reelaan",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i35/0de2550103435ba200d8e9f602bc3b0b0068e38c010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i53/f1abc00103435ba200d8e9f602bc3b0b0068e38c010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.847579,
           52.247256
         ]
       },
       "properties": {
-        "name": "Student housing Matenweg Pyramide",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -311,7 +186,7 @@
         ]
       },
       "properties": {
-        "name": "\"Manegeveld\"",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -336,7 +211,7 @@
         ]
       },
       "properties": {
-        "name": "Hockey fields",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -361,7 +236,7 @@
         ]
       },
       "properties": {
-        "name": "Matenweg 10",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -386,7 +261,7 @@
         ]
       },
       "properties": {
-        "name": "Student housing Matenweg Patio",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -406,37 +281,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.848302,
-          52.240356
-        ]
-      },
-      "properties": {
-        "name": "Parking Spiegel Building (backside)",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Parking",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ica/ebaac70103a55ca200c7aa6404b13b0b009120ca010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i14/d7cce10103a55ca200c7aa6404b13b0b009120ca010701c1da00da0080.jpg",
-        "parent": "poiobject:73DC5B08511169701208EA2318DD7391"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.848399,
           52.244768
         ]
       },
       "properties": {
-        "name": "Boortoren",
+        "name": "",
         "buildingnumber": 52,
         "Start_date": "",
         "end_date": "",
@@ -461,7 +311,7 @@
         ]
       },
       "properties": {
-        "name": "Patio Complex",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -486,7 +336,7 @@
         ]
       },
       "properties": {
-        "name": "Student housing Campuslaan Hoog",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -511,7 +361,7 @@
         ]
       },
       "properties": {
-        "name": "Student housing Campuslaan Laag",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -536,7 +386,7 @@
         ]
       },
       "properties": {
-        "name": "Company Doctor",
+        "name": "",
         "buildingnumber": 61,
         "Start_date": "",
         "end_date": "",
@@ -561,7 +411,7 @@
         ]
       },
       "properties": {
-        "name": "Linde",
+        "name": "",
         "buildingnumber": 61,
         "Start_date": "",
         "end_date": "",
@@ -586,7 +436,7 @@
         ]
       },
       "properties": {
-        "name": "Parking Linde building",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -611,7 +461,7 @@
         ]
       },
       "properties": {
-        "name": "Student housing Calslaan Wit",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -636,7 +486,7 @@
         ]
       },
       "properties": {
-        "name": "Beach fields",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -661,7 +511,7 @@
         ]
       },
       "properties": {
-        "name": "Canteen Spiegel",
+        "name": "",
         "buildingnumber": 2,
         "Start_date": "",
         "end_date": "",
@@ -686,7 +536,7 @@
         ]
       },
       "properties": {
-        "name": "Human Resources",
+        "name": "",
         "buildingnumber": 2,
         "Start_date": "",
         "end_date": "",
@@ -711,7 +561,7 @@
         ]
       },
       "properties": {
-        "name": "Security",
+        "name": "",
         "buildingnumber": 2,
         "Start_date": "",
         "end_date": "",
@@ -736,7 +586,7 @@
         ]
       },
       "properties": {
-        "name": "Spiegel",
+        "name": "",
         "buildingnumber": 2,
         "Start_date": "",
         "end_date": "",
@@ -761,7 +611,7 @@
         ]
       },
       "properties": {
-        "name": "Study Information Centre",
+        "name": "",
         "buildingnumber": 2,
         "Start_date": "",
         "end_date": "",
@@ -786,7 +636,7 @@
         ]
       },
       "properties": {
-        "name": "Basketball fields",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -811,7 +661,7 @@
         ]
       },
       "properties": {
-        "name": "Parking sports centre building",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -836,7 +686,7 @@
         ]
       },
       "properties": {
-        "name": "Vleugel",
+        "name": "",
         "buildingnumber": 3,
         "Start_date": "",
         "end_date": "",
@@ -861,7 +711,7 @@
         ]
       },
       "properties": {
-        "name": "Parking Spiegel Building (Frontside)",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -886,12 +736,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Carillon",
         "buildingnumber": 4,
         "Start_date": "",
         "end_date": "",
         "shortdescription": "The campus of the University of Twente has its own carillon. The carillon, comprising 49 bells, was designed by the well-known...",
-        "description": "The campus of the University\nof Twente has its own carillon. The carillon, comprising 49 bells, was designed\nby the well-known architect Gerrit Rietveld and was donated in 1964 by\nmunicipalities in the environment of the University of Twente. Staff and\nstudents can take carillon lessons and play the instrument.",
+        "description": "The campus of the Universityof Twente has its own carillon. The carillon, comprising 49 bells, was designedby the well-known architect Gerrit Rietveld and was donated in 1964 bymunicipalities in the environment of the University of Twente. Staff andstudents can take carillon lessons and play the instrument.",
         "categories/0": "Culture",
         "categories/1": "Buildings",
         "categories/2": "",
@@ -911,7 +764,7 @@
         ]
       },
       "properties": {
-        "name": "Box",
+        "name": "",
         "buildingnumber": 53,
         "Start_date": "",
         "end_date": "",
@@ -936,12 +789,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Outdoor Climbing Wall",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "Next to the building 'Sky' you'll find the high outdoor climbing wall and low boulder wall. You can use the high climbing wall...",
-        "description": "Next to the building 'Sky' you'll\nfind the high outdoor climbing wall and low boulder wall. You can use the high\nclimbing wall under the guidance of a qualified instructor. The boulder wall is\nfreely accessible.\n\n \n\n Heights \n\nBoulder wall: 5\nmetres \n\nClimbing wall:\n28 metres",
+        "description": "Next to the building 'Sky' you'llfind the high outdoor climbing wall and low boulder wall. You can use the highclimbing wall under the guidance of a qualified instructor. The boulder wall isfreely accessible.  Heights Boulder wall: 5metres Climbing wall:28 metres",
         "categories/0": "Sports",
         "categories/1": "",
         "categories/2": "",
@@ -961,7 +817,7 @@
         ]
       },
       "properties": {
-        "name": "\"Verreveld\"",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -986,7 +842,7 @@
         ]
       },
       "properties": {
-        "name": "\"Bastilleveld\"",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1011,7 +867,7 @@
         ]
       },
       "properties": {
-        "name": "Dietician",
+        "name": "",
         "buildingnumber": 49,
         "Start_date": "",
         "end_date": "",
@@ -1036,7 +892,7 @@
         ]
       },
       "properties": {
-        "name": "Physical therapist",
+        "name": "",
         "buildingnumber": 49,
         "Start_date": "",
         "end_date": "",
@@ -1061,7 +917,7 @@
         ]
       },
       "properties": {
-        "name": "Sports Canteen",
+        "name": "",
         "buildingnumber": 49,
         "Start_date": "",
         "end_date": "",
@@ -1086,7 +942,7 @@
         ]
       },
       "properties": {
-        "name": "Sports centre",
+        "name": "",
         "buildingnumber": 49,
         "Start_date": "",
         "end_date": "",
@@ -1111,7 +967,7 @@
         ]
       },
       "properties": {
-        "name": "Swimming pool - Indoor",
+        "name": "",
         "buildingnumber": 49,
         "Start_date": "",
         "end_date": "",
@@ -1136,7 +992,7 @@
         ]
       },
       "properties": {
-        "name": "Baseball field",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1161,7 +1017,7 @@
         ]
       },
       "properties": {
-        "name": "Sky",
+        "name": "",
         "buildingnumber": 51,
         "Start_date": "",
         "end_date": "",
@@ -1186,7 +1042,7 @@
         ]
       },
       "properties": {
-        "name": "Bus stop UT Bastille",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1211,7 +1067,7 @@
         ]
       },
       "properties": {
-        "name": "Asa Student Employment Agency",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1236,7 +1092,7 @@
         ]
       },
       "properties": {
-        "name": "ATM",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1261,7 +1117,7 @@
         ]
       },
       "properties": {
-        "name": "Bicycle Repair Shop",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1286,7 +1142,7 @@
         ]
       },
       "properties": {
-        "name": "Hairdresser",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1311,7 +1167,7 @@
         ]
       },
       "properties": {
-        "name": "Parcel Lockers De Buren",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1336,7 +1192,7 @@
         ]
       },
       "properties": {
-        "name": "Supermarket",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1361,7 +1217,7 @@
         ]
       },
       "properties": {
-        "name": "Campus University of Twente",
+        "name": "",
         "buildingnumber": 99,
         "Start_date": "",
         "end_date": "",
@@ -1386,12 +1242,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "\"Het Ding\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "'Het Ding' was originated as a student prank. Some students constructed the object in secret and erected it in a single day...",
-        "description": "Het Ding' was originated as a\nstudent prank. Some students constructed the object in\nsecret and erected it in a single day using salvaged telephone poles and\npretensioned steel cables. The principle of building construction was discovered by the American innovator\nRichard Buckminster Fuller. Kenneth Snelson created a\nsimilar work, which you can see in the Kröller-Müller sculpture garden, Otterlo.",
+        "description": "Het Ding' was originated as astudent prank. Some students constructed the object insecret and erected it in a single day using salvaged telephone poles andpretensioned steel cables. The principle of building construction was discovered by the American innovatorRichard Buckminster Fuller. Kenneth Snelson created asimilar work, which you can see in the Kröller-Müller sculpture garden, Otterlo.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -1411,12 +1270,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Tango Dancers",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "The work of sculptress and designer Marijke de Goey is rooted in the Dutch tradition of geometric clarity. The primary shapes...",
-        "description": "The work of sculptress and\ndesigner Marijke de Goey is rooted in the Dutch tradition of geometric clarity.\nThe primary shapes she uses are straight and curved lines, as well as rectangles.\nDe Goey designs art objects for public spaces, but also makes jewellery. 'Tango\nDancers' was constructed for another courtyard on the campus, but had to move. Here they dance on, in\nDe Goey's favourite blue. ",
+        "description": "The work of sculptress anddesigner Marijke de Goey is rooted in the Dutch tradition of geometric clarity.The primary shapes she uses are straight and curved lines, as well as rectangles.De Goey designs art objects for public spaces, but also makes jewellery. 'TangoDancers' was constructed for another courtyard on the campus, but had to move. Here they dance on, inDe Goey's favourite blue. ",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -1436,7 +1298,7 @@
         ]
       },
       "properties": {
-        "name": "Vlinder, day-care centre",
+        "name": "",
         "buildingnumber": 60,
         "Start_date": "",
         "end_date": "",
@@ -1461,12 +1323,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "\"Sardineblik\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "Ger van Elk is one of the most important representatives of conceptual arts in the Netherlands. This large, half-open can of...",
-        "description": "Ger van Elk is one of the most important representatives\nof conceptual arts in the Netherlands. This large, half-open can of fish is an\nexample of 'anti-art'. Van Elk's intension was to create a playful counterpoint\nto the serious business of science. In the days when the Drienerlolaan was\nstill a four-lane road, this work was sited prominently in the central\nreservation.",
+        "description": "Ger van Elk is one of the most important representativesof conceptual arts in the Netherlands. This large, half-open can of fish is anexample of 'anti-art'. Van Elk's intension was to create a playful counterpointto the serious business of science. In the days when the Drienerlolaan wasstill a four-lane road, this work was sited prominently in the centralreservation.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -1486,7 +1351,7 @@
         ]
       },
       "properties": {
-        "name": "Bastille",
+        "name": "",
         "buildingnumber": 48,
         "Start_date": "",
         "end_date": "",
@@ -1511,7 +1376,7 @@
         ]
       },
       "properties": {
-        "name": "Pre-U",
+        "name": "",
         "buildingnumber": 48,
         "Start_date": "",
         "end_date": "",
@@ -1536,7 +1401,7 @@
         ]
       },
       "properties": {
-        "name": "Student Union",
+        "name": "",
         "buildingnumber": 48,
         "Start_date": "",
         "end_date": "",
@@ -1561,7 +1426,7 @@
         ]
       },
       "properties": {
-        "name": "The Vestingbar",
+        "name": "",
         "buildingnumber": 48,
         "Start_date": "",
         "end_date": "",
@@ -1586,7 +1451,7 @@
         ]
       },
       "properties": {
-        "name": "UnionShop",
+        "name": "",
         "buildingnumber": 48,
         "Start_date": "",
         "end_date": "",
@@ -1611,12 +1476,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "\"Roombeek\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "The Roombeek neighbourhood of Enschede was the location of a horrible firework disaster in 2001. In commemoration, local policy...",
-        "description": "The Roombeek neighbourhood of Enschede was the\nlocation of a horrible firework disaster in 2001. In commemoration, local\npolicy decided to let the Roombeek stream flow above ground once again. The\nbrook now meanders from the disaster neighbourhood to the campus. The Regge and\nDinkel Water Authority built an ingenious passage for it underneath the\nDrienerlolaan. The city and the campus are now connected by its waters.",
+        "description": "The Roombeek neighbourhood of Enschede was thelocation of a horrible firework disaster in 2001. In commemoration, localpolicy decided to let the Roombeek stream flow above ground once again. Thebrook now meanders from the disaster neighbourhood to the campus. The Regge andDinkel Water Authority built an ingenious passage for it underneath theDrienerlolaan. The city and the campus are now connected by its waters.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -1661,7 +1529,7 @@
         ]
       },
       "properties": {
-        "name": "Archery field",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1686,7 +1554,7 @@
         ]
       },
       "properties": {
-        "name": "UTrack",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1711,7 +1579,7 @@
         ]
       },
       "properties": {
-        "name": "Employee housing Langenkampweg",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1736,12 +1604,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Event field - \"Ganzenveld\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "In the middle of the University of Twente campus you'll find a large professional events ground that offers room to 35,000...",
-        "description": "In the middle of the University\nof Twente campus you'll find a large professional events ground that offers\nroom to 35,000 visitors. The ground is used for, among other things,\nlarge-scale events such as Campuspop, Citymoves and Europe's largest students\nfestival: the Batavians Festival. Underneath the grass cover, the ground is\nhardened and has been fitted with a drainage system, internet, power\nconnections, water supply and discharge, as well as facilities for placing\ntoilets.",
+        "description": "In the middle of the Universityof Twente campus you'll find a large professional events ground that offersroom to 35,000 visitors. The ground is used for, among other things,large-scale events such as Campuspop, Citymoves and Europe's largest studentsfestival: the Batavians Festival. Underneath the grass cover, the ground ishardened and has been fitted with a drainage system, internet, powerconnections, water supply and discharge, as well as facilities for placingtoilets.",
         "categories/0": "Events",
         "categories/1": "",
         "categories/2": "",
@@ -1761,12 +1632,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Information Plaza by Andrea Blum",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "American artist Andrea Blum created this work especially for the University of Twente. 'Information Plaza' consists of two...",
-        "description": "American artist Andrea Blum\ncreated this work especially for the University of Twente. 'Information Plaza'\nconsists of two overlapping squares, and is intended to serve as a meeting\npoint. It also serves as a central information point, with a rolling display\nthat shows the news headlines. Its placement creates a central passage for both\ncyclists and pedestrians. ",
+        "description": "American artist Andrea Blumcreated this work especially for the University of Twente. 'Information Plaza'consists of two overlapping squares, and is intended to serve as a meetingpoint. It also serves as a central information point, with a rolling displaythat shows the news headlines. Its placement creates a central passage for bothcyclists and pedestrians. ",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -1786,7 +1660,7 @@
         ]
       },
       "properties": {
-        "name": "Facility Service Centre(FB)",
+        "name": "",
         "buildingnumber": 6,
         "Start_date": "",
         "end_date": "",
@@ -1811,7 +1685,7 @@
         ]
       },
       "properties": {
-        "name": "Paviljoen",
+        "name": "",
         "buildingnumber": 6,
         "Start_date": "",
         "end_date": "",
@@ -1836,7 +1710,7 @@
         ]
       },
       "properties": {
-        "name": "Parking Paviljoen Building",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -1861,12 +1735,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Bonita Avenue",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "This street sign refers to the best-selling novel Bonita Avenue of the famous Dutch writer Peter Buwalda. The book s action...",
-        "description": "This street sign refers to the\nbest-selling novel Bonita Avenue of the famous Dutch writer Peter Buwalda. The\nbook s action takes place mainly on the campus of Tubantia University, and one\nof the main protagonists is rector Siem Sigerius (the University of Twente\ncampus and a previous rector served as models for the book). Buwalda was a\njournalist on the campus newspaper, UT-News. The Vrijhof Culture Centre organizes\nspecial Buwalda walking tours on campus.",
+        "description": "This street sign refers to thebest-selling novel Bonita Avenue of the famous Dutch writer Peter Buwalda. Thebook s action takes place mainly on the campus of Tubantia University, and oneof the main protagonists is rector Siem Sigerius (the University of Twentecampus and a previous rector served as models for the book). Buwalda was ajournalist on the campus newspaper, UT-News. The Vrijhof Culture Centre organizesspecial Buwalda walking tours on campus.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -1886,7 +1763,7 @@
         ]
       },
       "properties": {
-        "name": "Mondriaan",
+        "name": "",
         "buildingnumber": 59,
         "Start_date": "",
         "end_date": "",
@@ -1911,7 +1788,7 @@
         ]
       },
       "properties": {
-        "name": "CampusCompany",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -1936,7 +1813,7 @@
         ]
       },
       "properties": {
-        "name": "Student Affairs Coaching & Counselling",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -1961,7 +1838,7 @@
         ]
       },
       "properties": {
-        "name": "Student pastoral care, sanctuary and mosque",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -1986,7 +1863,7 @@
         ]
       },
       "properties": {
-        "name": "Student Services",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -2011,7 +1888,7 @@
         ]
       },
       "properties": {
-        "name": "Studium Generale",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -2036,7 +1913,7 @@
         ]
       },
       "properties": {
-        "name": "TCP Language Centre",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -2061,7 +1938,7 @@
         ]
       },
       "properties": {
-        "name": "Theatre Café",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -2086,7 +1963,7 @@
         ]
       },
       "properties": {
-        "name": "University Library",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -2111,7 +1988,7 @@
         ]
       },
       "properties": {
-        "name": "UT-News",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -2136,7 +2013,7 @@
         ]
       },
       "properties": {
-        "name": "Vrijhof Cultural Centre",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -2161,7 +2038,7 @@
         ]
       },
       "properties": {
-        "name": "Writing Centre",
+        "name": "",
         "buildingnumber": 47,
         "Start_date": "",
         "end_date": "",
@@ -2186,7 +2063,7 @@
         ]
       },
       "properties": {
-        "name": "Parking Sleutel building",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -2211,12 +2088,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Open air theatre",
         "buildingnumber": 56,
         "Start_date": "",
         "end_date": "",
         "shortdescription": "This attractive brick open-air theatre is located in the middle of the woods on the campus. In the summer it often boasts a...",
-        "description": "This attractive brick open-air\ntheatre is located in the middle of the woods on the campus. In the summer it\noften boasts a large variety of cultural performances such as films and theatre\nperformances. Architecture by Piet Blom \n\n\n\n\n\nPiet Blom designed the\nintimate open-air theatre as part of his Centre Plan. This structure is\nreminiscent of a Kasbah, stretching from the Hogekamp to the cinder track and\nthe sports centre. Blom s Centre Plan was enormous, but in the end only the 'Bastille'\nand the open-air theatre were built. The acoustics are fantastic: just stand on\nthe spot in the middle and clap your hands. ",
+        "description": "This attractive brick open-airtheatre is located in the middle of the woods on the campus. In the summer itoften boasts a large variety of cultural performances such as films and theatreperformances. Architecture by Piet Blom Piet Blom designed theintimate open-air theatre as part of his Centre Plan. This structure isreminiscent of a Kasbah, stretching from the Hogekamp to the cinder track andthe sports centre. Blom s Centre Plan was enormous, but in the end only the 'Bastille'and the open-air theatre were built. The acoustics are fantastic: just stand onthe spot in the middle and clap your hands. ",
         "categories/0": "Culture",
         "categories/1": "Buildings",
         "categories/2": "",
@@ -2236,7 +2116,7 @@
         ]
       },
       "properties": {
-        "name": "Cinder track",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -2261,7 +2141,7 @@
         ]
       },
       "properties": {
-        "name": "Vrijhof Audiozaal",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -2286,12 +2166,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "\"Ideëenvanger\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "The Belgian artist Fred Bellefroid designed this sculpture to commemorate rector Frans van Vught s departure. Another...",
-        "description": "The Belgian artist Fred\nBellefroid designed this sculpture to commemorate rector Frans van Vught s\ndeparture. Another Bellefroid bronze - 'De Blijvende Verwondering', 1999 - you\n'll find farther along the boulevard beside the Bastille. In contrast to most\nsculptures on campus, these images are figurative.",
+        "description": "The Belgian artist FredBellefroid designed this sculpture to commemorate rector Frans van Vught sdeparture. Another Bellefroid bronze - 'De Blijvende Verwondering', 1999 - you'll find farther along the boulevard beside the Bastille. In contrast to mostsculptures on campus, these images are figurative.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -2311,7 +2194,7 @@
         ]
       },
       "properties": {
-        "name": "Acasa - De Veste",
+        "name": "",
         "buildingnumber": 58,
         "Start_date": "",
         "end_date": "",
@@ -2336,7 +2219,7 @@
         ]
       },
       "properties": {
-        "name": "Dentist",
+        "name": "",
         "buildingnumber": 58,
         "Start_date": "",
         "end_date": "",
@@ -2361,7 +2244,7 @@
         ]
       },
       "properties": {
-        "name": "General Practitioner",
+        "name": "",
         "buildingnumber": 58,
         "Start_date": "",
         "end_date": "",
@@ -2386,7 +2269,7 @@
         ]
       },
       "properties": {
-        "name": "Sleutel",
+        "name": "",
         "buildingnumber": 58,
         "Start_date": "",
         "end_date": "",
@@ -2411,12 +2294,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Church Tower",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "Wim T. Schippers is a man of many talents: artist, presenter, playwright. He created this striking work specifically for the...",
-        "description": "Wim T. Schippers is a man of\nmany talents: artist, presenter, playwright. He created this striking work\nspecifically for the campus. The 'Little Tower of Drienerlo' stands in the\nwater half-submerged. Schippers himself deliberately spread all kinds of\nrumours about this new classic landmark, one of them being that once a church\nstood here, but it had slowly submerged under the marshy Twente ground. The 'Torentje' is a\ngenuine University of Twente icon.",
+        "description": "Wim T. Schippers is a man ofmany talents: artist, presenter, playwright. He created this striking workspecifically for the campus. The 'Little Tower of Drienerlo' stands in thewater half-submerged. Schippers himself deliberately spread all kinds ofrumours about this new classic landmark, one of them being that once a churchstood here, but it had slowly submerged under the marshy Twente ground. The 'Torentje' is agenuine University of Twente icon.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -2436,7 +2322,7 @@
         ]
       },
       "properties": {
-        "name": "Faculty Club",
+        "name": "",
         "buildingnumber": 42,
         "Start_date": "",
         "end_date": "",
@@ -2461,7 +2347,7 @@
         ]
       },
       "properties": {
-        "name": "Drienerburght",
+        "name": "",
         "buildingnumber": 44,
         "Start_date": "",
         "end_date": "",
@@ -2486,12 +2372,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "\"De jongen in het bootje in de snorkelaar\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "Both works are floating in the pond behind the Vrijhof. You can easily see them from the library s study areas. De jongen...",
-        "description": "Both works are floating in the\npond behind the Vrijhof. You can easily see them from the library s study\nareas. De jongen in het bootje  was originally located in 'the Volkspark' in\nEnschede, but unfortunately too many people called the emergency services. The\nother object is constructed of the same colourful polyester. The designer is Petra\nGroen.",
+        "description": "Both works are floating in thepond behind the Vrijhof. You can easily see them from the library s studyareas. De jongen in het bootje  was originally located in 'the Volkspark' inEnschede, but unfortunately too many people called the emergency services. Theother object is constructed of the same colourful polyester. The designer is PetraGroen.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -2511,7 +2400,7 @@
         ]
       },
       "properties": {
-        "name": "Parking Outdoor Swimmingpool",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -2536,7 +2425,7 @@
         ]
       },
       "properties": {
-        "name": "Parking The Gallery (backside)",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -2561,7 +2450,7 @@
         ]
       },
       "properties": {
-        "name": "Garage",
+        "name": "",
         "buildingnumber": 5,
         "Start_date": "",
         "end_date": "",
@@ -2586,7 +2475,7 @@
         ]
       },
       "properties": {
-        "name": "Swimming pool - Outdoor",
+        "name": "",
         "buildingnumber": 57,
         "Start_date": "",
         "end_date": "",
@@ -2611,7 +2500,7 @@
         ]
       },
       "properties": {
-        "name": "Parking P0",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -2636,7 +2525,7 @@
         ]
       },
       "properties": {
-        "name": "Parking Vrijhof building",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -2661,7 +2550,7 @@
         ]
       },
       "properties": {
-        "name": "Designlab",
+        "name": "",
         "buildingnumber": 17,
         "Start_date": "",
         "end_date": "",
@@ -2686,7 +2575,7 @@
         ]
       },
       "properties": {
-        "name": "Kennispark Twente",
+        "name": "",
         "buildingnumber": 17,
         "Start_date": "",
         "end_date": "",
@@ -2711,7 +2600,7 @@
         ]
       },
       "properties": {
-        "name": "Restaurant and Grand Café Gallery",
+        "name": "",
         "buildingnumber": 17,
         "Start_date": "",
         "end_date": "",
@@ -2736,7 +2625,7 @@
         ]
       },
       "properties": {
-        "name": "The Gallery",
+        "name": "",
         "buildingnumber": 17,
         "Start_date": "",
         "end_date": "",
@@ -2761,7 +2650,7 @@
         ]
       },
       "properties": {
-        "name": "The Science Shop",
+        "name": "",
         "buildingnumber": 17,
         "Start_date": "",
         "end_date": "",
@@ -2786,7 +2675,7 @@
         ]
       },
       "properties": {
-        "name": "Citadel",
+        "name": "",
         "buildingnumber": 9,
         "Start_date": "",
         "end_date": "",
@@ -2811,7 +2700,7 @@
         ]
       },
       "properties": {
-        "name": "ICT Servicedesk",
+        "name": "",
         "buildingnumber": 9,
         "Start_date": "",
         "end_date": "",
@@ -2836,7 +2725,7 @@
         ]
       },
       "properties": {
-        "name": "Notebook Service Centre (NSC)",
+        "name": "",
         "buildingnumber": 9,
         "Start_date": "",
         "end_date": "",
@@ -2861,7 +2750,7 @@
         ]
       },
       "properties": {
-        "name": "Coffee Corner Ravelijn",
+        "name": "",
         "buildingnumber": 10,
         "Start_date": "",
         "end_date": "",
@@ -2886,7 +2775,7 @@
         ]
       },
       "properties": {
-        "name": "Faculty BMS - Ravelijn",
+        "name": "",
         "buildingnumber": 10,
         "Start_date": "",
         "end_date": "",
@@ -2911,7 +2800,7 @@
         ]
       },
       "properties": {
-        "name": "IGS",
+        "name": "",
         "buildingnumber": 10,
         "Start_date": "",
         "end_date": "",
@@ -2936,7 +2825,7 @@
         ]
       },
       "properties": {
-        "name": "Ravelijn",
+        "name": "",
         "buildingnumber": 10,
         "Start_date": "",
         "end_date": "",
@@ -2986,7 +2875,7 @@
         ]
       },
       "properties": {
-        "name": "Education and Research square",
+        "name": "",
         "buildingnumber": 0,
         "Start_date": "",
         "end_date": "",
@@ -3011,7 +2900,7 @@
         ]
       },
       "properties": {
-        "name": "O&O Square",
+        "name": "",
         "buildingnumber": 0,
         "Start_date": "",
         "end_date": "",
@@ -3036,12 +2925,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Bubus",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "A silver-coloured artwork is floating in the pond. It is a ball and a cube at the same time: hence the name Bubus. This witty...",
-        "description": "A silver-coloured artwork is\nfloating in the pond. It is a ball and a cube at the same time: hence the name\nBubus. This witty stainless steel object, which looks like an inflated floating\ntoy (even though it weighs 2500 kilograms) is a design of artist Ruurd\nHallema.",
+        "description": "A silver-coloured artwork isfloating in the pond. It is a ball and a cube at the same time: hence the nameBubus. This witty stainless steel object, which looks like an inflated floatingtoy (even though it weighs 2500 kilograms) is a design of artist RuurdHallema.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -3061,7 +2953,7 @@
         ]
       },
       "properties": {
-        "name": "Hogekamp",
+        "name": "",
         "buildingnumber": 45,
         "Start_date": "",
         "end_date": "",
@@ -3086,7 +2978,7 @@
         ]
       },
       "properties": {
-        "name": "Parking P1",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -3111,7 +3003,7 @@
         ]
       },
       "properties": {
-        "name": "Starbucks Coffee",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -3136,7 +3028,7 @@
         ]
       },
       "properties": {
-        "name": "Stores - for electronics and parts",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -3161,7 +3053,7 @@
         ]
       },
       "properties": {
-        "name": "Parking Hogekamp building",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -3186,7 +3078,7 @@
         ]
       },
       "properties": {
-        "name": "Abacus",
+        "name": "",
         "buildingnumber": 11,
         "Start_date": "",
         "end_date": "",
@@ -3211,7 +3103,7 @@
         ]
       },
       "properties": {
-        "name": "CTIT",
+        "name": "",
         "buildingnumber": 11,
         "Start_date": "",
         "end_date": "",
@@ -3236,7 +3128,7 @@
         ]
       },
       "properties": {
-        "name": "Faculty EEMCS",
+        "name": "",
         "buildingnumber": 11,
         "Start_date": "",
         "end_date": "",
@@ -3261,7 +3153,7 @@
         ]
       },
       "properties": {
-        "name": "Faculty EWI - Zilverling",
+        "name": "",
         "buildingnumber": 11,
         "Start_date": "",
         "end_date": "",
@@ -3286,7 +3178,7 @@
         ]
       },
       "properties": {
-        "name": "Zilverling",
+        "name": "",
         "buildingnumber": 11,
         "Start_date": "",
         "end_date": "",
@@ -3311,7 +3203,7 @@
         ]
       },
       "properties": {
-        "name": "Technohal (former Artez)",
+        "name": "",
         "buildingnumber": 18,
         "Start_date": "",
         "end_date": "",
@@ -3361,7 +3253,7 @@
         ]
       },
       "properties": {
-        "name": "Coffee Corner Waaier",
+        "name": "",
         "buildingnumber": 12,
         "Start_date": "",
         "end_date": "",
@@ -3386,7 +3278,7 @@
         ]
       },
       "properties": {
-        "name": "Waaier",
+        "name": "",
         "buildingnumber": 12,
         "Start_date": "",
         "end_date": "",
@@ -3411,7 +3303,7 @@
         ]
       },
       "properties": {
-        "name": "Cubicus",
+        "name": "",
         "buildingnumber": 41,
         "Start_date": "",
         "end_date": "",
@@ -3436,7 +3328,7 @@
         ]
       },
       "properties": {
-        "name": "Faculty BMS - Cubicus",
+        "name": "",
         "buildingnumber": 41,
         "Start_date": "",
         "end_date": "",
@@ -3461,7 +3353,7 @@
         ]
       },
       "properties": {
-        "name": "Hal B",
+        "name": "",
         "buildingnumber": 13,
         "Start_date": "",
         "end_date": "",
@@ -3486,12 +3378,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "\"Tengenenge beeldengroep\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "These statues were created by various artists from Tengenenge, Zimbabwe. The sculptors  cooperative was founded in the 1960s...",
-        "description": "These statues were created by various artists from\nTengenenge, Zimbabwe. The sculptors  cooperative was founded in the 1960s by\nTom Blomefield, a charismatic and enterprising tobacco planter. The campus\nhosted major open-air exhibitions of these works in 1997 and 2000. This spot\nwas designed by architect Geja Stassen in order to house the serpentine stone\nsculptures that were purchased or donated.",
+        "description": "These statues were created by various artists fromTengenenge, Zimbabwe. The sculptors  cooperative was founded in the 1960s byTom Blomefield, a charismatic and enterprising tobacco planter. The campushosted major open-air exhibitions of these works in 1997 and 2000. This spotwas designed by architect Geja Stassen in order to house the serpentine stonesculptures that were purchased or donated.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -3511,7 +3406,7 @@
         ]
       },
       "properties": {
-        "name": "MESA+",
+        "name": "",
         "buildingnumber": 16,
         "Start_date": "",
         "end_date": "",
@@ -3536,7 +3431,7 @@
         ]
       },
       "properties": {
-        "name": "Nanolab",
+        "name": "",
         "buildingnumber": 16,
         "Start_date": "",
         "end_date": "",
@@ -3561,7 +3456,7 @@
         ]
       },
       "properties": {
-        "name": "Parking P2",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -3586,7 +3481,7 @@
         ]
       },
       "properties": {
-        "name": "Parking P3",
+        "name": "",
         "buildingnumber": null,
         "Start_date": "",
         "end_date": "",
@@ -3611,7 +3506,7 @@
         ]
       },
       "properties": {
-        "name": "Carré",
+        "name": "",
         "buildingnumber": 15,
         "Start_date": "",
         "end_date": "",
@@ -3661,7 +3556,7 @@
         ]
       },
       "properties": {
-        "name": "Faculty EWI - Carre",
+        "name": "",
         "buildingnumber": 15,
         "Start_date": "",
         "end_date": "",
@@ -3686,7 +3581,7 @@
         ]
       },
       "properties": {
-        "name": "Faculty TNW",
+        "name": "",
         "buildingnumber": 15,
         "Start_date": "",
         "end_date": "",
@@ -3711,7 +3606,7 @@
         ]
       },
       "properties": {
-        "name": "The Experimental Centre for Technical Medicine (ECTM)",
+        "name": "",
         "buildingnumber": 15,
         "Start_date": "",
         "end_date": "",
@@ -3736,7 +3631,7 @@
         ]
       },
       "properties": {
-        "name": "Xerox Service Center Carré",
+        "name": "",
         "buildingnumber": 15,
         "Start_date": "",
         "end_date": "",
@@ -3761,12 +3656,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "\"De Trom\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "'De Trom' is a design by Evert Strobos. As one of his early works, it is constructed in polyester, a material he never used...",
-        "description": "'De Trom' is a design by Evert\nStrobos. As one of his early works, it is constructed in polyester, a material\nhe never used again. The flamboyant colour is atypical for his later work as\nwell. Apart from that, it is a typical Strobos, striking a powerful note in the\nlandscape: monumental, sober and rhythmic. ",
+        "description": "'De Trom' is a design by EvertStrobos. As one of his early works, it is constructed in polyester, a materialhe never used again. The flamboyant colour is atypical for his later work aswell. Apart from that, it is a typical Strobos, striking a powerful note in thelandscape: monumental, sober and rhythmic. ",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -3786,12 +3684,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "\"Kolommen\"",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "Fourteen steel columns stand among the trees of the Pinetum collection. It seems they have been designed specifically for this...",
-        "description": "Fourteen steel columns stand among the trees of the\nPinetum collection. It seems they have been designed specifically for this\nlandscape, but in fact they are a gift from ex-rector Draijer. The columns were\nstanding in his front garden. 'De Kolommen' is a design by Evert Strobos, who\nis known for his monumental objects, that act as markers in the landscape. Strobos\nhas similar works in the Kröller-Müller statue garden. ",
+        "description": "Fourteen steel columns stand among the trees of thePinetum collection. It seems they have been designed specifically for thislandscape, but in fact they are a gift from ex-rector Draijer. The columns werestanding in his front garden. 'De Kolommen' is a design by Evert Strobos, whois known for his monumental objects, that act as markers in the landscape. Stroboshas similar works in the Kröller-Müller statue garden. ",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -3811,12 +3712,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Pavement",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "Take a look at the pavement as you walk between the cooling pond and the 'Horst': pebbles in pink, yellow, and grey. From a...",
-        "description": "Take a look at the pavement as\nyou walk between the cooling pond and the 'Horst': pebbles in pink, yellow, and\ngrey. From a distance you can make out a large oval and three smaller ones, as\nwell as a triangle and an arc. The perspective is slightly distorted, just like\nthat of the pond, which looks square, circular or oval, depending on where you\nstand. This architecture is a design by Frank Sciarone.",
+        "description": "Take a look at the pavement asyou walk between the cooling pond and the 'Horst': pebbles in pink, yellow, andgrey. From a distance you can make out a large oval and three smaller ones, aswell as a triangle and an arc. The perspective is slightly distorted, just likethat of the pond, which looks square, circular or oval, depending on where youstand. This architecture is a design by Frank Sciarone.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -3836,12 +3740,15 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Buste Harry van den Kroonenberg",
-        "buildingnumber": null,
+        "buildingnumber": "null",
         "Start_date": "",
         "end_date": "",
         "shortdescription": "Rector Harry van den Kroonenberg opened up the university to the world outside in the 1980s. He introduced the term...",
-        "description": "Rector Harry van den\nKroonenberg opened up the university to the world outside in the 1980s. He\nintroduced the term  enterprising university . The University of Twente\nstrengthened its ties with the regional business community and developed\nmarket-oriented education and research. This bronze bust was unveiled on the\n50th anniversary of the university s foundation. The artist is Van den\nKroonenberg s daughter, Mohana.",
+        "description": "Rector Harry van denKroonenberg opened up the university to the world outside in the 1980s. Heintroduced the term  enterprising university . The University of Twentestrengthened its ties with the regional business community and developedmarket-oriented education and research. This bronze bust was unveiled on the50th anniversary of the university s foundation. The artist is Van denKroonenberg s daughter, Mohana.",
         "categories/0": "Culture",
         "categories/1": "",
         "categories/2": "",
@@ -3861,7 +3768,7 @@
         ]
       },
       "properties": {
-        "name": "Meander",
+        "name": "",
         "buildingnumber": 27,
         "Start_date": "",
         "end_date": "",
@@ -3886,7 +3793,7 @@
         ]
       },
       "properties": {
-        "name": "The European Membrane Institute Twente",
+        "name": "",
         "buildingnumber": 27,
         "Start_date": "",
         "end_date": "",
@@ -3911,7 +3818,7 @@
         ]
       },
       "properties": {
-        "name": "BioNanolab",
+        "name": "",
         "buildingnumber": 21,
         "Start_date": "",
         "end_date": "",
@@ -3936,7 +3843,7 @@
         ]
       },
       "properties": {
-        "name": "Canteen Horst",
+        "name": "",
         "buildingnumber": 21,
         "Start_date": "",
         "end_date": "",
@@ -3961,7 +3868,7 @@
         ]
       },
       "properties": {
-        "name": "Faculty CTW",
+        "name": "",
         "buildingnumber": 21,
         "Start_date": "",
         "end_date": "",
@@ -3986,7 +3893,7 @@
         ]
       },
       "properties": {
-        "name": "Horst",
+        "name": "",
         "buildingnumber": 21,
         "Start_date": "",
         "end_date": "",
@@ -4011,7 +3918,7 @@
         ]
       },
       "properties": {
-        "name": "MIRA",
+        "name": "",
         "buildingnumber": 21,
         "Start_date": "",
         "end_date": "",
@@ -4036,7 +3943,7 @@
         ]
       },
       "properties": {
-        "name": "SBE",
+        "name": "",
         "buildingnumber": 21,
         "Start_date": "",
         "end_date": "",
@@ -4061,7 +3968,7 @@
         ]
       },
       "properties": {
-        "name": "Supersonic Windtunnel",
+        "name": "",
         "buildingnumber": 21,
         "Start_date": "",
         "end_date": "",
@@ -4086,7 +3993,7 @@
         ]
       },
       "properties": {
-        "name": "The Virtual Reality Lab",
+        "name": "",
         "buildingnumber": 21,
         "Start_date": "",
         "end_date": "",
@@ -4111,7 +4018,7 @@
         ]
       },
       "properties": {
-        "name": "Erve Holzik",
+        "name": "",
         "buildingnumber": 40,
         "Start_date": "",
         "end_date": "",
@@ -4136,6 +4043,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
         "name": "Trial accommodation",
         "buildingnumber": 18,
         "Start_date": "",
@@ -4161,7 +4071,7 @@
         ]
       },
       "properties": {
-        "name": "Biomagnetic Centre",
+        "name": "",
         "buildingnumber": 32,
         "Start_date": "",
         "end_date": "",
@@ -4186,7 +4096,7 @@
         ]
       },
       "properties": {
-        "name": "Psychotherapy",
+        "name": "",
         "buildingnumber": 32,
         "Start_date": "",
         "end_date": "",
