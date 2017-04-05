@@ -115,14 +115,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#66ccff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/162234835",
         "highway": "residential",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Calslaan",
         "surface": "asphalt"
       },
@@ -192,18 +195,6 @@
           [
             6.848065,
             52.242964
-          ],
-          [
-            6.848301,
-            52.243053
-          ],
-          [
-            6.848419,
-            52.243119
-          ],
-          [
-            6.848509,
-            52.243188
           ]
         ]
       },
@@ -328,22 +319,6 @@
           [
             6.854864,
             52.245397
-          ],
-          [
-            6.854952,
-            52.24536
-          ],
-          [
-            6.854851,
-            52.245239
-          ],
-          [
-            6.85469,
-            52.245094
-          ],
-          [
-            6.854407,
-            52.244839
           ]
         ]
       },
@@ -477,8 +452,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#ffff66",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -490,8 +468,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.847418,
-            52.240782
+            6.8457189202308655,
+            52.24126271933629
+          ],
+          [
+            6.846520900726318,
+            52.24102128321918
+          ],
+          [
+            6.847411394119263,
+            52.24078477309613
           ],
           [
             6.847447,
@@ -746,12 +732,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.851889,
-            52.242055
-          ],
-          [
-            6.85169,
-            52.242091
+            6.852000653743744,
+            52.24202643717989
           ],
           [
             6.851185,
@@ -774,8 +756,8 @@
             52.243164
           ],
           [
-            6.848509,
-            52.243188
+            6.848505735397339,
+            52.24318759159914
           ]
         ]
       },
@@ -800,8 +782,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.85169,
-            52.242091
+            6.8516868352890015,
+            52.242087205562086
           ],
           [
             6.851796,
@@ -821,7 +803,7 @@
         "stroke": "#0ed900",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1964,
+        "start_date": 1968,
         "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
@@ -856,34 +838,6 @@
         ]
       },
       "id": "3c95521e8ebd72923309019d73953b6b"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/174858481",
-        "highway": "tertiary",
-        "maxspeed": "50",
-        "name": "Calslaan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.849175,
-            52.243867
-          ],
-          [
-            6.849256,
-            52.243948
-          ]
-        ]
-      },
-      "id": "3fc7317020376804a9dc73aa3e9fbdcc"
     },
     {
       "type": "Feature",
@@ -1080,7 +1034,7 @@
         "stroke": "#555555",
         "stroke-width": 4,
         "stroke-opacity": 1,
-        "start_date": 1962,
+        "start_date": 1968,
         "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
@@ -1095,8 +1049,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.850277,
-            52.244986
+            6.850302815437317,
+            52.24500727460391
           ],
           [
             6.8508875370025635,
@@ -1423,14 +1377,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#00ffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/163313014",
         "highway": "residential",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Drienerbeeklaan"
       },
       "geometry": {
@@ -1495,41 +1452,6 @@
         ]
       },
       "id": "68f8305628812ad9100079ca1b117703"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/162234832",
-        "highway": "service",
-        "name": "'t Ritke"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.845725,
-            52.241259
-          ],
-          [
-            6.846283,
-            52.241098
-          ],
-          [
-            6.846528,
-            52.241019
-          ],
-          [
-            6.847418,
-            52.240781
-          ]
-        ]
-      },
-      "id": "6ad641b8fa0d5b5ac2f7ce4ad9099f3a"
     },
     {
       "type": "Feature",
@@ -1662,14 +1584,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/162234843",
         "highway": "residential",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "De Zul"
       },
       "geometry": {
@@ -1778,38 +1703,6 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/144988070",
-        "highway": "residential",
-        "maxspeed": "50",
-        "name": "Drienerbeeklaan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.850567,
-            52.239103
-          ],
-          [
-            6.849998,
-            52.239296
-          ],
-          [
-            6.84976,
-            52.239392
-          ]
-        ]
-      },
-      "id": "87438d13ea8aba284ae6ae4719668fba"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#0000ff",
         "stroke-width": 3,
         "stroke-opacity": 1,
@@ -1838,14 +1731,6 @@
           [
             6.852601,
             52.241945
-          ],
-          [
-            6.852417,
-            52.241939
-          ],
-          [
-            6.852196455001831,
-            52.24186876747593
           ]
         ]
       },
@@ -1854,15 +1739,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 2007,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/227579808",
         "bicycle": "use_sidepath",
         "highway": "tertiary",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Drienerbeeklaan",
         "surface": "asphalt"
       },
@@ -2152,8 +2040,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -2381,8 +2272,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1970,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -2426,8 +2320,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.848509,
-            52.243188
+            6.848503053188324,
+            52.24318759159914
           ],
           [
             6.847985,
@@ -2537,22 +2431,33 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#00ff00",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/146294574",
         "highway": "residential",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Drienerbeeklaan"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            6.84976,
-            52.239392
+            6.850745379924774,
+            52.2390651095098
+          ],
+          [
+            6.850562989711761,
+            52.23910288698064
+          ],
+          [
+            6.850005090236664,
+            52.23929670132533
           ],
           [
             6.849479,
@@ -2569,34 +2474,6 @@
         ]
       },
       "id": "b045d9dbd3cf4fa801b9a59733e3db81"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/162234844",
-        "highway": "residential",
-        "maxspeed": "50",
-        "name": "Drienerbeeklaan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.850567,
-            52.239103
-          ],
-          [
-            6.850746,
-            52.239063
-          ]
-        ]
-      },
-      "id": "b2a0948e0cd53ca3787eb5c326bc58e1"
     },
     {
       "type": "Feature",
@@ -2634,30 +2511,33 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#66ffcc",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/174858482",
         "highway": "tertiary",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Calslaan"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            6.849256,
-            52.243948
+            6.849621534347534,
+            52.24431751185003
           ],
           [
             6.849777,
             52.244481
           ],
           [
-            6.850277,
-            52.244986
+            6.850302815437317,
+            52.24501055916281
           ]
         ]
       },
@@ -2853,14 +2733,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#ffcc66",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/231511259",
         "highway": "unclassified",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Drienerbeeklaan",
         "oneway": "yes",
         "surface": "asphalt"
@@ -2881,8 +2764,12 @@
             52.24087
           ],
           [
-            6.845099,
-            52.240868
+            6.845021545886993,
+            52.24086689480949
+          ],
+          [
+            6.845313906669617,
+            52.24085047047898
           ]
         ]
       },
@@ -3159,14 +3046,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
+        "stroke": "#80ff00",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1968,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/6665498",
         "highway": "tertiary",
-        "maxspeed": "50",
+        "maxspeed": 50,
         "name": "Calslaan",
         "surface": "asphalt"
       },
@@ -3174,12 +3064,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.848509,
-            52.243188
+            6.848508417606353,
+            52.24318759159914
           ],
           [
-            6.849175,
-            52.243867
+            6.849616169929504,
+            52.24431751185003
           ]
         ]
       },
@@ -3269,35 +3159,6 @@
         ]
       },
       "id": "dbba43019886c6ddca69fafa39ff5c6d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/145481723",
-        "highway": "unclassified",
-        "maxspeed": "50",
-        "name": "Drienerbeeklaan",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.845316,
-            52.240851
-          ],
-          [
-            6.845099,
-            52.240868
-          ]
-        ]
-      },
-      "id": "dbe9112e41d131fe1d1ca46a9b00056f"
     },
     {
       "type": "Feature",
@@ -3800,11 +3661,11 @@
         "coordinates": [
           [
             6.848301887512206,
-            52.244435757655054
+            52.24442590385003
           ],
           [
-            6.849621534347534,
-            52.24431751185003
+            6.849573254585266,
+            52.24426167344366
           ]
         ]
       }
@@ -4316,7 +4177,8 @@
       "type": "Feature",
       "properties": {
         "end_date": 1964,
-        "start_date": 1960
+        "start_date": 1960,
+        "info": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4509,12 +4371,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.851888000965118,
-            52.242056000187034
-          ],
-          [
-            6.852030158042908,
-            52.242018225229984
+            6.851997971534729,
+            52.242024794790055
           ],
           [
             6.852099895477295,
@@ -4535,6 +4393,455 @@
           [
             6.852174997329712,
             52.241696315595775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1993,
+        "end_date": 2017
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.85260146856308,
+            52.241944317612315
+          ],
+          [
+            6.852443218231201,
+            52.24194103282645
+          ],
+          [
+            6.852357387542725,
+            52.24192953607402
+          ],
+          [
+            6.8522849678993225,
+            52.24190818495447
+          ],
+          [
+            6.852191090583801,
+            52.241873694662665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "end_date": 1993,
+        "start_date": 1962
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.852000653743744,
+            52.242024794790055
+          ],
+          [
+            6.85260146856308,
+            52.24194760239794
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "end_date": 1993,
+        "start_date": 1968
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.852000653743744,
+            52.24202972195944
+          ],
+          [
+            6.852290332317351,
+            52.24198373502373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "end_date": 2007,
+        "start_date": 1960
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.844208836555481,
+            52.240898101020726
+          ],
+          [
+            6.844063997268677,
+            52.2407174331778
+          ],
+          [
+            6.843801140785216,
+            52.240494061009734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1960,
+        "end_date": 1964
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.85447633266449,
+            52.23847709081811
+          ],
+          [
+            6.855565309524536,
+            52.238243852195794
+          ],
+          [
+            6.857051253318787,
+            52.23807959890936
+          ],
+          [
+            6.858413815498351,
+            52.237905489762035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1960,
+        "end_date": 1964
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.860554218292235,
+            52.2340223497924
+          ],
+          [
+            6.861315965652466,
+            52.23559272988084
+          ],
+          [
+            6.861605644226074,
+            52.23611179727435
+          ],
+          [
+            6.861734390258789,
+            52.23634176190067
+          ],
+          [
+            6.862002611160278,
+            52.23651259199464
+          ],
+          [
+            6.862410306930542,
+            52.23665714002216
+          ],
+          [
+            6.862839460372925,
+            52.23676883590282
+          ],
+          [
+            6.863440275192261,
+            52.23684767988461
+          ],
+          [
+            6.863998174667358,
+            52.23688053150238
+          ],
+          [
+            6.86444878578186,
+            52.236808257911235
+          ],
+          [
+            6.86493158340454,
+            52.2367294138594
+          ],
+          [
+            6.865274906158447,
+            52.2367294138594
+          ],
+          [
+            6.865596771240234,
+            52.23675569522557
+          ],
+          [
+            6.865736246109009,
+            52.236873961180756
+          ],
+          [
+            6.865907907485962,
+            52.23707107040583
+          ],
+          [
+            6.866004467010498,
+            52.2374127243223
+          ],
+          [
+            6.8657684326171875,
+            52.23908810449589
+          ],
+          [
+            6.8656718730926505,
+            52.23999475445091
+          ],
+          [
+            6.8655431270599365,
+            52.24119702256375
+          ],
+          [
+            6.865382194519042,
+            52.24140725189352
+          ],
+          [
+            6.865307092666626,
+            52.24157806249061
+          ],
+          [
+            6.8653178215026855,
+            52.24175544203018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1964,
+        "end_date": 1993
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.852180361747742,
+            52.241696315595775
+          ],
+          [
+            6.852293014526367,
+            52.24199194698002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1964,
+        "end_date": 1970
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.852295696735382,
+            52.24198373502373
+          ],
+          [
+            6.852968931198119,
+            52.24325985480198
+          ],
+          [
+            6.85344099998474,
+            52.24394963399701
+          ],
+          [
+            6.85396671295166,
+            52.24444889605842
+          ],
+          [
+            6.85494303703308,
+            52.24536200555929
+          ],
+          [
+            6.854771375656128,
+            52.24542112710946
+          ],
+          [
+            6.853795051574707,
+            52.24451458801669
+          ],
+          [
+            6.853269338607788,
+            52.24399561889543
+          ],
+          [
+            6.852099895477295,
+            52.24201658283982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1964,
+        "end_date": 1993
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.850576400756836,
+            52.23910124448259
+          ],
+          [
+            6.852089166641235,
+            52.242024794790055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "end_date": 2017,
+        "start_date": 1968
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.848063170909882,
+            52.24296751657466
+          ],
+          [
+            6.848309934139252,
+            52.24306277306252
+          ],
+          [
+            6.848409175872803,
+            52.24311697062813
+          ],
+          [
+            6.848505735397339,
+            52.24318923394598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1962,
+        "end_date": 1968
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.848063170909882,
+            52.24296423186455
+          ],
+          [
+            6.848843693733215,
+            52.24305127660069
+          ],
+          [
+            6.8502867221832275,
+            52.243410950209444
+          ],
+          [
+            6.850801706314087,
+            52.24396605718049
+          ],
+          [
+            6.851778030395507,
+            52.245217485882776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#00ffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "end_date": 1968,
+        "start_date": 1962
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.849567890167236,
+            52.24426167344366
+          ],
+          [
+            6.850871443748473,
+            52.24403831911558
+          ],
+          [
+            6.85446560382843,
+            52.242668606957665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#66ff66",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "end_date": 1968,
+        "start_date": 1962
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.850302815437317,
+            52.24501712827986
+          ],
+          [
+            6.851145029067993,
+            52.24439634242174
+          ],
+          [
+            6.854894757270813,
+            52.24296423186455
+          ],
+          [
+            6.854894757270813,
+            52.2429215306108
+          ],
+          [
+            6.854798197746276,
+            52.24282298909917
+          ],
+          [
+            6.854605078697205,
+            52.24266203749291
+          ],
+          [
+            6.854546070098877,
+            52.24266532222541
+          ],
+          [
+            6.85447633266449,
+            52.24267517642142
           ]
         ]
       }
