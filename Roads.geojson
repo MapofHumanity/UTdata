@@ -1613,38 +1613,6 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/6665432",
-        "highway": "residential",
-        "name": "De Zul",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.855982,
-            52.241568
-          ],
-          [
-            6.856063,
-            52.241687
-          ],
-          [
-            6.85618,
-            52.241819
-          ]
-        ]
-      },
-      "id": "83a540dcc4bcfc79bd2b987338a88fc3"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#0000ff",
         "stroke-width": 3,
         "stroke-opacity": 1,
@@ -1837,38 +1805,6 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/6665369",
-        "highway": "unclassified",
-        "name": "De Zul",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.856731,
-            52.242379
-          ],
-          [
-            6.856882,
-            52.24253
-          ],
-          [
-            6.856964,
-            52.242608
-          ]
-        ]
-      },
-      "id": "981c6a8576aeb2fe34c15dd248c75ae3"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#80ff00",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -1982,11 +1918,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#00ff00",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": "1962",
-        "end_date": "2017",
+        "start_date": 1962,
+        "end_date": 2017,
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -1999,16 +1935,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.85618,
-            52.241819
+            6.855983734130859,
+            52.24156820805097
+          ],
+          [
+            6.856096386909485,
+            52.24173244842616
           ],
           [
             6.856316,
             52.241958
           ],
           [
-            6.856401,
-            52.242044
+            6.856616735458374,
+            52.242274437351526
+          ],
+          [
+            6.856949329376221,
+            52.24259798516068
           ]
         ]
       },
@@ -2539,38 +2483,6 @@
         "info": "",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
         "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/6665368",
-        "foot": "yes",
-        "hgv": "no",
-        "highway": "unclassified",
-        "motorcar": "no",
-        "motorcycle": "no",
-        "name": "De Zul",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.856617,
-            52.242271
-          ],
-          [
-            6.856731,
-            52.242379
-          ]
-        ]
-      },
-      "id": "b60df4c26995f1e48261ab8d48532fad"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
         "@id": "way/148888873",
         "highway": "residential",
         "maxspeed": "50",
@@ -3016,34 +2928,6 @@
         ]
       },
       "id": "d1773c8a35f12a91b72b3ed13d1c91c2"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "start_date": "1960",
-        "end_date": "2017",
-        "info": "",
-        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "@id": "way/111706864",
-        "highway": "residential",
-        "name": "De Zul",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            6.856401,
-            52.242044
-          ],
-          [
-            6.856617,
-            52.242271
-          ]
-        ]
-      },
-      "id": "d368151523f7f9b4717f7a14464c3f92"
     },
     {
       "type": "Feature",
@@ -4825,8 +4709,12 @@
             52.24393649544584
           ],
           [
-            6.855093240737915,
-            52.24290510704072
+            6.85509592294693,
+            52.242888683464564
+          ],
+          [
+            6.85696542263031,
+            52.242596342791984
           ]
         ]
       }
