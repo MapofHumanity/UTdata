@@ -106,31 +106,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.845995,
-          52.242025
-        ]
-      },
-      "properties": {
-        "name": "Bus stop UT Calslaan",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic6/4b44e50103e860a200d8278c04b13b0b003f69c2010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i21/3952240103e860a200d8278c04b13b0b003f69c2010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.846242,
           52.244403
         ]
