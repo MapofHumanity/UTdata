@@ -6,509 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.845952,
-          52.243739
-        ]
-      },
-      "properties": {
-        "marker-symbol": "oil-well",
-        "name": "",
-        "buildingnumber": 64,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The campus accommodates a comprehensive tennis park with four artificial grass and six hard courts. Some of the courts have...",
-        "description": "The campus accommodates acomprehensive tennis park with four artificial grass and six hard courts. Someof the courts have artificial lighting. The tennis complex has a separatecanteen and changing rooms. For more information about the Tennis Association Ludica,please contact bestuur@ludica.nl",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id2/ef5ec601033b056d00c7caf403763b0b0085bb48020701c13c03000080.jpg",
-        "imgURL": "",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iff/f43d7401033b056d00c7caf403763b0b0085bb48020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846242,
-          52.244403
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "This stiffly formal building stands in contrast to the intimate patio complex, and is designed for privacy and the individual....",
-        "description": "This stiffly formal building\nstands in contrast to the intimate patio complex, and is designed for privacy\nand the individual. The tower stands alone having little or no connection with\nthe surrounding nature. In the 1960s, when males and females lived separately\non campus, this flat housed males. It was nicknamed the Hunk Bunker: from there\nyou could see into the 'Logica's' courtyard - a female residence.",
-        "categories/0": "Culture",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6d/e5116a0103db59a200ac881a04fe3b0b0001d374020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i87/903b290103db59a200ac881a04fe3b0b0001d374020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846289,
-          52.243598
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 36,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Next to 'Boerderij Bosch' you will find seven log cabins with a total of 105 sleeping places. Among other things, students use...",
-        "description": "Next to 'Boerderij Bosch' you\nwill find seven log cabins with a total of 105 sleeping places. Among other\nthings, students use the log cabins for staying over during brushing up courses\nand exam camps. During these educative camps, organised by the Twente Academy,\npupils receive intensive coaching by University of Twente students. The goal of\nthese camps is to prepare these pupils for their final exams or to brush up on\nspecific subjects.",
-        "categories/0": "Buildings",
-        "categories/1": "Hotels",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i97/cb9211010387fe6c0081e6f403723b0b008d5f81030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ief/bf1673010387fe6c0081e6f403723b0b008d5f81030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846299,
-          52.244932
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 65,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "'Logica' is a lodging and meeting accommodation, situated on the border of the campus, surrounded by many sports facilities. It...",
-        "description": "'Logica' is a lodging and\nmeeting accommodation, situated on the border of the campus, surrounded by many\nsports facilities. It is an ideal spot for meetings, courses, training camps and\nsports events. The building has a lecture hall for meetings of up to 60 people,\nas well as four apartments comprising 24 rooms for single or double use.",
-        "categories/0": "Buildings",
-        "categories/1": "Hotels",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i9c/e4b0fb0103445da2005fbbd502fe3b0b008e0b68020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i85/9212080103445da2005fbbd502fe3b0b008e0b68020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846881,
-          52.243501
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 62,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "In the past, Boerderij Bosch was used as a gardeners dwelling and had a number of outbuildings. It was renovated in the 1990s,...",
-        "description": "In the past, Boerderij Bosch\nwas used as a gardeners dwelling and had a number of outbuildings. It was\nrenovated in the 1990s, and since 1998 the farm has been used by the staff association\nUniversity of Twente-kring.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i01/cb6c1b0103abfe6c0015e5f403723b0b002b7383030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i94/eeeace0103abfe6c0015e5f403723b0b002b7383030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846885,
-          52.246576
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The Torenflat at the Campuslaan comprises 13 apartments, each with its own sanitary facilities and an own kitchen. The...",
-        "description": "The Torenflat at the\nCampuslaan comprises 13 apartments, each with its own sanitary facilities and an\nown kitchen. The apartments measure 32m2 and are fully equipped. The\nground floor has a communal washing room. The apartments are\nintended for foreign staff.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i41/d7d36601030d5aa20045f64e04fe3b0b00e8c162020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i72/025f5101030d5aa20045f64e04fe3b0b00e8c162020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.847579,
-          52.247256
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "On the ground floor and the first floor of the pyramid dwellings at 'Matenweg Pyramide', student communities are located having...",
-        "description": "On the ground floor and the\nfirst floor of the pyramid dwellings at 'Matenweg Pyramide', student\ncommunities are located having their own sanitary facilities and a communal\nkitchen. The second floor consists of independent rooms measuring 16 m2.\nThese rooms are equipped with sanitary facilities and a kitchen block. On the\nupper floor of the pyramid apartments are located. The apartments vary in size\nfrom 35 to 43 m2 and have their own sanitary facilities and kitchen.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie6/476e0201038e58a20068434c04fe3b0b00acee6e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i22/001dd101038e58a20068434c04fe3b0b00acee6e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.847712,
-          52.24391
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Manegeveld is a foodball field that is mainly used for training purposes. ",
-        "description": "Manegeveld is a foodball field that is mainly used\nfor training purposes. ",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iaa/3c140c010333076d002b452c04763b0b000d1a42020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i39/0fb61d010333076d002b452c04763b0b000d1a42020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.847744,
-          52.245408
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "This artificial pitch is in use by the Drienerlose Hockey Club. It has artificial lighting and next to the pitch you can find...",
-        "description": "This artificial pitch is in\nuse by the Drienerlose Hockey Club. It has artificial lighting and next to the\npitch you can find the club canteen, an authentic salt drilling tower, a gift\nfrom AKZO in 1969.",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i85/72915901039c5aa20037fa7c01fe3b0b00118264020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i87/14551601039c5aa20037fa7c01fe3b0b00118264020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.847916,
-          52.24708
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "These student accommodations mainly consist of low-rise buildings and are built around a little square. The student communities...",
-        "description": "These student accommodations mainly consist of low-rise buildings and \nare built around a little square. The student communities consist of 6 \nto 17 students. Each room has its own washbasin. Tenants share a shower \nand toilet with two other tenants. Some rooms have their own shower and \ntoilet. The rooms vary in size from 10 to 25 m2.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i61/430e530103c660a200d3eb6802b13b0b001155cc010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i7e/ef028b0103c660a200d3eb6802b13b0b001155cc010701c1da00da0080.jpg",
-        "parent": "poiobject:A950BEF9D8D0C97967A61719B4941C07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.848142,
-          52.247258
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "These student accommodations mainly consist of low-rise buildings and are built around a little square. The student communities...",
-        "description": "These student accommodations\nmainly consist of low-rise buildings and are built around a little square. The\nstudent communities consist of 6 to 17 students. Each room has its own washbasin.\nTenants share a shower and toilet with two other tenants. Some rooms have their\nown shower and toilet. The rooms vary in size from 10 to 25 m2.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2a/2ee90f01038c58a200fb9a4d04fe3b0b00c6c96e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i32/a8487e01038c58a200fb9a4d04fe3b0b00c6c96e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.848399,
-          52.244768
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 52,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Toren' is the club symbol of the Drienerlose Hockey Club and is used for convivial evenings after training sessions and...",
-        "description": "The 'Toren' is the club symbol\nof the Drienerlose Hockey Club and is used for convivial evenings after\ntraining sessions and matches. In 1969, this authentic derrick was donated by\nAKZO. To accommodate the increasing membership, the Drienerlose Hockey Club built\nan extension to the 'Toren' in 1989.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i80/561a8b0103c95aa200b124c902fe3b0b00a1a75c020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i70/5339700103c95aa200b124c902fe3b0b00a1a75c020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849053,
-          52.246768
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Patio Complex', designed by Herman Haan, is a residential facility consisting of seventeen small patios, one large one, and...",
-        "description": "The 'Patio Complex', designed\nby Herman Haan, is a residential facility consisting of seventeen small patios,\none large one, and a pond. It is an explicit invitation to gather together, as\nHaan sought to create a close-knit student community. He drew his inspiration\nfrom travels in Africa, where he studied the cave dwellers in Southern Tunisia.\nThe complex merges subtly into its surroundings; in fine weather the patios are\nan extension of the living rooms. The complex received\nthe status of National Monument in 2013.",
-        "categories/0": "Culture",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie4/d802ec0103405ca20043130004fe3b0b00179c69020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i80/0411280103405ca20043130004fe3b0b00179c69020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849144,
-          52.246213
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The flats of 'Campuslaan Hoog' are four-storey flats. One flat houses two groups of twelve to sixteen students. One group has a...",
-        "description": "The flats of 'Campuslaan Hoog'\nare four-storey flats. One flat houses two groups of twelve to sixteen\nstudents. One group has a balcony, the other a terrace. The rooms are either 10\nor 13 m2. Each group has three showers, two toilets and five\nwashbasins.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2d/3f95a30103275ba2009a114d04fe3b0b00408a6e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i18/a27ce30103275ba2009a114d04fe3b0b00408a6e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849144,
-          52.246213
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "At 'Campuslaan Laag' students live in two-storey flats. One group is formed by fourteen tenants, sharing three showers, four...",
-        "description": "At 'Campuslaan Laag' students\nlive in two-storey flats. One group is formed by fourteen tenants, sharing\nthree showers, four washbasins and two toilets. The rooms measure from 14 to 17\nm2. All groups have their own balcony and, in addition, they share a\nterrace with two other groups.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0a/ccfb6a0103a058a20057164204fe3b0b004caa6e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i00/e8997d0103a058a20057164204fe3b0b004caa6e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849195,
-          52.244201
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 61,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "A HumanCapitalCare branch is located on the campus. HumanCapaitalCare is the company doctor and the occupational health and...",
-        "description": "A HumanCapitalCare branch is\nlocated on the campus. HumanCapaitalCare is the company doctor and the\noccupational health and safety service provider of the university. More\ninformation: www.humancapitalcare.nl",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i26/ca6429010359036d0090d7f403723b0b003b51b5030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic2/fe1559010359036d0090d7f403723b0b003b51b5030701c1da00da0080.jpg",
-        "parent": "poiobject:F42D45BAA04F249EDA23DB3BC6E64025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849195,
-          52.244201
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 61,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Building 'Linde' accommodates HumanCapitalCare, an independent, accredited occupational health & safety service. The service...",
-        "description": "Building 'Linde' accommodates HumanCapitalCare,\nan independent, accredited occupational health & safety service. The\nservice provision consists of health management, prevention, sick leave\nfollow-up, as well as intervention and reintegration.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i26/ca6429010359036d0090d7f403723b0b003b51b5030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic2/fe1559010359036d0090d7f403723b0b003b51b5030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849304,
-          52.244158
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if6/9141650103205aa2008908ab02b13b0b003532c7010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if9/e9e6930103205aa2008908ab02b13b0b003532c7010701c1da00da0080.jpg",
-        "parent": "poiobject:F42D45BAA04F249EDA23DB3BC6E64025"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849339,
-          52.244035
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "You'll recognize 'Calslaan Wit' from a distance thanks to the white walls and high windows of the flats. Five or six students...",
-        "description": "You'll recognize 'Calslaan Wit'\nfrom a distance thanks to the white walls and high windows of the flats. Five\nor six students live in student communities divided over two floors. Each group\nhas two showers, washbasins and toilets. The size of the rooms is either 14 or\n17 m2.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie5/ad1cc301037f5ba200c3d24804fe3b0b00575d6e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ia9/6d56ea01037f5ba200c3d24804fe3b0b00575d6e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849675,
-          52.246098
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Since 2009, the campus has a beach field that can be used for beach football and beach volleyball. The field is equiped with...",
-        "description": "Since 2009, the campus has a beach field that can\nbe used for beach football and beach volleyball. The field is equiped with\nsound equipment and artificial lighting. Next to the beach field you'll find a\nbasketball training field. For more information about the renting\npossibilities and costs, please contact the Sport Center by email via sportcentrum@utwente.nl",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i8d/1a39af0103d4066d00db8b1304763b0b00135a3a020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id2/7d7eea0103d4066d00db8b1304763b0b00135a3a020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.850002,
           52.239785
         ]
@@ -634,31 +131,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.85019,
-          52.2455
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "These two regulation size basketball courts have a tarmac surface.",
-        "description": "These two regulation size basketball courts have a\ntarmac surface.",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i9b/6b205701032d5ea2000f21e902fe3b0b00c5bd58020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i9e/15db8801032d5ea2000f21e902fe3b0b00c5bd58020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.850217,
           52.243582
         ]
@@ -762,31 +234,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.850853,
-          52.245272
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 53,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The Box complex accommodates 160 apartments divided over three floors. All apartments have their own sanitary facilities, as...",
-        "description": "The Box complex accommodates\n160 apartments divided over three floors. All apartments have their own\nsanitary facilities, as well as a kitchen. The size of the apartments varies\nfrom 30 to 67 m2. The complex has been attractively designed by the\narchitect and is a striking object on the campus. The complex also accommodates\nFortes Labs, day care facilities for disabled people and a communal space for\ntentants.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i33/cf8a520103d8fe6c0091e5f403723b0b0010760b040701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i4e/a8857c0103d8fe6c0091e5f403723b0b0010760b040701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.850955,
           52.243455
         ]
@@ -807,31 +254,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i48/9477110103ab5ba2003680e302fe3b0b00833f69020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i21/76f8470103ab5ba2003680e302fe3b0b00833f69020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.851016,
-          52.247813
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Verreveld is a foodball field.",
-        "description": "Verreveld is a foodball field.",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ibc/d6bb3a010320076d00d5c52e04763b0b000c5242020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0d/8d02fd010320076d00d5c52e04763b0b000c5242020701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -983,31 +405,6 @@
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i46/812ca401036e5ea20030c30102fe3b0b004ddb6d020701c1da00da0080.jpg",
         "parent": "poiobject:C7D7F01306C0F00A1725A20432040531"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.85122,
-          52.246328
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The baseball field is used to play baseball and softball.",
-        "description": "The baseball field is used to play baseball and\nsoftball.",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i09/0446f30103b65ba200cafaee02fe3b0b00038258020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ieb/fe7d9d0103b65ba200cafaee02fe3b0b00038258020701c1da00da0080.jpg",
-        "parent": ""
       }
     },
     {
@@ -1296,31 +693,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.851767,
-          52.247076
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 60,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The on-campus child care centres De Vlinder  (0-4 years) and De Reuzenvlinder  (4-12 years) offer day care and after...",
-        "description": "The on-campus child care\ncentres De Vlinder  (0-4 years) and De Reuzenvlinder  (4-12 years) offer day\ncare and after school programmes for children of on-campus employees of\nUniversity of Twente. The childcare centres include many outdoor activities in\ntheir daily routine as part of a play and move in nature  programme. A Green\nCouncil focuses on increasing environmental awareness. Facilities include a\ngarden with a little patch of forest, as well as use of University of Twente's\nopen air theatre, swimming pool and sport facilities.",
-        "categories/0": "Buildings",
-        "categories/1": "Facilities",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0a/9e55f801031658a200128fb702fe3b0b004bc871020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i3a/c6ae6301031658a200128fb702fe3b0b004bc871020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.851821,
           52.241401
         ]
@@ -1519,32 +891,8 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ia0/9b1e8801035f076d002b2c2604763b0b00835c3f020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i3f/dc136201035f076d002b2c2604763b0b00835c3f020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.852089,
-          52.245342
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The archery field is a longbow shooting range for distances up to 90 meters.",
-        "description": "The archery field is a longbow shooting range for\ndistances up to 90 meters.",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ibc/195ed7010369076d001b843904763b0b00a9483e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i66/3736f5010369076d001b843904763b0b00a9483e020701c1da00da0080.jpg",
-        "parent": ""
+        "parent": "",
+        "marker-symbol": "circle"
       }
     },
     {
@@ -1569,31 +917,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6d/f3454601034a076d00e42927047c3b0b00ba81ff020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i3e/40979501034a076d00e42927047c3b0b00ba81ff020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.852612,
-          52.24835
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i86/d362dd0103355ba2006a5ef502bc3b0b009dcb8c010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic5/a7711f0103355ba2006a5ef502bc3b0b009dcb8c010701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -1753,31 +1076,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i52/3e7fda01030c59a200e6bb6d03fe3b0b0023845c020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id0/b7fd4f01030c59a200e6bb6d03fe3b0b0023845c020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.852882,
-          52.247406
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 59,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Mondriaan' complex consists of fully equipped 1-, 2- and 3-room apartments intended for students from abroad. All...",
-        "description": "The 'Mondriaan' complex\nconsists of fully equipped 1-, 2- and 3-room apartments intended for students\nfrom abroad. All apartments have their own kitchen.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i9b/b548ed0103b2036d0095d6f403763b0b00437f5c020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i82/c6e6f80103b2036d0095d6f403763b0b00437f5c020701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -2061,31 +1359,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.852942,
-          52.246319
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Parking",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i1e/82759b0103a15da2003bc39002b13b0b00d280c9010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i55/1c0b5a0103a15da2003bc39002b13b0b00d280c9010701c1da00da0080.jpg",
-        "parent": "poiobject:ECE0F07D03CA3AEF71491B9F61C54518"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.853017,
           52.245664
         ]
@@ -2106,31 +1379,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic4/cf760001030c046d0094d5f403723b0b003e0ec5030701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ib1/fb708f01030c046d0094d5f403723b0b003e0ec5030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853023,
-          52.244593
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The campus also has a 400-metre cinder track, a running track for athletes. Every year a cheering crowd welcomes the runners of...",
-        "description": "The campus also has a\n400-metre cinder track, a running track for athletes. Every year a cheering\ncrowd welcomes the runners of the Batavians Race, the largest student sports\nevent of the Netherlands.",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iae/8783fe010335076d00bad22204763b0b00b67643020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i89/293a16010335076d00bad22204763b0b00b67643020701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -2184,106 +1432,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i15/a8cc0601030459a20027586a03fe3b0b008c6955020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i83/f43a9201030459a20027586a03fe3b0b008c6955020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853446,
-          52.246139
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 58,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "De Veste is the on-campus housing provider, offering approximately 300 rooms on the campus. All campus rooms are private, while...",
-        "description": "De Veste is the on-campus\nhousing provider, offering approximately 300 rooms on the campus. All campus\nrooms are private, while bathroom and kitchen facilities are often shared with\nother students. All rooms contain a bed (including mattress, sheets, duvet,\nduvet cover, pillow, and pillow case), closet, desk and desk light, as well as\na desk chair and waste basket. The kitchen is fully equipped, including\nutensils, plates, cookware, and a fridge. Additionally, you'll find a common\nlaundry area in each building.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i5c/bef01d0103c35ba200c0cf4a04fe3b0b0038fd6a020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie2/588e120103c35ba200c0cf4a04fe3b0b0038fd6a020701c1da00da0080.jpg",
-        "parent": "poiobject:ECE0F07D03CA3AEF71491B9F61C54518"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853446,
-          52.246139
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 58,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Dental practice Huizinga, www.tandartshuizinga.nl, is located at building the 'Sleutel' (no 58).",
-        "description": "Dental practice Huizinga,\nwww.tandartshuizinga.nl, is located at building the 'Sleutel' (no 58).",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i07/b813be01035058a200ad447c04fe3b0b0048336b020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic7/787caf01035058a200ad447c04fe3b0b0048336b020701c1da00da0080.jpg",
-        "parent": "poiobject:ECE0F07D03CA3AEF71491B9F61C54518"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853446,
-          52.246139
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 58,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "There is a general practitioner (GP) medical centre on the campus, aimed specifically at students and university staff. You'll...",
-        "description": "There is a general\npractitioner (GP) medical centre on the campus, aimed specifically at students\nand university staff. You'll find it in building de 'Sleutel' (no 58). More\ninformation: www.campushuisarts.nl",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i32/9e03fc01036258a200aa227c04fe3b0b009e5a6b020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id0/8d6f6001036258a200aa227c04fe3b0b009e5a6b020701c1da00da0080.jpg",
-        "parent": "poiobject:ECE0F07D03CA3AEF71491B9F61C54518"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853446,
-          52.246139
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 58,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "On the campus, a general practitioner (GP) practice is accommodated in the 'Sleutel' building, intended for students, staff and...",
-        "description": "On the campus, a general\npractitioner (GP) practice is accommodated in the 'Sleutel' building, intended\nfor students, staff and other patients. In the same building you will also find\na dental clinic for staff and students. Furthermore, Acasa (student housing) is\nlocated in the 'Sleutel' building.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6b/e67b7501035658a200c181b202fe3b0b0061dc6a020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2a/54cd9d01035658a200c181b202fe3b0b0061dc6a020701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -2398,31 +1546,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.853859,
-          52.245984
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Facilities",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i61/2507ea0103b857a2007df47804b13b0b00cef3c7010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i43/74c4930103b857a2007df47804b13b0b00cef3c7010701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.853902,
           52.237623
         ]
@@ -2465,31 +1588,6 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i13/a4eb420103245ca200f7d89d02fe3b0b0039b163020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i64/e7f2650103245ca200f7d89d02fe3b0b0039b163020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.854128,
-          52.245815
-        ]
-      },
-      "properties": {
-        "name": "",
-        "buildingnumber": 57,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Apart from the indoor swimming pool in the sports centre, you'll also find a 25-metre outdoor swimming pool on the campus. This...",
-        "description": "Apart from the indoor swimming\npool in the sports centre, you'll also find a 25-metre outdoor swimming pool on\nthe campus. This swimming pool is used during summertime. It has a diving\nboard, a sunbathing area and changing rooms. The swimming pool is used for\nswimming competitions, recreational swimming, diving courses, water polo and\nunderwater hockey.",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i5c/66295401031d066d002acff4037c3b0b00931a02030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2d/cccd3601031d066d002acff4037c3b0b00931a02030701c1da00da0080.jpg",
         "parent": ""
       }
     },
@@ -2865,7 +1963,8 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ifa/941e360103b25aa2000291ed02fe3b0b00970c54020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ica/edb67c0103b25aa2000291ed02fe3b0b00970c54020701c1da00da0080.jpg",
-        "parent": ""
+        "parent": "",
+        "marker-symbol": "circle"
       }
     },
     {
@@ -3243,7 +2342,8 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ia2/00538e0103c15ca200fe12eb02fe3b0b00d65e74020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ib5/d30d1e0103c15ca200fe12eb02fe3b0b00d65e74020701c1da00da0080.jpg",
-        "parent": "poiobject:A1C8D0CE949EAB5695C04D31FAE44B3D"
+        "parent": "poiobject:A1C8D0CE949EAB5695C04D31FAE44B3D",
+        "marker-symbol": "circle"
       }
     },
     {
@@ -3546,7 +2646,8 @@
         "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ice/81272101032861a200016aec02fe3b0b009a1f60020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ide/9d4f7f01032861a200016aec02fe3b0b009a1f60020701c1da00da0080.jpg",
-        "parent": "poiobject:E9C23F8347EA6CD48CF31C6818D5203F"
+        "parent": "poiobject:E9C23F8347EA6CD48CF31C6818D5203F",
+        "marker-symbol": "circle"
       }
     },
     {
