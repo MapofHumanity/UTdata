@@ -5,1275 +5,153 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.845467,
-          52.241247
-        ]
+        "coordinates": [6.845467, 52.241247]
       },
       "properties": {
         "name": "Calslaan 1",
-        "buildingnumber": 99,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "At Calslaan Oud students live in four-storey flats. On each floor lives one group consisting of eleven students. Each group has...",
-        "description": "At Calslaan Oud students live in four-storey flats. On each floor lives \none group consisting of eleven students. Each group has a balcony, two \nshowers, two wash basins and two toilets. The rooms are between 11 and \n16 m2 in size. On the upper floor of the flat there is an apartment.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i68/a30e9c0103bf60a200bc2c5402b13b0b0041fbcb010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i75/a50f8c0103bf60a200bc2c5402b13b0b0041fbcb010701c1da00da0080.jpg",
-        "parent": "poiobject:8C8E3CEB4A4575FD936B50CE277A2077"
+        "description": "At Calslaan Oud students live in four-storey flats. On each floor lives  one group consisting of eleven students. Each group has a balcony, two  showers, two wash basins and two toilets. The rooms are between 11 and  16 m2 in size. On the upper floor of the flat there is an apartment.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i68/a30e9c0103bf60a200bc2c5402b13b0b0041fbcb010701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.845467,
-          52.241247
-        ]
+        "coordinates": [6.845467, 52.241247]
       },
       "properties": {
         "name": "Student housing Calslaan Oud",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "At 'Calslaan Oud' students live in four-storey flats. Each floor accommodates one group consisting of eleven students. Each...",
-        "description": "At 'Calslaan Oud' students\nlive in four-storey flats. Each floor accommodates one group consisting of\neleven students. Each floor has a balcony, two showers, two washbasins and two\ntoilets. The rooms are between 11 and 16 m2 in size. An apartment is\nlocated on the upper floor of the flat.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i7b/5057750103855ba200833c4e04fe3b0b000d356e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i07/221ee40103855ba200833c4e04fe3b0b000d356e020701c1da00da0080.jpg",
-        "parent": ""
+        "description": "At 'Calslaan Oud' students live in four-storey flats. Each floor accommodates one group consisting of eleven students. Each floor has a balcony, two showers, two washbasins and two toilets. The rooms are between 11 and 16 m2 in size. An apartment is located on the upper floor of the flat.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i7b/5057750103855ba200833c4e04fe3b0b000d356e020701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.8466925621032715,
-          52.24149265727425
-        ]
+        "coordinates": [6.8466925621032715, 52.24149265727425]
       },
       "properties": {
         "name": "Student housing Calslaan Nieuw",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "'Calslaan Nieuw' is a four-storey flat. The building accommodates student communities who share sanitary facilities and a...",
-        "description": "'Calslaan Nieuw' is a\nfour-storey flat. The building accommodates student communities who share\nsanitary facilities and a kitchen. The groups vary in size from four to ten\nstudents. The rooms vary in size between 15 and 27 m2. Several other\ncomplexes consist of apartments with own sanitary facilities and an own\nkitchen.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ifb/2e38970103315ba200957c4804fe3b0b00e4096e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ida/cfe0570103315ba200957c4804fe3b0b00e4096e020701c1da00da0080.jpg",
-        "parent": ""
+        "description": "'Calslaan Nieuw' is a four-storey flat. The building accommodates student communities who share sanitary facilities and a kitchen. The groups vary in size from four to ten students. The rooms vary in size between 15 and 27 m2. Several other complexes consist of apartments with own sanitary facilities and an own kitchen.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ifb/2e38970103315ba200957c4804fe3b0b00e4096e020701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.845952,
-          52.243739
-        ]
-      },
-      "properties": {
-        "name": "Tennispark",
-        "buildingnumber": 64,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The campus accommodates a comprehensive tennis park with four artificial grass and six hard courts. Some of the courts have...",
-        "description": "The campus accommodates a\ncomprehensive tennis park with four artificial grass and six hard courts. Some\nof the courts have artificial lighting. The tennis complex has a separate\ncanteen and changing rooms. For more information about the Tennis Association Ludica,\nplease contact bestuur@ludica.nl",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id2/ef5ec601033b056d00c7caf403763b0b0085bb48020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iff/f43d7401033b056d00c7caf403763b0b0085bb48020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846242,
-          52.244403
-        ]
-      },
-      "properties": {
-        "name": "Woonflatje by Maarten van Wensveen",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "This stiffly formal building stands in contrast to the intimate patio complex, and is designed for privacy and the individual....",
-        "description": "This stiffly formal building\nstands in contrast to the intimate patio complex, and is designed for privacy\nand the individual. The tower stands alone having little or no connection with\nthe surrounding nature. In the 1960s, when males and females lived separately\non campus, this flat housed males. It was nicknamed the Hunk Bunker: from there\nyou could see into the 'Logica's' courtyard - a female residence.",
-        "categories/0": "Culture",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6d/e5116a0103db59a200ac881a04fe3b0b0001d374020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i87/903b290103db59a200ac881a04fe3b0b0001d374020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846289,
-          52.243598
-        ]
-      },
-      "properties": {
-        "name": "Log cabins",
-        "buildingnumber": 36,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Next to 'Boerderij Bosch' you will find seven log cabins with a total of 105 sleeping places. Among other things, students use...",
-        "description": "Next to 'Boerderij Bosch' you\nwill find seven log cabins with a total of 105 sleeping places. Among other\nthings, students use the log cabins for staying over during brushing up courses\nand exam camps. During these educative camps, organised by the Twente Academy,\npupils receive intensive coaching by University of Twente students. The goal of\nthese camps is to prepare these pupils for their final exams or to brush up on\nspecific subjects.",
-        "categories/0": "Buildings",
-        "categories/1": "Hotels",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i97/cb9211010387fe6c0081e6f403723b0b008d5f81030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ief/bf1673010387fe6c0081e6f403723b0b008d5f81030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846299,
-          52.244932
-        ]
-      },
-      "properties": {
-        "name": "Logica",
-        "buildingnumber": 65,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "'Logica' is a lodging and meeting accommodation, situated on the border of the campus, surrounded by many sports facilities. It...",
-        "description": "'Logica' is a lodging and\nmeeting accommodation, situated on the border of the campus, surrounded by many\nsports facilities. It is an ideal spot for meetings, courses, training camps and\nsports events. The building has a lecture hall for meetings of up to 60 people,\nas well as four apartments comprising 24 rooms for single or double use.",
-        "categories/0": "Buildings",
-        "categories/1": "Hotels",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i9c/e4b0fb0103445da2005fbbd502fe3b0b008e0b68020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i85/9212080103445da2005fbbd502fe3b0b008e0b68020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846881,
-          52.243501
-        ]
-      },
-      "properties": {
-        "name": "Boerderij Bosch",
-        "buildingnumber": 62,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "In the past, Boerderij Bosch was used as a gardeners dwelling and had a number of outbuildings. It was renovated in the 1990s,...",
-        "description": "In the past, Boerderij Bosch\nwas used as a gardeners dwelling and had a number of outbuildings. It was\nrenovated in the 1990s, and since 1998 the farm has been used by the staff association\nUniversity of Twente-kring.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i01/cb6c1b0103abfe6c0015e5f403723b0b002b7383030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i94/eeeace0103abfe6c0015e5f403723b0b002b7383030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846885,
-          52.246576
-        ]
+        "coordinates": [6.846885, 52.246576]
       },
       "properties": {
         "name": "Employee housing Torenflat",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The Torenflat at the Campuslaan comprises 13 apartments, each with its own sanitary facilities and an own kitchen. The...",
-        "description": "The Torenflat at the\nCampuslaan comprises 13 apartments, each with its own sanitary facilities and an\nown kitchen. The apartments measure 32m2 and are fully equipped. The\nground floor has a communal washing room. The apartments are\nintended for foreign staff.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i41/d7d36601030d5aa20045f64e04fe3b0b00e8c162020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i72/025f5101030d5aa20045f64e04fe3b0b00e8c162020701c1da00da0080.jpg",
-        "parent": ""
+        "description": "The Torenflat at the Campuslaan comprises 13 apartments, each with its own sanitary facilities and an own kitchen. The apartments measure 32m2 and are fully equipped. The ground floor has a communal washing room. The apartments are intended for foreign staff.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i41/d7d36601030d5aa20045f64e04fe3b0b00e8c162020701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.8467676639556885,
-          52.24023783860889
-        ]
+        "coordinates": [6.8467676639556885, 52.24023783860889]
       },
       "properties": {
         "name": "Employee housing Drienerbeeklaan",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i05/ef36d501037959a20083c0f502bc3b0b0032b38c010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i84/44f32701037959a20083c0f502bc3b0b0032b38c010701c1da00da0080.jpg",
-        "parent": ""
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i05/ef36d501037959a20083c0f502bc3b0b0032b38c010701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.847422122955322,
-          52.24839024141545
-        ]
+        "coordinates": [6.847422122955322, 52.24839024141545]
       },
       "properties": {
         "name": "Employee housing Reelaan",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i35/0de2550103435ba200d8e9f602bc3b0b0068e38c010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i53/f1abc00103435ba200d8e9f602bc3b0b0068e38c010701c1da00da0080.jpg",
-        "parent": ""
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i35/0de2550103435ba200d8e9f602bc3b0b0068e38c010701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.847579,
-          52.247256
-        ]
+        "coordinates": [6.847579, 52.247256]
       },
       "properties": {
         "name": "Student housing Matenweg Pyramide",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "On the ground floor and the first floor of the pyramid dwellings at 'Matenweg Pyramide', student communities are located having...",
-        "description": "On the ground floor and the\nfirst floor of the pyramid dwellings at 'Matenweg Pyramide', student\ncommunities are located having their own sanitary facilities and a communal\nkitchen. The second floor consists of independent rooms measuring 16 m2.\nThese rooms are equipped with sanitary facilities and a kitchen block. On the\nupper floor of the pyramid apartments are located. The apartments vary in size\nfrom 35 to 43 m2 and have their own sanitary facilities and kitchen.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie6/476e0201038e58a20068434c04fe3b0b00acee6e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i22/001dd101038e58a20068434c04fe3b0b00acee6e020701c1da00da0080.jpg",
-        "parent": ""
+        "description": "On the ground floor and the first floor of the pyramid dwellings at 'Matenweg Pyramide', student communities are located having their own sanitary facilities and a communal kitchen. The second floor consists of independent rooms measuring 16 m2. These rooms are equipped with sanitary facilities and a kitchen block. On the upper floor of the pyramid apartments are located. The apartments vary in size from 35 to 43 m2 and have their own sanitary facilities and kitchen.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie6/476e0201038e58a20068434c04fe3b0b00acee6e020701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.847916,
-          52.24708
-        ]
+        "coordinates": [6.847916, 52.24708]
       },
       "properties": {
         "name": "Matenweg 10",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "These student accommodations mainly consist of low-rise buildings and are built around a little square. The student communities...",
-        "description": "These student accommodations mainly consist of low-rise buildings and \nare built around a little square. The student communities consist of 6 \nto 17 students. Each room has its own washbasin. Tenants share a shower \nand toilet with two other tenants. Some rooms have their own shower and \ntoilet. The rooms vary in size from 10 to 25 m2.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i61/430e530103c660a200d3eb6802b13b0b001155cc010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i7e/ef028b0103c660a200d3eb6802b13b0b001155cc010701c1da00da0080.jpg",
-        "parent": "poiobject:A950BEF9D8D0C97967A61719B4941C07"
+        "description": "These student accommodations mainly consist of low-rise buildings and  are built around a little square. The student communities consist of 6  to 17 students. Each room has its own washbasin. Tenants share a shower  and toilet with two other tenants. Some rooms have their own shower and  toilet. The rooms vary in size from 10 to 25 m2.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i61/430e530103c660a200d3eb6802b13b0b001155cc010701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.848142,
-          52.247258
-        ]
-      },
-      "properties": {
-        "name": "Student housing Matenweg Patio",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "These student accommodations mainly consist of low-rise buildings and are built around a little square. The student communities...",
-        "description": "These student accommodations\nmainly consist of low-rise buildings and are built around a little square. The\nstudent communities consist of 6 to 17 students. Each room has its own washbasin.\nTenants share a shower and toilet with two other tenants. Some rooms have their\nown shower and toilet. The rooms vary in size from 10 to 25 m2.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2a/2ee90f01038c58a200fb9a4d04fe3b0b00c6c96e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i32/a8487e01038c58a200fb9a4d04fe3b0b00c6c96e020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.848399,
-          52.244768
-        ]
-      },
-      "properties": {
-        "name": "Boortoren",
-        "buildingnumber": 52,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Toren' is the club symbol of the Drienerlose Hockey Club and is used for convivial evenings after training sessions and...",
-        "description": "The 'Toren' is the club symbol\nof the Drienerlose Hockey Club and is used for convivial evenings after\ntraining sessions and matches. In 1969, this authentic derrick was donated by\nAKZO. To accommodate the increasing membership, the Drienerlose Hockey Club built\nan extension to the 'Toren' in 1989.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i80/561a8b0103c95aa200b124c902fe3b0b00a1a75c020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i70/5339700103c95aa200b124c902fe3b0b00a1a75c020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849053,
-          52.246768
-        ]
-      },
-      "properties": {
-        "name": "Patio Complex",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Patio Complex', designed by Herman Haan, is a residential facility consisting of seventeen small patios, one large one, and...",
-        "description": "The 'Patio Complex', designed\nby Herman Haan, is a residential facility consisting of seventeen small patios,\none large one, and a pond. It is an explicit invitation to gather together, as\nHaan sought to create a close-knit student community. He drew his inspiration\nfrom travels in Africa, where he studied the cave dwellers in Southern Tunisia.\nThe complex merges subtly into its surroundings; in fine weather the patios are\nan extension of the living rooms. The complex received\nthe status of National Monument in 2013.",
-        "categories/0": "Culture",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie4/d802ec0103405ca20043130004fe3b0b00179c69020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i80/0411280103405ca20043130004fe3b0b00179c69020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.846225857734679,
-          52.246225829264766
-        ]
+        "coordinates": [6.846225857734679, 52.246225829264766]
       },
       "properties": {
         "name": "Student housing Campuslaan Hoog",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The flats of 'Campuslaan Hoog' are four-storey flats. One flat houses two groups of twelve to sixteen students. One group has a...",
-        "description": "The flats of 'Campuslaan Hoog'\nare four-storey flats. One flat houses two groups of twelve to sixteen\nstudents. One group has a balcony, the other a terrace. The rooms are either 10\nor 13 m2. Each group has three showers, two toilets and five\nwashbasins.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2d/3f95a30103275ba2009a114d04fe3b0b00408a6e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i18/a27ce30103275ba2009a114d04fe3b0b00408a6e020701c1da00da0080.jpg",
-        "parent": ""
+        "description": "The flats of 'Campuslaan Hoog' are four-storey flats. One flat houses two groups of twelve to sixteen students. One group has a balcony, the other a terrace. The rooms are either 10 or 13 m2. Each group has three showers, two toilets and five washbasins.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2d/3f95a30103275ba2009a114d04fe3b0b00408a6e020701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.847754716873169,
-          52.24621597585723
-        ]
+        "coordinates": [6.847754716873169, 52.24621597585723]
       },
       "properties": {
         "name": "Student housing Campuslaan Laag",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "At 'Campuslaan Laag' students live in two-storey flats. One group is formed by fourteen tenants, sharing three showers, four...",
-        "description": "At 'Campuslaan Laag' students\nlive in two-storey flats. One group is formed by fourteen tenants, sharing\nthree showers, four washbasins and two toilets. The rooms measure from 14 to 17\nm2. All groups have their own balcony and, in addition, they share a\nterrace with two other groups.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0a/ccfb6a0103a058a20057164204fe3b0b004caa6e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i00/e8997d0103a058a20057164204fe3b0b004caa6e020701c1da00da0080.jpg",
-        "parent": ""
+        "description": "At 'Campuslaan Laag' students live in two-storey flats. One group is formed by fourteen tenants, sharing three showers, four washbasins and two toilets. The rooms measure from 14 to 17 m2. All groups have their own balcony and, in addition, they share a terrace with two other groups.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0a/ccfb6a0103a058a20057164204fe3b0b004caa6e020701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.849342584609985,
-          52.24421897343847
-        ]
-      },
-      "properties": {
-        "name": "Linde",
-        "buildingnumber": 61,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Building 'Linde' accommodates HumanCapitalCare, an independent, accredited occupational health & safety service. The service...",
-        "description": "Building 'Linde' accommodates HumanCapitalCare,\nan independent, accredited occupational health & safety service. The\nservice provision consists of health management, prevention, sick leave\nfollow-up, as well as intervention and reintegration.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i26/ca6429010359036d0090d7f403723b0b003b51b5030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic2/fe1559010359036d0090d7f403723b0b003b51b5030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8475401401519775,
-          52.24249123106817
-        ]
+        "coordinates": [6.8475401401519775, 52.24249123106817]
       },
       "properties": {
         "name": "Student housing Calslaan Wit",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "You'll recognize 'Calslaan Wit' from a distance thanks to the white walls and high windows of the flats. Five or six students...",
-        "description": "You'll recognize 'Calslaan Wit'\nfrom a distance thanks to the white walls and high windows of the flats. Five\nor six students live in student communities divided over two floors. Each group\nhas two showers, washbasins and toilets. The size of the rooms is either 14 or\n17 m2.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie5/ad1cc301037f5ba200c3d24804fe3b0b00575d6e020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ia9/6d56ea01037f5ba200c3d24804fe3b0b00575d6e020701c1da00da0080.jpg",
-        "parent": ""
+        "description": "You'll recognize 'Calslaan Wit' from a distance thanks to the white walls and high windows of the flats. Five or six students live in student communities divided over two floors. Each group has two showers, washbasins and toilets. The size of the rooms is either 14 or 17 m2.",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie5/ad1cc301037f5ba200c3d24804fe3b0b00575d6e020701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.849557161331176,
-          52.23978451842972
-        ]
-      },
-      "properties": {
-        "name": "Spiegel",
-        "buildingnumber": 2,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Spiegel' building is the home base of various support services of the University of Twente, in the area of personnel...",
-        "description": "The 'Spiegel' building is the\nhome base of various support services of the University of Twente, in the area\nof personnel affairs, finance, ICT support, communication and policy. The 'Spiegel'\nbuilding also accommodates various lecture halls, a canteen and project spaces\nthat students can use. The 'Spiegel' also houses the Study Information Centre\n(SI) of the University of Twente. In the Study Information Centre students\nanswer questions from pre-university education pupils across the various study\nprogrammes of the University of Twente. Architecture by Wim van Tijen \nThis building dates from the heyday of the New Objectivity. The architecture\nis proud, with clean, imposing lines and few ties to the surroundings.\nInitially, Van Tijen wanted to put the building on legs, inspired as he was by\nthe famous architect Le Corbusier. The building was given an energy-saving skin\nin 2000; hence its new name 'Spiegel' (Mirror).",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic9/acb9260103db046d0035cbf403723b0b007b14cd030701c13c03000080.jpg",
-        "imgURL": "http://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen/Spiegel?fc=browse",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i9e/53cec30103db046d0035cbf403723b0b007b14cd030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.850415,
-          52.23987
-        ]
-      },
-      "properties": {
-        "name": "Vleugel",
-        "buildingnumber": 3,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Vleugel' building, also referred to as the board wing, is the home base of the Executive Board of the University of Twente....",
-        "description": "The 'Vleugel' building, also\nreferred to as the board wing, is the home base of the Executive Board of the\nUniversity of Twente. The Executive Board consists of Victor van der Chijs\n(chairman), Ed Brinksma (rector magnificus) and Mirjam Bult (Vice-president).\nApart from the Executive Board and the secretariats, the spokesperson and the\nsecretary of the University of Twente work in the board wing as well.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2c/810cd201035c5ba200a71cb702fe3b0b00248b71020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ife/efc82201035c5ba200a71cb702fe3b0b00248b71020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.850853,
-          52.245272
-        ]
-      },
-      "properties": {
-        "name": "Box",
-        "buildingnumber": 53,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The Box complex accommodates 160 apartments divided over three floors. All apartments have their own sanitary facilities, as...",
-        "description": "The Box complex accommodates\n160 apartments divided over three floors. All apartments have their own\nsanitary facilities, as well as a kitchen. The size of the apartments varies\nfrom 30 to 67 m2. The complex has been attractively designed by the\narchitect and is a striking object on the campus. The complex also accommodates\nFortes Labs, day care facilities for disabled people and a communal space for\ntentants.",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i33/cf8a520103d8fe6c0091e5f403723b0b0010760b040701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i4e/a8857c0103d8fe6c0091e5f403723b0b0010760b040701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.85072124004364,
-          52.244015326694445
-        ]
-      },
-      "properties": {
-        "name": "Sports centre",
-        "buildingnumber": 49,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The campus accommodates a large sports centre. Students and staff of the University of Twente practice a great variety of sports...",
-        "description": "The campus accommodates a\nlarge sports centre. Students and staff of the University of Twente practice a great\nvariety of sports in this venue. A large number of (student) sports\nassociations use the sports centre for training and competition purposes.\nBesides this the sports centre is used on behalf of events and (international)\nsports tournaments. The centre includes a 25-metre swimming pool and two large\nsports halls that are used for football and basketball, among other things. And\nwhat to think of a dojo and four sports halls for badminton, volleyball,\nfencing, table tennis, zumba and power yoga, to name a few.",
-        "categories/0": "Buildings",
-        "categories/1": "Sports",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iec/d31a810103ee046d00e8cbf403723b0b009a8dcd030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i4f/46f5ab0103ee046d00e8cbf403723b0b009a8dcd030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.851223,
-          52.243485
-        ]
-      },
-      "properties": {
-        "name": "Sky",
-        "buildingnumber": 51,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Sky' complex consists of 87 student apartments, divided over nine floors. From the apartments you have a splendid view of...",
-        "description": "The 'Sky' complex consists of\n87 student apartments, divided over nine floors. From the apartments you have a\nsplendid view of the sports fields and campus. All apartments have their own\nsanitary facilities and a kitchen. The size of the apartments varies between 30\nand 39 m2. Below the apartment complex a spacious supermarket and a\nhairdresser are located. At the side of the complex you'll find the highest\nclimbing of the Netherlands, as well as a boulder wall.",
-        "categories/0": "Buildings",
-        "categories/1": "Housing",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ibf/fe6ee20103ba076d0064960e04763b0b002b1e4a020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i19/daaeb70103ba076d0064960e04763b0b002b1e4a020701c1da00da0080.jpg",
-        "parent": "poiobject:415A793FCAA304AE5B5AEC522CD8F1AA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.851767,
-          52.247076
-        ]
-      },
-      "properties": {
-        "name": "Vlinder, day-care centre",
-        "buildingnumber": 60,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The on-campus child care centres De Vlinder  (0-4 years) and De Reuzenvlinder  (4-12 years) offer day care and after...",
-        "description": "The on-campus child care\ncentres De Vlinder  (0-4 years) and De Reuzenvlinder  (4-12 years) offer day\ncare and after school programmes for children of on-campus employees of\nUniversity of Twente. The childcare centres include many outdoor activities in\ntheir daily routine as part of a play and move in nature  programme. A Green\nCouncil focuses on increasing environmental awareness. Facilities include a\ngarden with a little patch of forest, as well as use of University of Twente's\nopen air theatre, swimming pool and sport facilities.",
-        "categories/0": "Buildings",
-        "categories/1": "Facilities",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0a/9e55f801031658a200128fb702fe3b0b004bc871020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i3a/c6ae6301031658a200128fb702fe3b0b004bc871020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.852056980133057,
-          52.2431383211661
-        ]
-      },
-      "properties": {
-        "name": "Bastille",
-        "buildingnumber": 48,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Bastille' is the main student building of the University of Twente. The building houses student organisations and student...",
-        "description": "The 'Bastille' is the main student building of the\nUniversity of Twente. The building houses student organisations and student\nentrepreneurs, as well as services such as the student service centre and\nstudent counselling. The 'Bastille' also houses the Student Union, the umbrella\nstudent organisation of the University of Twente, to which over a hundred study-,\nsports-, and social clubs are associated. Last but not least the 'Vestingbar'\nis also located in the Bastille. This student bar is open every day of the\nyear, and is run by students. You might visit de 'Vestingbar' as well to join a\nparty or to watch a movie. Architecture by Piet\nBlom & Robert Winkel \n\n\n\n\n\nThe building was instantly baptised the 'Bastille'\nbecause of its resemblance with the exterior of the famed Parisian prison. Upon\nentering, visitors are overwhelmed by a carefully orchestrated chaos. Piet Blom\ncreated a labyrinth inside, with twelve mezzanines, low walls, niches, and\nsteps, all of which are intended to encourage coincidental encounters. Robert Winkel\ntransformed it into an open building. ",
-        "categories/0": "Culture",
-        "categories/1": "Buildings",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i52/a82e7b010363fe6c00c5e6f403763b0b008f3a3b020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i21/73eac7010363fe6c00c5e6f403763b0b008f3a3b020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.849031448364258,
-          52.24961198738595
-        ]
+        "coordinates": [6.849031448364258, 52.24961198738595]
       },
       "properties": {
         "name": "Employee housing Langenkampweg",
-        "buildingnumber": null,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "",
-        "description": "",
-        "categories/0": "Housing",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i86/d362dd0103355ba2006a5ef502bc3b0b009dcb8c010701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic5/a7711f0103355ba2006a5ef502bc3b0b009dcb8c010701c1da00da0080.jpg",
-        "parent": ""
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i86/d362dd0103355ba2006a5ef502bc3b0b009dcb8c010701c13c03000080.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.852947473526,
-          52.239291773852464
-        ]
-      },
-      "properties": {
-        "name": "Paviljoen",
-        "buildingnumber": 6,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "This building was originally designed as a canteen for staff. At the moment it is the home base of the Facility Department of...",
-        "description": "This building was originally\ndesigned as a canteen for staff. At the moment it is the home base of the\nFacility Department of the University of Twente. Architecture by Joos van Stigt \n\n\n\n\n\nThe Paviljoen is a classic\nexample of Dutch Structuralism, which arose in response to the New Objectivity.\nThe design consists of small, intimate spaces that are clustered together. A\ndistinctive feature is the building s stone chimney, with wings fanning out\naround it. The building once served as the staff canteen. ",
-        "categories/0": "Culture",
-        "categories/1": "Buildings",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i41/818a8501032a046d0048d4f403763b0b0067022b020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i84/c4206601032a046d0048d4f403763b0b0067022b020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.852882,
-          52.247406
-        ]
-      },
-      "properties": {
-        "name": "Mondriaan",
-        "buildingnumber": 59,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Mondriaan' complex consists of fully equipped 1-, 2- and 3-room apartments intended for students from abroad. All...",
-        "description": "The 'Mondriaan' complex\nconsists of fully equipped 1-, 2- and 3-room apartments intended for students\nfrom abroad. All apartments have their own kitchen.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i9b/b548ed0103b2036d0095d6f403763b0b00437f5c020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i82/c6e6f80103b2036d0095d6f403763b0b00437f5c020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853253245353699,
-          52.243328833204
-        ]
-      },
-      "properties": {
-        "name": "Vrijhof Cultural Centre",
-        "buildingnumber": 47,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Vrijhof' is the cultural heart of the campus with performances, concerts, cultural courses and lectures. It contains...",
-        "description": "The 'Vrijhof' is the cultural\nheart of the campus with performances, concerts, cultural courses and lectures.\nIt contains artists  studios, pop recording studios, an artothÃ¨que and a\ntheatre café. Every month a new art exhibition is organized. The 'Vrijhof' also\nhouses the central library, in which the visitor can view the Paul Citroen art\ncollection. With its rounded corners, the building's style has a great\nresemblance with the 'Bastille'. Architecture by Jan\nVerster & Hylke Gjaltema.",
-        "categories/0": "Culture",
-        "categories/1": "Buildings",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6d/a1ca670103b3056d004bc8f403723b0b00a754d4030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i91/ee1bb60103b3056d004bc8f403723b0b00a754d4030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853430271148682,
-          52.24611744166169
-        ]
-      },
-      "properties": {
-        "name": "Sleutel",
-        "buildingnumber": 58,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "On the campus, a general practitioner (GP) practice is accommodated in the 'Sleutel' building, intended for students, staff and...",
-        "description": "On the campus, a general\npractitioner (GP) practice is accommodated in the 'Sleutel' building, intended\nfor students, staff and other patients. In the same building you will also find\na dental clinic for staff and students. Furthermore, Acasa (student housing) is\nlocated in the 'Sleutel' building.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6b/e67b7501035658a200c181b202fe3b0b0061dc6a020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2a/54cd9d01035658a200c181b202fe3b0b0061dc6a020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853694,
-          52.241187
-        ]
-      },
-      "properties": {
-        "name": "Faculty Club",
-        "buildingnumber": 42,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "In this attractive, renovated farm in the middle of the campus the 'Faculty Club' restaurant is located. It is a meeting place...",
-        "description": "In this attractive, renovated\nfarm in the middle of the campus the 'Faculty Club' restaurant is located. It\nis a meeting place for University of Twente staff and their guests. The\nrestaurant has a sunny terrace next to a fruit orchard and is frequently used\nfor drinks, parties and receptions. The building is also the home base of the\nStichting Faculty Club, a foundation that organises all sorts of activities in\norder to stimulate the academic debate and connect different worlds with one\nanother. The 'Faculty Club' is located in an existing farm that was completely\nrenovated by the well-known architect Piet Blom in 1964. In 2003 his son, Abel\nBlom, was responsible for new alterations. Architecture by Piet Blom & Abel Blom \n\n\n\n\n\nIn 1964 Piet Blom converted an\nold farmhouse into a refectory. The interior was playful, with split levels and\nvoids, in sharp contrast to the sober interiors favoured by the New\nObjectivity. Blom left his unique architectural signature - a square poised on\none corner - in the placement of windows in buildings and walls. They echo his\nlegendary cube homes in Rotterdam. The architect s son converted the building\ninto a chic restaurant.",
-        "categories/0": "Culture",
-        "categories/1": "Buildings",
-        "categories/2": "Food & Drinks",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie7/4a97770103bbff6c00f6daf403723b0b004b9491030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0b/1c685e0103bbff6c00f6daf403723b0b004b9491030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.85381,
-          52.242515
-        ]
-      },
-      "properties": {
-        "name": "Drienerburght",
-        "buildingnumber": 44,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Drienerburght' is a conference hotel in the middle of the campus of the University of Twente. The building has 64 hotel...",
-        "description": "The 'Drienerburght' is a\nconference hotel in the middle of the campus of the University of Twente. The building has 64\nhotel rooms and five conference halls.",
-        "categories/0": "Buildings",
-        "categories/1": "Hotels",
-        "categories/2": "Food & Drinks",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i32/a714920103a3ff6c000adaf403763b0b007a7352020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i25/dffb8a0103a3ff6c000adaf403763b0b007a7352020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.853977,
-          52.239739
-        ]
-      },
-      "properties": {
-        "name": "Garage",
-        "buildingnumber": 5,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "All goods are delivered in this building.",
-        "description": "All goods are delivered in\nthis building.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i13/a4eb420103245ca200f7d89d02fe3b0b0039b163020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i64/e7f2650103245ca200f7d89d02fe3b0b0039b163020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.854128,
-          52.245815
-        ]
-      },
-      "properties": {
-        "name": "Swimming pool - Outdoor",
-        "buildingnumber": 57,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Apart from the indoor swimming pool in the sports centre, you'll also find a 25-metre outdoor swimming pool on the campus. This...",
-        "description": "Apart from the indoor swimming\npool in the sports centre, you'll also find a 25-metre outdoor swimming pool on\nthe campus. This swimming pool is used during summertime. It has a diving\nboard, a sunbathing area and changing rooms. The swimming pool is used for\nswimming competitions, recreational swimming, diving courses, water polo and\nunderwater hockey.",
-        "categories/0": "Sports",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i5c/66295401031d066d002acff4037c3b0b00931a02030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2d/cccd3601031d066d002acff4037c3b0b00931a02030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.855093240737915,
-          52.237647609864275
-        ]
-      },
-      "properties": {
-        "name": "The Gallery",
-        "buildingnumber": 17,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Over the next few years this elongated building will be redeveloped into 'The Gallery': a centre for innovative companies,...",
-        "description": "Over the next few years this\nelongated building will be redeveloped into 'The Gallery': a centre for\ninnovative companies, situated on the border of the university campus and the\nBusiness & Science Park. The building will act as a link between education,\nscience and the market. Among other things it will serve as a showcase for\nknowledge-intensive activities.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iaf/8e37ce010347056d00fecaf403723b0b00f225d2030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ied/961c82010347056d00fecaf403723b0b00f225d2030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.855243,
-          52.238873
-        ]
-      },
-      "properties": {
-        "name": "Citadel",
-        "buildingnumber": 9,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Several departments are located in the round 'Citadel' building. The service desk of the ICT Service Centre, the Notebook...",
-        "description": "Several departments are\nlocated in the round 'Citadel' building. The service desk of the ICT Service\nCentre, the Notebook Service Centre and Student Net Twente are located on the\nfirst floor. Unversity College Twente and the TOM office (Twents Educational\nModel) are located in the Citadel building as well. Moreover there are a small\nnumber of lecture halls.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i66/d6e874010352ff6c001edbf403723b0b0093748f030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i57/14bdfc010352ff6c001edbf403723b0b0093748f030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.855592131614685,
-          52.239099601984485
-        ]
-      },
-      "properties": {
-        "name": "Ravelijn",
-        "buildingnumber": 10,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Ravelijn' building houses the Behavioural, Management and Social sciences faculty as well as the research institute IGS. It...",
-        "description": "The 'Ravelijn' building houses\nthe Behavioural, Management and Social sciences faculty as well as the research\ninstitute IGS. It is the home base for education in the area of management and\ntechnology, public administration, business and information technology, as well\nas European studies and health sciences. Besides this multidisciplinary\nresearch in the area of administration and management of technological and\nsocial innovation is performed here.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i58/f643ec010337046d007cd4f403723b0b003a9ec7030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i42/2fae1c010337046d007cd4f403723b0b003a9ec7030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.855869,
-          52.243479
-        ]
-      },
-      "properties": {
-        "name": "Hogekamp",
-        "buildingnumber": 45,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Until recently, this building was used as research and education building of, for example, the Electrical Engineering,...",
-        "description": "Until recently, this building\nwas used as research and education building of, for example, the Electrical\nEngineering, Mathematics and Computer Science faculty. At this moment\nredevelopment of the building is being considered.  Architecture by Samuel\nvan Embden et al. \n\n\n\n\n\nVan Embden designed this\nten-storey building in the spirit of the New Objectivity. He is totally\nunambiguous about its purpose: it is a machine for studying. Technology is\nproudly on display, as witnessed by the large air conditioning shafts. This\nhighly visible campus landmark is not in use at this moment, but there are\nplans to refit it for student accommodation combined with a hotel.",
-        "categories/0": "Culture",
-        "categories/1": "Buildings",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0b/5e47780103d2026d0011d0f403763b0b0069dc52020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/icd/7deda30103d2026d0011d0f403763b0b0069dc52020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.856372654438019,
-          52.23923592912191
-        ]
-      },
-      "properties": {
-        "name": "Zilverling",
-        "buildingnumber": 11,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Zilverling' is the home base of students and staff of the Electrical Engineering, Mathematics and Computer Science faculty...",
-        "description": "The 'Zilverling' is the home\nbase of students and staff of the Electrical Engineering, Mathematics and\nComputer Science faculty of the research institute CTIT. In the building\nresearch is conducted into, among other things, how to improve the reliability\nof ICT networks. Research is also conducted into the way in which small, cheap\nsensors can be used for tracing oil leaks deep into the ocean or to measure the\nwater quality of the Great Barrier Reef in Australia. Among other things the 'Zilverling'\naccommodates the Smart XP Lab. This Laboratory is highly suitable for\ninterdisciplinary research, such as research into the interaction between\nhumans and robots. The purpose of the laboratory is to have researchers look at\nexperiments intuitively, from different perspectives.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if4/49e0b00103fa056d00f2c8f403723b0b00f088fc030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if3/cc724d0103fa056d00f2c8f403723b0b00f088fc030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.856488,
-          52.237563
-        ]
-      },
-      "properties": {
-        "name": "Technohal (former Artez)",
-        "buildingnumber": 18,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The art academy ArtEZ used to be located here, but has moved to the city of Enschede. The building is empty right now and is...",
-        "description": "The art academy ArtEZ used to\nbe located here, but has moved to the city of Enschede. The building is empty\nright now and is waiting for a new department to move in.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2d/d6098d01037b5ea200d1f3b002fe3b0b0042936f020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6e/35ff2a01037b5ea200d1f3b002fe3b0b0042936f020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.856750845909118,
-          52.23853950657954
-        ]
-      },
-      "properties": {
-        "name": "Waaier",
-        "buildingnumber": 12,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Waaier' building accommodates the largest lecture halls of the University of Twente. Moreover the two largest halls can be...",
-        "description": "The 'Waaier' building accommodates the largest\nlecture halls of the University of Twente. Moreover the two largest halls can\nbe interconnected by means of flexible partitioning. The result is one large\nhall which can seat as many as 750 people. The building is used for lectures,\nconferences and academic ceremonies, such as doctoral degree ceremonies and\ninaugural lectures. The student restaurant (mensa) is also located in the\nWaaier. Students and staff can come here for hot meals, sandwiches and snacks. The building has been completely renovated recently. ",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i2c/012b350103c3056d0062c8f403723b0b001770f9030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/icd/c763390103c3056d0062c8f403723b0b001770f9030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.856907,
-          52.240938
-        ]
-      },
-      "properties": {
-        "name": "Cubicus",
-        "buildingnumber": 41,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "'Cubicus' is an education and research building in which the Behavioural, Management and Social sciences faculty is...",
-        "description": "'Cubicus' is an education and\nresearch building in which the Behavioural, Management and Social sciences\nfaculty is accommodated. In this characteristic building, situated in a water\ngarden, the communication science, educational science and psychology\nprogrammes are housed. This multi-faceted building also accommodates several\nstudent associations, project spaces and meeting and lecture halls.",
-        "categories/0": "Culture",
-        "categories/1": "Buildings",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i78/b4cf9901037bff6c0086dbf403723b0b0038c890030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic1/e9a17801037bff6c0086dbf403723b0b0038c890030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.857048,
-          52.23874
-        ]
-      },
-      "properties": {
-        "name": "Hal B",
-        "buildingnumber": 13,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Hal B is the main entrance for several other buildings like 'Carré', Nanolab, 'Waaier' and other connected buildings.",
-        "description": "Hal B is the main entrance for\nseveral other buildings like 'Carré', Nanolab, 'Waaier' and other connected\nbuildings.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i36/6e6b47010397026d00e0d1f403723b0b00012c96030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i1c/0f4574010397026d00e0d1f403723b0b00012c96030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.857796907424926,
-          52.23750470761969
-        ]
+        "coordinates": [6.857796907424926, 52.23750470761969]
       },
       "properties": {
         "name": "Nanolab",
-        "buildingnumber": 16,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The MESA+ Nanolab is among the world's most cutting-edge laboratories for nanotechnology. It has been designed by Jan Hoogstad....",
-        "description": "The MESA+ Nanolab is among the world's most\ncutting-edge laboratories for nanotechnology. It has been designed by Jan\nHoogstad. In this laboratory, research is conducted on the scale of nanometres;\nthe scale of atoms and molecules. A nanometre is one million times smaller than\na millimetre. Research on such small particles sets high demands to a building.\nTemperature, incidence of light and air humidity are to be kept at a constant\nlevel. Even the smallest vibration can have disastrous results. Because dust\nparticles can also be fatal to nano products in the making, the nanolab has\n1000m2 of cleanrooms and the researchers wear protective clothing\nand gloves. Researchers in the lab work on challenging projects, like for\ninstance smart materials for solar cells, a pill that can trace bowel cancer or\ncomplete laboratories no larger than a stamp. The MESA+ Nanolab is connected to\nthe 'Carré' building and doesn't have an own entrance. ",
-        "categories/0": "Culture",
-        "categories/1": "Buildings",
-        "categories/2": "Research",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id6/f8f08d0103c6036d005ad5f403763b0b0081895c020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i3f/bc52f80103c6036d005ad5f403763b0b0081895c020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.858422,
-          52.238451
-        ]
-      },
-      "properties": {
-        "name": "Carré",
-        "buildingnumber": 15,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The complex of buildings 'Carré' was put into use in 2010. It is the heart of the Education and Research Centre. The square...",
-        "description": "The complex of buildings 'Carré'\nwas put into use in 2010. It is the heart of the Education and Research Centre.\nThe square shaped, five-floor building is situated around a courtyard. Because\nof its shape, the building has no dead ends. It houses offices, lecture halls,\npractice halls and a wide range of laboratories of several faculties, like Science\nand Technology, Electrical Engineering and Mathematics and Computer Science.\nThe building has a direct connection with the MESA+ Nanolab and the 'Waaier' building.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie0/472f2d01032bff6c0085e4f403723b0b00bb6d8d030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ia5/8e25e701032bff6c0085e4f403723b0b00bb6d8d030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.860068,
-          52.236913
-        ]
-      },
-      "properties": {
-        "name": "Meander",
-        "buildingnumber": 27,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The 'Meander' building has been built in 2007 between the east- and southwing of the 'Horst' building. Research groups located...",
-        "description": "The 'Meander' building has\nbeen built in 2007 between the east- and southwing of the 'Horst' building.\nResearch groups located in the 'Meander' work on projects like for instance\nproduction, transportation, storage and use of sustainable energy sources. The\nbuilding is connected to the 'Horst' building and doesn't have an own entrance.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i4d/dae25901032f5aa2002e72a702fe3b0b00213868020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ib0/875f5801032f5aa2002e72a702fe3b0b00213868020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.860055327415466,
-          52.23745543087696
-        ]
-      },
-      "properties": {
-        "name": "Horst",
-        "buildingnumber": 21,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "This large complex of buildings is the home base of several faculties and institutes. For example, the laboratories of the...",
-        "description": "This large complex of\nbuildings is the home base of several faculties and institutes. For example,\nthe laboratories of the research institute MIRA, the institute for biomedical\ntechnology and technical medicine of the University of Twente are located here.\nLeading research into how stem cells can be induced to form new bone tissue is\nconducted here. The complex also houses several departments of the faculty of\nEngineering Technology. Besides that students attend lectures of the Science\nand Technology and Engineering Technology faculties in here.   Horst by van Mourik & Du Pon/ Van Mourik & Vermeu len  Horst Tower, an important landmark on the campus, also has its origin in the New Objectivity. The tower clearly demonstrates the principle of the separation of functions: supporting functions such as elevators, emergency staircase, washrooms and air conditioning are installed in thehuge concrete shafts. ",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id5/d959c101039057a2003d63ad02fe3b0b008dfc64020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/iea/43299b01039057a2003d63ad02fe3b0b008dfc64020701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.860511,
-          52.24104
-        ]
-      },
-      "properties": {
-        "name": "Erve Holzik",
-        "buildingnumber": 40,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "Erve Holzik used to be owned by a farmer. The last couple of years the Real Estate Group (VGD) ofUniversity of Twente was...",
-        "description": "Erve Holzik used to be owned\nby a farmer. The last couple of years the Real Estate Group (VGD) of University of Twente was located here. Nowadays\nthe VGD does not exist anymore as it had been established as a temporary\norganization for coordinating real estate development for a couple of years,\nespecially in the O&O square area.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if4/560c010103abff6c0033daf403723b0b00496091030701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i3f/80f7d90103abff6c0033daf403723b0b00496091030701c1da00da0080.jpg",
-        "parent": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.864608,
-          52.239321
-        ]
-      },
-      "properties": {
-        "name": "Biomagnetic Centre",
-        "buildingnumber": 32,
-        "Start_date": "",
-        "end_date": "",
-        "shortdescription": "The Biomagnetic Centre (BMC) building is used by the Psychotherapy Centre. The establishment of a Psychotherapy Centre was an...",
-        "description": "The Biomagnetic Centre (BMC)\nbuilding is used by the Psychotherapy Centre. The establishment of a\nPsychotherapy Centre was an initiative of the University of Twente.\nBIG-registered psychotherapists with extensive experience in working with\nstudents and university staff, have been working here since 2008.",
-        "categories/0": "Buildings",
-        "categories/1": "",
-        "categories/2": "",
-        "image": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id1/ca6b8201038dfe6c0042e5f403763b0b00468e5f020701c13c03000080.jpg",
-        "imgURL": "",
-        "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i3a/b3ffe601038dfe6c0042e5f403763b0b00468e5f020701c1da00da0080.jpg",
-        "parent": ""
+        "description": "The MESA+ Nanolab is among the world's most cutting-edge laboratories for nanotechnology. It has been designed by Jan Hoogstad. In this laboratory, research is conducted on the scale of nanometres; the scale of atoms and molecules. A nanometre is one million times smaller than a millimetre. Research on such small particles sets high demands to a building. Temperature, incidence of light and air humidity are to be kept at a constant level. Even the smallest vibration can have disastrous results. Because dust particles can also be fatal to nano products in the making, the nanolab has 1000m2 of cleanrooms and the researchers wear protective clothing and gloves. Researchers in the lab work on challenging projects, like for instance smart materials for solar cells, a pill that can trace bowel cancer or complete laboratories no larger than a stamp. The MESA+ Nanolab is connected to the 'Carré' building and doesn't have an own entrance. ",
+        "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/id6/f8f08d0103c6036d005ad5f403763b0b0081895c020701c13c03000080.jpg"
       }
     }
   ]
