@@ -6244,7 +6244,6 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "All goods are delivered in this building.",
         "name": "Garage"
-
       },
       "geometry": {
         "type": "Polygon",
@@ -15277,46 +15276,6 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
-        "building": "yes",
-        "start_date": "1997",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": ""
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.848604,
-              52.23497
-            ],
-            [
-              6.848594,
-              52.234975
-            ],
-            [
-              6.848581,
-              52.234966
-            ],
-            [
-              6.848591,
-              52.234961
-            ],
-            [
-              6.848604,
-              52.23497
-            ]
-          ]
-        ]
-      },
-      "id": "a6efda9551f79b49a7541ad8c7220f48"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "start_date": "1969",
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
@@ -19359,7 +19318,6 @@
         "info": "Apart from the indoor swimming pool in the sports centre, you'll also find a 25-metre outdoor swimming pool on the campus. This swimming pool is used during summertime. It has a diving board, a sunbathing area and changing rooms. The swimming pool is used for swimming competitions, recreational swimming, diving courses, water polo and underwater hockey.",
         "name": "Swimming pool - Outdoor"
       },
-
       "geometry": {
         "type": "Polygon",
         "coordinates": [
