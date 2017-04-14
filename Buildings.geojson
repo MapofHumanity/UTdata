@@ -4243,10 +4243,10 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2016,
+        "end_date": "2016",
         "building": "yes",
         "name": "Cubicus",
-        "start_date": 1973,
+        "start_date": "1973",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i78/b4cf9901037bff6c0086dbf403723b0b0038c890030701c13c03000080.jpg",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "'Cubicus' is an education and research building in which the Behavioural, Management and Social sciences faculty is accommodated. In this characteristic building, situated in a water garden, the communication science, educational science and psychology programmes are housed. This multi-faceted building also accommodates several student associations, project spaces and meeting and lecture halls."
@@ -5235,8 +5235,8 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2002,
-        "start_date": 1973,
+        "end_date": "2002",
+        "start_date": "1973",
         "img": "http://beeldbank.utwente.nl/beeldbank/pcache/10000/ac/UT03397_cfc1f.jpg",
         "imgurl": "http://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen/Cubicus?fc=browse#nav_dir{48}Gebouwen/Cubicus",
         "info": "'Cubicus' is an education and research building in which the Behavioural, Management and Social sciences faculty is accommodated. In this characteristic building, situated in a water garden, the communication science, educational science and psychology programmes are housed. This multi-faceted building also accommodates several student associations, project spaces and meeting and lecture halls.",
@@ -8168,10 +8168,10 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2016,
+        "end_date": "2016",
         "building": "yes",
         "name": "Hogekamp",
-        "start_date": 1967,
+        "start_date": "1967",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i0b/5e47780103d2026d0011d0f403763b0b0069dc52020701c13c03000080.jpg",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "Until recently, this building was used as research and education building of, for example, the Electrical Engineering, Mathematics and Computer Science faculty. At this moment redevelopment of the building is being considered.  Architecture by Samuel van Embden et al.  Van Embden designed this ten-storey building in the spirit of the New Objectivity. He is totally unambiguous about its purpose: it is a machine for studying. Technology is proudly on display, as witnessed by the large air conditioning shafts. This highly visible campus landmark is not in use at this moment, but there are plans to refit it for student accommodation combined with a hotel."
@@ -12803,9 +12803,9 @@
       "type": "Feature",
       "properties": {
         "old_name": "BB-gebouw",
-        "start_date": 1964,
+        "start_date": "1964",
         "name": "Spiegel",
-        "end_date": 2017,
+        "end_date": "2017",
         "building": "yes",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ic9/acb9260103db046d0035cbf403723b0b007b14cd030701c13c03000080.jpg",
         "info": "The 'Spiegel' building is the home base of various support services of the University of Twente, in the area of personnel affairs, finance, ICT support, communication and policy. The 'Spiegel' building also accommodates various lecture halls, a canteen and project spaces that students can use. The 'Spiegel' also houses the Study Information Centre (SI) of the University of Twente. In the Study Information Centre students answer questions from pre-university education pupils across the various study programmes of the University of Twente. Architecture by Wim van Tijen  This building dates from the heyday of the New Objectivity. The architecture is proud, with clean, imposing lines and few ties to the surroundings. Initially, Van Tijen wanted to put the building on legs, inspired as he was by the famous architect Le Corbusier. The building was given an energy-saving skin in 2000; hence its new name 'Spiegel' (Mirror).",
@@ -13512,12 +13512,12 @@
       "type": "Feature",
       "properties": {
         "alt_name": "Stafflat",
-        "start_date": 1965,
+        "start_date": "1965",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6d/e5116a0103db59a200ac881a04fe3b0b0001d374020701c13c03000080.jpg",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "This stiffly formal building stands in contrast to the intimate patio complex, and is designed for privacy and the individual. The tower stands alone having little or no connection with the surrounding nature. In the 1960s, when males and females lived separately on campus, this flat housed males. It was nicknamed the Hunk Bunker: from there you could see into the 'Logica's' courtyard - a female residence.",
         "name": "Woonflatje by Maarten van Wensveen",
-        "end_date": 2016,
+        "end_date": "2016",
         "building": "apartments",
         "@id": "way/269843773"
       },
@@ -13926,12 +13926,12 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": 2010,
+        "start_date": "2010",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie0/472f2d01032bff6c0085e4f403723b0b00bb6d8d030701c13c03000080.jpg",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "The complex of buildings 'Carré' was put into use in 2010. It is the heart of the Education and Research Centre. The square shaped, five-floor building is situated around a courtyard. Because of its shape, the building has no dead ends. It houses offices, lecture halls, practice halls and a wide range of laboratories of several faculties, like Science and Technology, Electrical Engineering and Mathematics and Computer Science. The building has a direct connection with the MESA+ Nanolab and the 'Waaier' building.",
         "name": "Carré",
-        "end_date": 2016,
+        "end_date": "2016",
         "building": "yes",
         "type": "multipolygon",
         "@id": "relation/3611485"
@@ -17959,11 +17959,11 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2016,
+        "end_date": "2016",
         "building": "yes",
         "name": "Paviljoen",
         "source:date": "2016-02-22",
-        "start_date": 1964,
+        "start_date": "1964",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i41/818a8501032a046d0048d4f403763b0b0067022b020701c13c03000080.jpg",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "This building was originally designed as a canteen for staff. At the moment it is the home base of the Facility Department of the University of Twente. Architecture by Joos van Stigt  The Paviljoen is a classic example of Dutch Structuralism, which arose in response to the New Objectivity. The design consists of small, intimate spaces that are clustered together. A distinctive feature is the building s stone chimney, with wings fanning out around it. The building once served as the staff canteen. "
@@ -18632,12 +18632,12 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": 1975,
+        "start_date": "1975",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i26/ca6429010359036d0090d7f403723b0b003b51b5030701c13c03000080.jpg",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "Building 'Linde' accommodates HumanCapitalCare, an independent, accredited occupational health & safety service. The service provision consists of health management, prevention, sick leave follow-up, as well as intervention and reintegration.",
         "name": "Linde",
-        "end_date": 2016,
+        "end_date": "2016",
         "building": "commercial",
         "website": "http://www.santar.nl",
         "@id": "way/269843742"
@@ -19952,9 +19952,9 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2016,
+        "end_date": "2016",
         "building": "apartments",
-        "start_date": 2069,
+        "start_date": "2069",
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
