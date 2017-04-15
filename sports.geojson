@@ -214,11 +214,11 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "Hockey field",
-        "end_date": "2017",
-        "start_date": "1995",
+        "end_date": 2017,
+        "start_date": 1995,
         "imgurl": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/kunstgras_hockeyveld/",
         "info": " ",
-        "img": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/kunstgras_hockeyveld/kunstgras_hockeyveld-2.jpg"
+        "img": "http://www.union.utwente.nl/verenigingeninfo/fotos/Foto_DHC_voor_verenigingsportal.jpg"
       },
       "geometry": {
         "type": "Polygon",
