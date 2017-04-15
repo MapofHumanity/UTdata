@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2017,
-        "start_date": 1993,
+        "end_date": "2017",
+        "start_date": "1993",
         "name": "Bastille Field",
         "imgurl": "https://www.utwente.nl/sport/accommodaties/sportruimtes/buiten/bastilleveld/",
         "info": " ",
@@ -43,8 +43,8 @@
       "type": "Feature",
       "properties": {
         "info": " ",
-        "end_date": 2017,
-        "start_date": 1993,
+        "end_date": "2017",
+        "start_date": "1993",
         "name": "Artificial turf field",
         "imgurl": "https://www.utwente.nl/sport/accommodaties/sportruimtes/buiten/multifunctioneel_kunstgras/",
         "img": "https://www.utwente.nl/sport/accommodaties/sportruimtes/buiten/multifunctioneel_kunstgras/multifunctioneel_kunstgras-1.jpg",
@@ -86,8 +86,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": 2017,
-        "start_date": 1968,
+        "end_date": "2017",
+        "start_date": "1968",
         "name": "Soccer Field",
         "imgurl": "https://www.utwente.nl/sport/accommodaties/sportruimtes/buiten/manegeveld/",
         "info": " ",
@@ -125,8 +125,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tennis",
-        "start_date": 1965,
-        "end_date": 2017,
+        "start_date": "1965",
+        "end_date": "2017",
         "info": "",
         "img": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/tennisbanen/tennisbanen-2.jpg",
         "imgurl": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/tennisbanen/"
@@ -163,8 +163,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tennis",
-        "start_date": 1965,
-        "end_date": 2017,
+        "start_date": "1965",
+        "end_date": "2017",
         "info": "",
         "img": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/tennisbanen/tennisbanen-1.jpg",
         "imgurl": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/tennisbanen/"
@@ -214,8 +214,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "Hockey field",
-        "end_date": 2017,
-        "start_date": 1995,
+        "end_date": "2017",
+        "start_date": "1995",
         "imgurl": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/kunstgras_hockeyveld/",
         "info": " ",
         "img": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/kunstgras_hockeyveld/kunstgras_hockeyveld-2.jpg"
@@ -258,8 +258,8 @@
         "fill-opacity": 0.5,
         "name": "Beach Volleyball",
         "img": "https://beeldbank.utwente.nl//beeldbank/pcache/10000/42/UT02424_26988.jpg",
-        "end_date": 2017,
-        "start_date": 2009,
+        "end_date": "2017",
+        "start_date": "2009",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?fc=browse&queryid=d5942ac8195dc07a5895c75c46ab722c&column=4&listview=overview&view=preview&fileid=31&fuid=10000%2Fimg2%2FUT02424.jpg",
         "info": " "
       },
@@ -300,8 +300,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "Sports Area",
-        "end_date": 2017,
-        "start_date": 1968,
+        "end_date": "2017",
+        "start_date": "1968",
         "imgurl": "https://www.utwente.nl/sport/accommodaties/sportruimtes/buiten/basketbal_oefenplatform/",
         "img": "https://www.utwente.nl/sport/accommodaties/sportruimtes/buiten/basketbal_oefenplatform/basketbal_oefenplatform-1.jpg",
         "info": "  "
@@ -342,8 +342,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": 2017,
-        "start_date": 2009,
+        "end_date": "2017",
+        "start_date": "2009",
         "name": "Basketball Court",
         "imgurl": "https://www.utwente.nl/sport/accommodaties/sportruimtes/buiten/basketbal_oefenplatform/",
         "info": " ",
@@ -385,8 +385,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": 2017,
-        "start_date": 1971,
+        "end_date": "2017",
+        "start_date": "1971",
         "name": "Baseball Field",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?fc=browse&queryid=d5942ac8195dc07a5895c75c46ab722c&column=4&listview=overview&view=preview&fileid=105&fuid=10000%2Fimg2%2FUT02140.jpg",
         "info": " ",
@@ -439,12 +439,12 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2017,
+        "end_date": "2017",
         "name": "Archery",
         "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58f1e002ff7c50d197809800/1492246531447/CSC_0082-e1478552149171.jpg?format=750w",
         "imgurl": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/handboogschietbaan/",
         "info": "",
-        "start_date": 1977
+        "start_date": "1977"
       },
       "geometry": {
         "type": "Polygon",
@@ -485,10 +485,10 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2017,
+        "end_date": "2017",
         "info": " ",
         "name": "Cinder Field",
-        "start_date": 1968,
+        "start_date": "1968",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus",
         "img": "http://www.union.utwente.nl/content/afbeeldingen/sintelbaanveld_3.jpg"
       },
@@ -528,9 +528,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": 2017,
+        "end_date": "2017",
         "name": "UTrack",
-        "start_date": 1968,
+        "start_date": "1968",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?fc=browse&queryid=d5942ac8195dc07a5895c75c46ab722c&order=createdate&column=4&listview=overview&view=preview&fileid=123&fuid=10000%2Fimg2%2FUT00615.jpg",
         "info": " ",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/36/UT00615_641ce.jpg"
@@ -626,9 +626,9 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2017,
+        "end_date": "2017",
         "name": "Bootcamp Area",
-        "start_date": 2015,
+        "start_date": "2015",
         "info": " ",
         "img": "http://beeldbank.utwente.nl/beeldbank/pcache/10000/eb/UT04157_b4364.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
@@ -684,8 +684,8 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2017,
-        "start_date": 1996,
+        "end_date": "2017",
+        "start_date": "1996",
         "name": "Soccer Field",
         "imgurl": "https://www.utwente.nl/sport/accommodaties/sportruimtes/buiten/verreveld/",
         "info": " ",
@@ -724,9 +724,9 @@
       "properties": {
         "name": "Sports Area",
         "info": "",
-        "end_date": 2009,
+        "end_date": "2009",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus",
-        "start_date": 1968,
+        "start_date": "1968",
         "img": ""
       },
       "geometry": {
@@ -761,8 +761,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sports Area",
-        "start_date": 1968,
-        "end_date": 1995,
+        "start_date": "1968",
+        "end_date": "1995",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus",
         "info": " "
       },
@@ -804,8 +804,8 @@
         "fill-opacity": 0.5,
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus",
         "name": "Sports Area",
-        "start_date": 1968,
-        "end_date": 1995,
+        "start_date": "1968",
+        "end_date": "1995",
         "info": " ",
         "img": ""
       },
@@ -840,9 +840,9 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": 1968,
+        "start_date": "1968",
         "name": "Sports Area",
-        "end_date": 1993,
+        "end_date": "1993",
         "stroke-width": "",
         "stroke": "",
         "info": " ",
@@ -880,9 +880,9 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": 1968,
+        "start_date": "1968",
         "name": "Sports Area",
-        "end_date": 1993,
+        "end_date": "1993",
         "stroke-width": "",
         "stroke": "",
         "info": " ",
@@ -920,8 +920,8 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2017,
-        "start_date": 2007,
+        "end_date": "2017",
+        "start_date": "2007",
         "name": "Climbing wall",
         "stroke": "",
         "info": "",
@@ -975,11 +975,11 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": 2017,
+        "end_date": "2017",
         "info": "",
         "img": "http://wesp.snt.utwente.nl/~tartaros/wordpress/wp-content/uploads/2014/11/bandenladder-768x432.jpg",
         "name": "Survival Course",
-        "start_date": 1969,
+        "start_date": "1969",
         "imgurl": "http://www.tartaros.utwente.nl/survivalrun/hindernissen/"
       },
       "geometry": {
