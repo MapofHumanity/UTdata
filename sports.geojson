@@ -3,7 +3,12 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "end_date": 2017,
+        "start_date": 1993,
+        "name": "Soccer Field",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34,7 +39,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "info": "",
+        "end_date": 2017,
+        "start_date": 1993,
+        "name": "Soccer Field",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65,7 +76,17 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2017,
+        "start_date": 1968,
+        "name": "Soccer Field",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -96,7 +117,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Tennis",
+        "start_date": 1965,
+        "end_date": 2017,
+        "info": "Tennis courts",
+        "img": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/tennisbanen/tennisbanen-2.jpg",
+        "imgurl": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/tennisbanen/"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -127,7 +155,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Tennis",
+        "start_date": 1965,
+        "end_date": 2017,
+        "info": "Tennis courts",
+        "img": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/tennisbanen/tennisbanen-1.jpg",
+        "imgurl": "https://www.utwente.nl/sport/en/accommodations/sport-locations/outdoor/tennisbanen/"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -166,7 +201,17 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Hockey field",
+        "end_date": 2017,
+        "start_date": 1995,
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -197,7 +242,19 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Beach Volleyball",
+        "img": "https://beeldbank.utwente.nl//beeldbank/pcache/10000/42/UT02424_26988.jpg",
+        "end_date": 2017,
+        "start_date": 2009,
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?fc=browse&queryid=d5942ac8195dc07a5895c75c46ab722c&column=4&listview=overview&view=preview&fileid=31&fuid=10000%2Fimg2%2FUT02424.jpg",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -228,7 +285,18 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Sports Area",
+        "end_date": 2017,
+        "start_date": 1968,
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus",
+        "img": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -259,7 +327,17 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2017,
+        "start_date": 2009,
+        "name": "Sports Area",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -290,33 +368,55 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2017,
+        "start_date": 1971,
+        "name": "Baseball Field",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              6.85185581445694,
+              6.8518504500389135,
               52.24644260367659
             ],
             [
-              6.851284503936767,
+              6.851048469543457,
+              52.24674805673201
+            ],
+            [
+              6.850908994674683,
               52.246656092592474
             ],
             [
-              6.850815117359161,
+              6.850809752941135,
               52.246549348262924
             ],
             [
-              6.85083121061325,
+              6.850758790969849,
+              52.24639990577013
+            ],
+            [
+              6.850825846195224,
               52.24624717830688
             ],
             [
-              6.851432025432587,
-              52.24611744166169
+              6.851032376289368,
+              52.24612401061486
             ],
             [
-              6.85185581445694,
+              6.8513113260269165,
+              52.24602876069858
+            ],
+            [
+              6.8518504500389135,
               52.24644260367659
             ]
           ]
@@ -325,7 +425,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "end_date": 2017,
+        "name": "Archery",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58f1e002ff7c50d197809800/1492246531447/CSC_0082-e1478552149171.jpg?format=750w",
+        "imgurl": "http://www.sagittarius.utwente.nl/",
+        "info": "Field archery",
+        "start_date": 1977
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -364,7 +471,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "end_date": 2017,
+        "info": "",
+        "name": "Soccer Field",
+        "start_date": 1968,
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -395,7 +508,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "end_date": 2017,
+        "name": "Athletics course",
+        "start_date": 1968,
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -486,7 +604,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "end_date": 2017,
+        "name": "Bootcamp Area",
+        "start_date": 2015,
+        "info": "",
+        "img": "http://beeldbank.utwente.nl/beeldbank/pcache/10000/eb/UT04157_b4364.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -537,7 +662,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "end_date": 2017,
+        "start_date": 1996,
+        "name": "Soccer Field",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -561,6 +691,247 @@
             [
               6.85121476650238,
               52.24720787457031
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 2009,
+        "info": 1968,
+        "end_date": "Sports Area",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.8491655588150016,
+              52.246032045181856
+            ],
+            [
+              6.8494874238967896,
+              52.245766001248796
+            ],
+            [
+              6.84971809387207,
+              52.24587767420509
+            ],
+            [
+              6.849385499954224,
+              52.24613550628058
+            ],
+            [
+              6.8491655588150016,
+              52.246032045181856
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 1995,
+        "start_date": 1968,
+        "end_date": "Sports Area",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.8470412492752075,
+              52.24468210207015
+            ],
+            [
+              6.848210692405701,
+              52.24472480162971
+            ],
+            [
+              6.848167777061462,
+              52.24513208767084
+            ],
+            [
+              6.8469929695129395,
+              52.245086103950186
+            ],
+            [
+              6.8470412492752075,
+              52.24468210207015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?view=&bsize=&column=4&fc=browse&query=sport&inresults=1&queryid=1#nav_dir{176}Campus",
+        "name": 1995,
+        "start_date": 1968,
+        "end_date": "Sports Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.8470412492752075,
+              52.245135372220496
+            ],
+            [
+              6.84823215007782,
+              52.24517807134384
+            ],
+            [
+              6.848194599151611,
+              52.24557549967465
+            ],
+            [
+              6.84697687625885,
+              52.24551637833017
+            ],
+            [
+              6.8470412492752075,
+              52.245135372220496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1968,
+        "name": 1993,
+        "end_date": "Sports Area",
+        "stroke-width": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?fc=browse&column=4",
+        "stroke": "https://beeldbank.utwente.n/beeldbank/pcache/10000/b9/UT01856_9805f.jpg",
+        "info": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.850383281707764,
+              52.24356204510245
+            ],
+            [
+              6.8496644496917725,
+              52.242816419657295
+            ],
+            [
+              6.850372552871704,
+              52.242563495405044
+            ],
+            [
+              6.851102113723755,
+              52.24331240978467
+            ],
+            [
+              6.850383281707764,
+              52.24356204510245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "start_date": 1968,
+        "name": 1993,
+        "end_date": "Sports Area",
+        "stroke-width": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?fc=browse&column=4",
+        "stroke": "https://beeldbank.utwente.n/beeldbank/pcache/10000/b9/UT01856_9805f.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.850501298904418,
+              52.242602912266456
+            ],
+            [
+              6.851654648780822,
+              52.242175894402926
+            ],
+            [
+              6.852169632911682,
+              52.24270145426679
+            ],
+            [
+              6.8510109186172485,
+              52.2431383211661
+            ],
+            [
+              6.850501298904418,
+              52.242602912266456
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "end_date": "Climbing wall",
+        "start_date": 2007,
+        "name": 2017,
+        "stroke": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Campus?fc=browse&queryid=d5942ac8195dc07a5895c75c46ab722c&column=4&listview=overview&view=preview&fileid=34&fuid=10000%2Fimg1%2FUT01718.jpg",
+        "info": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/51/UT01718_1bf08.jpg?6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.851322054862976,
+              52.243767336252176
+            ],
+            [
+              6.851281821727752,
+              52.24377719020349
+            ],
+            [
+              6.851072609424591,
+              52.24354069476831
+            ],
+            [
+              6.850946545600891,
+              52.2435045634103
+            ],
+            [
+              6.850903630256653,
+              52.24343886995668
+            ],
+            [
+              6.850943863391876,
+              52.24342080423988
+            ],
+            [
+              6.851048469543457,
+              52.24345036631808
+            ],
+            [
+              6.851134300231934,
+              52.243525913761786
+            ],
+            [
+              6.851322054862976,
+              52.243767336252176
             ]
           ]
         ]
