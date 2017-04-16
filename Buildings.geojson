@@ -10696,8 +10696,13 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "1991",
-        "start_date": "1965",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 1991,
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
@@ -17657,11 +17662,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1965",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "1991",
+        "end_date": 1991,
         "name": "Hall D",
         "building": "yes"
       },
@@ -22716,11 +22726,16 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1965",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2007",
+        "end_date": 2007,
         "name": "Hal C",
         "building": "yes"
       },
