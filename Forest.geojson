@@ -4,11 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -676,7 +677,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -795,7 +803,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1194,7 +1209,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1621,7 +1643,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1680,7 +1709,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1755,7 +1791,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1954,7 +1997,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1997,7 +2047,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2152,7 +2209,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2183,7 +2247,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2246,7 +2317,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2349,7 +2427,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2400,7 +2485,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2475,7 +2567,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2550,7 +2649,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2769,7 +2875,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3148,7 +3261,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3179,7 +3299,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3242,7 +3369,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3293,7 +3427,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3344,7 +3485,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3375,7 +3523,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3442,7 +3597,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3493,7 +3655,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3580,7 +3749,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "start_date": "1960",
+        "end_date": "2017",
+        "name": "Forest",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w",
+        "imgurl": "https://beeldbank.utwente.nl",
+        "info": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
