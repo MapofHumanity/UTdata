@@ -24690,7 +24690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1950",
+        "start_date": 1950,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
@@ -24728,6 +24728,47 @@
             [
               6.8539828062057495,
               52.24128242834908
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 1964,
+        "name": "Huis",
+        "start_date": 1950,
+        "imgurl": "http://beeldbank.utwente.nl"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.859642267227173,
+              52.236345047101
+            ],
+            [
+              6.859840750694275,
+              52.2362908412647
+            ],
+            [
+              6.859889030456543,
+              52.236372971293854
+            ],
+            [
+              6.859714686870575,
+              52.23642553443277
+            ],
+            [
+              6.859642267227173,
+              52.236345047101
             ]
           ]
         ]
