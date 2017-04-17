@@ -103,7 +103,16 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Opening Technische Hogeschool Twente",
+        "info": "Opening THT, de gasten vertrekken met bussen naar Enschede",
+        "date": 1964,
+        "img": "http://beeldbank.utwente.nl/beeldbank/pcache/10000/cd/UT00427_d0a18.jpg",
+        "imgurl": "http://beeldbank.utwente.nl/beeldbank/start/allematerialen?style=fullscreen&fc=browse&queryid=1e223551ed30027f4abd26e5fa799064&order=createdateRev&listview=25&view=preview&fileid=20&fuid=10000%2Fimg1%2FUT00427.tif"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
