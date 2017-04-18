@@ -118,10 +118,13 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "\"Roombeek\"",
-        "start_date": "1964",
-        "end_date": "2017",
-        "info": "The Roombeek neighbourhood of Enschede was thelocation of a horrible firework disaster in 2001. In commemoration, localpolicy decided to let the Roombeek stream flow above ground once again. Thebrook now meanders from the disaster neighbourhood to the campus. The Regge andDinkel Water Authority built an ingenious passage for it underneath theDrienerlolaan. The city and the campus are now connected by its waters.",
+        "start_date": 2000,
+        "end_date": 2017,
+        "info": "The Roombeek neighbourhood of Enschede was the location of a horrible firework disaster in 2001. In commemoration, local policy decided to let the Roombeek stream flow above ground once again. The brook now meanders from the disaster neighbourhood to the campus. The Regge and Dinkel Water Authority built an ingenious passage for it underneath the Drienerlolaan. The city and the campus are now connected by its waters.",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i81/4ffd6d0103db5ca20048d31104fe3b0b009ffa55020701c13c03000080.jpg",
         "imgURL": "",
         "thumbnail": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i8b/b1d6be0103db5ca20048d31104fe3b0b009ffa55020701c1da00da0080.jpg"
