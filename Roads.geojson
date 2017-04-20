@@ -678,8 +678,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.852000653743744,
-            52.24202643717989
+            6.852067708969116,
+            52.242000158934815
           ],
           [
             6.851185,
@@ -3722,15 +3722,19 @@
         "stroke": "#ffff00",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": "1960",
-        "end_date": "1962"
+        "start_date": 1960,
+        "end_date": 1961
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            6.848559379577623,
-            52.24313503646861
+            6.848505735397339,
+            52.24318923394598
+          ],
+          [
+            6.848712265491486,
+            52.24307755422334
           ],
           [
             6.84889197349547,
@@ -3826,8 +3830,10 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "1962",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "start_date": 1960,
+        "end_date": 1961,
         "stroke-opacity": ""
       },
       "geometry": {
@@ -3914,8 +3920,8 @@
             52.24222188113951
           ],
           [
-            6.851252317428589,
-            52.242281006873654
+            6.851295232772827,
+            52.24226129830434
           ]
         ]
       }
@@ -3923,8 +3929,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "1962"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1960,
+        "end_date": 1961
       },
       "geometry": {
         "type": "LineString",
@@ -4110,8 +4119,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1960",
-        "end_date": "1965"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1960,
+        "end_date": 1964
       },
       "geometry": {
         "type": "LineString",
@@ -4217,8 +4229,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.851997971534729,
-            52.242024794790055
+            6.852067708969116,
+            52.242000158934815
           ],
           [
             6.852099895477295,
@@ -4285,8 +4297,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.852000653743744,
-            52.242024794790055
+            6.852073073387146,
+            52.242000158934815
           ],
           [
             6.85260146856308,
@@ -4305,8 +4317,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            6.852000653743744,
-            52.24202972195944
+            6.852070391178131,
+            52.24199851654398
           ],
           [
             6.852290332317351,
@@ -4490,8 +4502,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1964",
-        "end_date": "1970"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1963,
+        "end_date": 1970
       },
       "geometry": {
         "type": "LineString",
@@ -4529,8 +4544,8 @@
             52.24399561889543
           ],
           [
-            6.852099895477295,
-            52.24201658283982
+            6.852078437805176,
+            52.242000158934815
           ]
         ]
       }
@@ -4538,8 +4553,11 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1964",
-        "end_date": "1993"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1963,
+        "end_date": 1993
       },
       "geometry": {
         "type": "LineString",
@@ -4549,8 +4567,8 @@
             52.23910124448259
           ],
           [
-            6.852089166641235,
-            52.242024794790055
+            6.852078437805176,
+            52.242000158934815
           ]
         ]
       }
@@ -4718,8 +4736,8 @@
         "stroke": "#ff0080",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "start_date": "1960",
-        "end_date": "1962"
+        "start_date": 1960,
+        "end_date": 1961
       },
       "geometry": {
         "type": "LineString",
@@ -4749,8 +4767,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": "1960",
-        "end_date": "1962"
+        "start_date": 1960,
+        "end_date": 1961
       },
       "geometry": {
         "type": "LineString",
@@ -4792,15 +4810,15 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": "1960",
-        "end_date": "1962"
+        "start_date": 1960,
+        "end_date": 1961
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            6.849991679191589,
-            52.24209705988646
+            6.849978268146515,
+            52.24207406645946
           ],
           [
             6.850541532039642,
@@ -4819,7 +4837,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "start_date": 1960,
+        "end_date": 1961
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
