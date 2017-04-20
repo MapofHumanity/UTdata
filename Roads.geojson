@@ -3498,8 +3498,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1960,
-        "end_date": 1974
+        "start_date": "1960",
+        "end_date": "1974"
       },
       "geometry": {
         "type": "LineString",
@@ -3725,8 +3725,8 @@
         "stroke": "#ffff00",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1960,
-        "end_date": 1961
+        "start_date": "1960",
+        "end_date": "1961"
       },
       "geometry": {
         "type": "LineString",
@@ -3835,8 +3835,8 @@
       "properties": {
         "stroke": "#555555",
         "stroke-width": 2,
-        "start_date": 1960,
-        "end_date": 1961,
+        "start_date": "1960",
+        "end_date": "1961",
         "stroke-opacity": ""
       },
       "geometry": {
@@ -3935,8 +3935,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1960,
-        "end_date": 1961
+        "start_date": "1960",
+        "end_date": "1961"
       },
       "geometry": {
         "type": "LineString",
@@ -4125,8 +4125,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1960,
-        "end_date": 1964
+        "start_date": "1960",
+        "end_date": "1964"
       },
       "geometry": {
         "type": "LineString",
@@ -4296,8 +4296,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "end_date": 1992,
-        "start_date": 1962
+        "end_date": "1992",
+        "start_date": "1962"
       },
       "geometry": {
         "type": "LineString",
@@ -4491,8 +4491,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1964,
-        "end_date": 1992
+        "start_date": "1964",
+        "end_date": "1992"
       },
       "geometry": {
         "type": "LineString",
@@ -4514,8 +4514,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1963,
-        "end_date": 1970
+        "start_date": "1963",
+        "end_date": "1970"
       },
       "geometry": {
         "type": "LineString",
@@ -4565,8 +4565,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1963,
-        "end_date": 1992
+        "start_date": "1963",
+        "end_date": "1992"
       },
       "geometry": {
         "type": "LineString",
@@ -4745,8 +4745,8 @@
         "stroke": "#ff0080",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "start_date": 1960,
-        "end_date": 1961
+        "start_date": "1960",
+        "end_date": "1961"
       },
       "geometry": {
         "type": "LineString",
@@ -4776,8 +4776,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1960,
-        "end_date": 1961
+        "start_date": "1960",
+        "end_date": "1961"
       },
       "geometry": {
         "type": "LineString",
@@ -4819,8 +4819,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1960,
-        "end_date": 1961
+        "start_date": "1960",
+        "end_date": "1961"
       },
       "geometry": {
         "type": "LineString",
@@ -4850,8 +4850,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "start_date": 1960,
-        "end_date": 1961
+        "start_date": "1960",
+        "end_date": "1961"
       },
       "geometry": {
         "type": "LineString",

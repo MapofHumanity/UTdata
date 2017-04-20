@@ -9,9 +9,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1977,
+        "start_date": "1977",
         "natural": "water",
-        "end_date": 1995,
+        "end_date": "1995",
         "name": ""
       },
       "geometry": {
@@ -2425,9 +2425,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1964,
+        "start_date": "1964",
         "natural": "water",
-        "end_date": 1995
+        "end_date": "1995"
       },
       "geometry": {
         "type": "Polygon",
@@ -2764,9 +2764,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1973,
+        "start_date": "1973",
         "natural": "water",
-        "end_date": 2016
+        "end_date": "2016"
       },
       "geometry": {
         "type": "Polygon",
@@ -4314,9 +4314,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1968,
+        "start_date": "1968",
         "natural": "water",
-        "end_date": 1972
+        "end_date": "1972"
       },
       "geometry": {
         "type": "Polygon",
@@ -4390,8 +4390,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1965,
-        "end_date": 2017
+        "start_date": "1965",
+        "end_date": "2017"
       },
       "geometry": {
         "type": "Polygon",
@@ -4437,8 +4437,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1968,
-        "end_date ": 2017
+        "start_date": "1968",
+        "end_date ": "2017"
       },
       "geometry": {
         "type": "Polygon",
