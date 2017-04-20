@@ -7,13 +7,14 @@
         "start_date": "1977",
         "natural": "water",
         "end_date": "1995",
-        "name": "",
-        "info": "",
+        "name": "water",
+        "info": " ",
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -74,7 +75,10 @@
         "fill-opacity": 0.5,
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -223,7 +227,10 @@
         "fill-opacity": 0.5,
         "start_date": "1970",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -264,7 +271,10 @@
         "fill-opacity": 0.5,
         "start_date": "1968",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -357,7 +367,10 @@
         "fill-opacity": 0.5,
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -478,7 +491,10 @@
         "fill-opacity": 0.5,
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -529,7 +545,9 @@
         "natural": "water",
         "end_date": "2017",
         "existed_in": "[\"1977\",\"1978\",\"1979\",\"1980\",\"1981\",\"1982\",\"1983\",\"1984\",\"1985\",\"1986\",\"1987\",\"1988\",\"1989\",\"1990\",\"1991\",\"1992\",\"1993\",\"1994\",\"1995\",\"1996\",\"1997\",\"1998\",\"1999\",\"2000\",\"2001\",\"2002\",\"2003\",\"2004\",\"2005\",\"2006\",\"2007\",\"2008\",\"2009\",\"2010\",\"2011\",\"2012\",\"2013\",\"2014\",\"2015\",\"2016\"]",
-        "name": "water"
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -973,7 +991,10 @@
       "properties": {
         "start_date": "1977",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1030,7 +1051,10 @@
         "fill-opacity": 0.5,
         "start_date": "1965",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": " https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1215,7 +1239,10 @@
         "fill-opacity": 0.5,
         "natural": "water",
         "end_date": "2009",
-        "start_date": "1964"
+        "start_date": "1964",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1295,7 +1322,10 @@
       "properties": {
         "start_date": "1992",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1340,7 +1370,10 @@
         "fill-opacity": 0.5,
         "start_date": "1968",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1421,7 +1454,10 @@
         "fill-opacity": 0.5,
         "start_date": "1950",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1577,7 +1613,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1640,7 +1679,9 @@
         "natural": "water",
         "end_date": "2017",
         "existed_in": "",
-        "name": 16
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1716,7 +1757,10 @@
       "properties": {
         "end_date": "1964",
         "start_date": "2012",
-        "natural": "9999"
+        "natural": "9999",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1796,7 +1840,10 @@
       "properties": {
         "start_date": "1977",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1853,7 +1900,10 @@
         "fill-opacity": 0.5,
         "start_date": "1968",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -1950,7 +2000,10 @@
         "fill-opacity": 0.5,
         "start_date": "1968",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2171,7 +2224,9 @@
         "natural": "water",
         "end_date": "2017",
         "existed_in": "[\"1977\",\"1978\",\"1979\",\"1980\",\"1981\",\"1982\",\"1983\",\"1984\",\"1985\",\"1986\",\"1987\",\"1988\",\"1989\",\"1990\",\"1991\",\"1992\",\"1993\",\"1994\",\"1995\",\"1996\",\"1997\",\"1998\",\"1999\",\"2000\",\"2001\",\"2002\",\"2003\",\"2004\",\"2005\",\"2006\",\"2007\",\"2008\",\"2009\",\"2010\",\"2011\",\"2012\",\"2013\",\"2014\",\"2015\",\"2016\"]",
-        "name": "water"
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2255,7 +2310,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2428,7 +2486,10 @@
         "fill-opacity": 0.5,
         "start_date": "1964",
         "natural": "water",
-        "end_date": "1995"
+        "end_date": "1995",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2476,7 +2537,10 @@
       "properties": {
         "start_date": "1995",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": "",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2517,7 +2581,10 @@
         "fill-opacity": 0.5,
         "start_date": "1968",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2621,7 +2688,10 @@
       "properties": {
         "start_date": "1995",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2706,7 +2776,10 @@
         "fill-opacity": 0.5,
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2767,7 +2840,10 @@
         "fill-opacity": 0.5,
         "start_date": "1973",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -2951,7 +3027,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": " https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3227,7 +3306,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3367,7 +3449,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3456,7 +3541,10 @@
         "fill-opacity": 0.5,
         "start_date": "1971",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3532,7 +3620,10 @@
       "properties": {
         "start_date": "1950",
         "natural": "water",
-        "end_date": "1995"
+        "end_date": "1995",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3580,7 +3671,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3640,7 +3734,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3721,7 +3818,10 @@
         "fill-opacity": 0.5,
         "start_date": "1968",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3809,7 +3909,10 @@
       "properties": {
         "start_date": "1977",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3910,7 +4013,10 @@
         "fill-opacity": 0.5,
         "natural": "water",
         "end_date": "1964",
-        "start_date": "2010"
+        "start_date": "2010",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3946,7 +4052,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -4114,7 +4223,10 @@
       "properties": {
         "start_date": "1964",
         "natural": "water",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -4317,7 +4429,10 @@
         "fill-opacity": 0.5,
         "start_date": "1968",
         "natural": "water",
-        "end_date": "1972"
+        "end_date": "1972",
+        "name": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -4392,7 +4507,11 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1965",
-        "end_date": "2017"
+        "end_date": "2017",
+        "name": "water",
+        "natural": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
@@ -4439,7 +4558,12 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "start_date": "1968",
-        "end_date ": "2017"
+        "end_date ": "2017",
+        "end_date": 2017,
+        "name": "water",
+        "natural": "water",
+        "info": " ",
+        "img": "https://static1.squarespace.com/static/576ae9bf5016e18922028199/t/58e23fc12994caf20b4c091a/1491222465915/pixel-vfl3z5WfW.gif?format=100w"
       },
       "geometry": {
         "type": "Polygon",
