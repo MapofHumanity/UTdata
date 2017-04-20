@@ -13,7 +13,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
         "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "Campuslaan High",
         "fill-opacity": 0.5
       },
@@ -78,7 +78,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -162,7 +162,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "commercial",
         "name": "Erve Holzik",
         "start_date": "1915",
@@ -206,7 +206,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1971",
         "img": "",
@@ -291,7 +291,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -331,7 +331,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -384,7 +384,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -452,7 +452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1971",
         "img": "",
@@ -497,7 +497,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
@@ -545,7 +545,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -585,7 +585,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -629,7 +629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -678,7 +678,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "name": "Campuslaan Low"
@@ -727,7 +727,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1996",
         "img": "",
@@ -767,7 +767,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1990",
         "img": "",
@@ -820,7 +820,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -920,7 +920,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Log cabins",
         "start_date": "2002",
@@ -964,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Log cabins",
         "start_date": "2002",
@@ -1008,7 +1008,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2006",
         "img": "",
@@ -1053,7 +1053,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -1125,7 +1125,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1978",
         "img": "",
@@ -1165,7 +1165,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1971",
         "img": "",
@@ -1237,7 +1237,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -1290,7 +1290,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -1370,7 +1370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1971",
         "img": "",
@@ -1414,7 +1414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Log cabins",
         "start_date": "2002",
@@ -1458,7 +1458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Garage",
         "start_date": "1965",
@@ -1498,7 +1498,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -1544,7 +1544,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "The art academy ArtEZ used to be located here, but has moved to the city of Enschede. The building is empty right now and is waiting for a new department to move in.",
         "name": "Technohal",
-        "end_date": "2016",
+        "end_date": "2017",
         "note": "former AKI Academie voor Kunst en Industrie, renamed 2008",
         "building": "yes",
         "@id": "way/269843958"
@@ -1617,7 +1617,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -1662,7 +1662,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -1734,7 +1734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1915",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if4/560c010103abff6c0033daf403723b0b00496091030701c13c03000080.jpg",
@@ -1779,7 +1779,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -1852,7 +1852,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
         "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "name": "Campuslaan High"
       },
@@ -1908,7 +1908,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "name": "Logica C",
         "start_date": "1967",
@@ -1964,7 +1964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2005",
         "img": "",
@@ -2009,7 +2009,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -2121,7 +2121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -2174,7 +2174,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -2219,7 +2219,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -2272,7 +2272,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -2352,7 +2352,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -2392,7 +2392,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Sanitairgebouw",
         "start_date": "1950",
@@ -2452,7 +2452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "2008",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -2501,7 +2501,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -2574,7 +2574,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -2671,7 +2671,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1967",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
@@ -2728,7 +2728,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -2813,7 +2813,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
@@ -2892,7 +2892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Bastille",
         "start_date": "1969",
@@ -3400,7 +3400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -3440,7 +3440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "2008",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -3488,7 +3488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Garage",
         "start_date": "1965",
@@ -3528,7 +3528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "2008",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -3581,7 +3581,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -3650,7 +3650,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
@@ -3739,7 +3739,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -3808,7 +3808,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
@@ -3861,7 +3861,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -3909,7 +3909,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "2008",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -3957,7 +3957,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "source:date": "2016-02-22",
         "start_date": "2011",
@@ -4011,7 +4011,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -4106,7 +4106,7 @@
         "info": "The 'Ravelijn' building houses the Behavioural, Management and Social sciences faculty as well as the research institute IGS. It is the home base for education in the area of management and technology, public administration, business and information technology, as well as European studies and health sciences. Besides this multidisciplinary research in the area of administration and management of technological and social innovation is performed here.",
         "name": "Ravelijn",
         "layer": 1,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "@id": "way/269843735"
       },
@@ -4206,7 +4206,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -4291,7 +4291,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -4376,7 +4376,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Cubicus",
         "start_date": "1973",
@@ -4588,7 +4588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -4636,7 +4636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -4676,7 +4676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2005",
         "img": "",
@@ -4716,7 +4716,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Log cabins",
         "start_date": "2002",
@@ -4760,7 +4760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Zuidhorst",
         "start_date": "1966",
@@ -4848,7 +4848,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "High Tech Factory",
         "start_date": "1992",
@@ -4980,7 +4980,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "name": "Logica A",
         "start_date": "1967",
@@ -5036,7 +5036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2007",
         "img": "",
@@ -5089,7 +5089,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
@@ -5168,7 +5168,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Tennispark",
         "start_date": "1965",
@@ -5213,7 +5213,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -5293,7 +5293,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -5333,7 +5333,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2005",
         "img": "",
@@ -5489,7 +5489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
@@ -5577,7 +5577,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Seinhuis",
         "start_date": "1965",
@@ -5642,7 +5642,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
@@ -5695,7 +5695,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -5735,7 +5735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "name": "Logica B",
         "start_date": "1967",
@@ -5796,7 +5796,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -5893,7 +5893,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -5933,7 +5933,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1997",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if4/560c010103abff6c0033daf403723b0b00496091030701c13c03000080.jpg",
@@ -5973,7 +5973,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -6013,7 +6013,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -6053,7 +6053,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Hal B",
         "start_date": "1965",
@@ -6309,7 +6309,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -6349,7 +6349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1997",
         "img": "",
@@ -6389,7 +6389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "start_date": "1965",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i13/a4eb420103245ca200f7d89d02fe3b0b0039b163020701c13c03000080.jpg",
@@ -6445,7 +6445,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -6499,7 +6499,7 @@
         "info": "",
         "name": "Hal B",
         "layer": 1,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "@id": "way/269864167"
       },
@@ -6535,7 +6535,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -6575,7 +6575,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -6619,7 +6619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "name": "Sky",
         "start_date": "2007",
@@ -6683,7 +6683,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1978",
         "img": "",
@@ -6723,7 +6723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "The Gallery",
         "start_date": "1970",
@@ -6971,7 +6971,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Tennispark",
         "start_date": "1965",
@@ -7019,7 +7019,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -7067,7 +7067,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1965",
         "img": "",
@@ -7116,7 +7116,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -7185,7 +7185,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -7270,7 +7270,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -7318,7 +7318,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -7401,7 +7401,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1965",
         "img": "",
@@ -7445,7 +7445,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Log cabins",
         "start_date": "2002",
@@ -7489,7 +7489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -7537,7 +7537,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1915",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if4/560c010103abff6c0033daf403723b0b00496091030701c13c03000080.jpg",
@@ -7577,7 +7577,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Citadel",
         "source:date": "2016-02-22",
@@ -8011,7 +8011,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -8097,7 +8097,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "name": "Campuslaan Low"
@@ -8146,7 +8146,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -8186,7 +8186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -8231,7 +8231,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -8287,7 +8287,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -8335,7 +8335,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Hogekamp",
         "start_date": "1967",
@@ -8548,7 +8548,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -8640,7 +8640,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Hogekamp",
         "start_date": "1965",
@@ -8684,7 +8684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2006",
         "img": "",
@@ -8724,7 +8724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Buitenhorst",
         "start_date": "2011",
@@ -8781,7 +8781,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -8866,7 +8866,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -8971,7 +8971,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -9023,7 +9023,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2005",
         "img": "",
@@ -9063,7 +9063,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1978",
         "img": "",
@@ -9103,7 +9103,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "name": "Biomagnetic Centre",
         "start_date": "1992",
@@ -9159,7 +9159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Kleinhorst",
         "start_date": "1977",
@@ -9236,7 +9236,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "name": "Campuslaan High",
         "start_date": "1967",
@@ -9284,7 +9284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -9324,7 +9324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -9364,7 +9364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2007",
         "img": "",
@@ -9404,7 +9404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -9452,7 +9452,7 @@
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "residential",
         "building:levels": 1,
         "name": "Witbreuksweg"
@@ -9538,7 +9538,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -9622,7 +9622,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1978",
         "img": "",
@@ -9662,7 +9662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -9710,7 +9710,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -9750,7 +9750,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Vrijhof Cultural Centre",
         "start_date": "1970",
@@ -10584,7 +10584,7 @@
         "info": "The 'Drienerburght' is a conference hotel in the middle of the campus of the University of Twente. The building has 64 hotel rooms and five conference halls.",
         "name": "Drienerburght",
         "tourism": "hotel",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "website": "http://www.drienerburght.nl/",
         "@id": "way/269843527"
@@ -10898,7 +10898,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "building:levels": 1,
         "layer": 1,
@@ -10945,7 +10945,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -11030,7 +11030,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -11124,7 +11124,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -11192,7 +11192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "2007",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i33/cf8a520103d8fe6c0091e5f403723b0b0010760b040701c13c03000080.jpg",
@@ -11323,7 +11323,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2005",
         "img": "",
@@ -11363,7 +11363,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i5c/66295401031d066d002acff4037c3b0b00931a02030701c13c03000080.jpg",
@@ -11419,7 +11419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "2008",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -11477,7 +11477,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
         "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments"
       },
       "geometry": {
@@ -11541,7 +11541,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -11629,7 +11629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1965",
         "img": "",
@@ -11674,7 +11674,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -11739,7 +11739,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -11836,7 +11836,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
@@ -11884,7 +11884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 3,
         "start_date": "1969",
@@ -11933,7 +11933,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "commercial",
         "start_date": "1988",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i6b/e67b7501035658a200c181b202fe3b0b0061dc6a020701c13c03000080.jpg",
@@ -12156,7 +12156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Noordhorst",
         "start_date": "1965",
@@ -12225,7 +12225,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "name": "Campuslaan Low"
       },
@@ -12273,7 +12273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
@@ -12361,7 +12361,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Motorstalling",
         "start_date": "1978",
@@ -12441,7 +12441,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -12486,7 +12486,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -12571,7 +12571,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -12660,7 +12660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1965",
         "img": "",
@@ -12748,7 +12748,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -12842,7 +12842,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -12886,7 +12886,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Boortoren",
         "start_date": "1992",
@@ -12930,7 +12930,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1962",
         "img": "",
@@ -12970,7 +12970,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Log cabins",
         "start_date": "2002",
@@ -13412,7 +13412,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -13464,7 +13464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1965",
         "img": "",
@@ -13504,7 +13504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1971",
         "img": "",
@@ -13584,7 +13584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Erve Holzik",
         "start_date": "1915",
@@ -13645,7 +13645,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -13739,7 +13739,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "This stiffly formal building stands in contrast to the intimate patio complex, and is designed for privacy and the individual. The tower stands alone having little or no connection with the surrounding nature. In the 1960s, when males and females lived separately on campus, this flat housed males. It was nicknamed the Hunk Bunker: from there you could see into the 'Logica's' courtyard - a female residence.",
         "name": "Woonflatje by Maarten van Wensveen",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "@id": "way/269843773"
       },
@@ -13816,7 +13816,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -13888,7 +13888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i5c/66295401031d066d002acff4037c3b0b00931a02030701c13c03000080.jpg",
@@ -13937,7 +13937,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "name": "Campuslaan Low"
@@ -13986,7 +13986,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "name": "Koeltoren",
         "start_date": "2012",
@@ -14031,7 +14031,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
@@ -14111,7 +14111,7 @@
       "type": "Feature",
       "properties": {
         "start_date": "1969",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
@@ -14167,7 +14167,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "The complex of buildings 'Carré' was put into use in 2010. It is the heart of the Education and Research Centre. The square shaped, five-floor building is situated around a courtyard. Because of its shape, the building has no dead ends. It houses offices, lecture halls, practice halls and a wide range of laboratories of several faculties, like Science and Technology, Electrical Engineering and Mathematics and Computer Science. The building has a direct connection with the MESA+ Nanolab and the 'Waaier' building.",
         "name": "Carré",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "type": "multipolygon",
         "@id": "relation/3611485"
@@ -14369,7 +14369,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -14417,7 +14417,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2005",
         "img": "",
@@ -14461,7 +14461,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1996",
         "img": "",
@@ -14506,7 +14506,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -14604,7 +14604,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "name": "Campuslaan Low",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "@id": "way/269844701"
@@ -14649,7 +14649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -14702,7 +14702,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
         "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "name": "Campuslaan High"
       },
@@ -14751,7 +14751,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "'Logica' is a lodging and meeting accommodation, situated on the border of the campus, surrounded by many sports facilities. It is an ideal spot for meetings, courses, training camps and sports events. The building has a lecture hall for meetings of up to 60 people, as well as four apartments comprising 24 rooms for single or double use.",
         "name": "Logica",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "building:levels": 1,
         "@id": "way/269843612"
@@ -14904,7 +14904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "layer": 1,
         "start_date": "2009",
@@ -14945,7 +14945,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1978",
         "img": "",
@@ -14991,7 +14991,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "The 'Vleugel' building, also referred to as the board wing, is the home base of the Executive Board of the University of Twente. The Executive Board consists of Victor van der Chijs (chairman), Ed Brinksma (rector magnificus) and Mirjam Bult (Vice-president). Apart from the Executive Board and the secretariats, the spokesperson and the secretary of the University of Twente work in the board wing as well.",
         "name": "Vleugel",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "@id": "way/269843774"
       },
@@ -15111,7 +15111,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Horsttoren",
         "start_date": "1966",
@@ -15219,7 +15219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Westhorst",
         "start_date": "1965",
@@ -15288,7 +15288,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -15368,7 +15368,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Boerderij Bosch",
         "start_date": "1907",
@@ -15413,7 +15413,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -15490,7 +15490,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "'Logica' is a lodging and meeting accommodation, situated on the border of the campus, surrounded by many sports facilities. It is an ideal spot for meetings, courses, training camps and sports events. The building has a lecture hall for meetings of up to 60 people, as well as four apartments comprising 24 rooms for single or double use.",
         "name": "Logica D",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "@id": "way/269843615"
       },
@@ -15551,7 +15551,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
         "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "name": "Campuslaan High"
       },
@@ -15599,7 +15599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "start_date": "1915",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if4/560c010103abff6c0033daf403723b0b00496091030701c13c03000080.jpg",
@@ -15639,7 +15639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "name": "Logica",
         "start_date": "1996",
@@ -15756,7 +15756,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -15841,7 +15841,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
@@ -15889,7 +15889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1965",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/ie4/d802ec0103405ca20043130004fe3b0b00179c69020701c13c03000080.jpg",
@@ -16301,7 +16301,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -16354,7 +16354,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -16442,7 +16442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1997",
         "img": "",
@@ -16486,7 +16486,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -16526,7 +16526,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Hogedruklab",
         "source:date": "2016-02-22",
@@ -16671,7 +16671,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -16754,7 +16754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "name": "Schuur",
         "start_date": "2005",
@@ -16834,7 +16834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "2008",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -16882,7 +16882,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "start_date": "1965",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i13/a4eb420103245ca200f7d89d02fe3b0b0039b163020701c13c03000080.jpg",
@@ -16931,7 +16931,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -17024,7 +17024,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -17112,7 +17112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1978",
         "img": "",
@@ -17152,7 +17152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Garage",
         "start_date": "1965",
@@ -17200,7 +17200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -17240,7 +17240,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -17289,7 +17289,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
         "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "name": "Campuslaan High"
       },
@@ -17337,7 +17337,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -17382,7 +17382,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -17454,7 +17454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2010",
         "img": "",
@@ -17502,7 +17502,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -17589,7 +17589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Faculty Club",
         "start_date": "1965",
@@ -17693,7 +17693,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1965",
         "img": "",
@@ -17742,7 +17742,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "name": "Campuslaan Low"
@@ -17791,7 +17791,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "start_date": "1992",
         "img": "",
@@ -17831,7 +17831,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "layer": 1,
         "start_date": "2009",
@@ -17881,7 +17881,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "name": "Campuslaan Low"
@@ -17930,7 +17930,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Teehuis",
         "start_date": "2000",
@@ -18032,7 +18032,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -18121,7 +18121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -18161,7 +18161,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2006",
         "img": "",
@@ -18201,7 +18201,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -18246,7 +18246,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
@@ -18290,7 +18290,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Paviljoen",
         "source:date": "2016-02-22",
@@ -18491,7 +18491,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -18531,7 +18531,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1997",
         "img": "",
@@ -18571,7 +18571,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1997",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/if4/560c010103abff6c0033daf403723b0b00496091030701c13c03000080.jpg",
@@ -18611,7 +18611,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -18651,7 +18651,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1997",
         "img": "",
@@ -18696,7 +18696,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -18765,7 +18765,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -18845,7 +18845,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "name": "Log cabins",
         "start_date": "2002",
@@ -18889,7 +18889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1971",
         "img": "",
@@ -18933,7 +18933,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2006",
         "img": "",
@@ -18978,7 +18978,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "Building 'Linde' accommodates HumanCapitalCare, an independent, accredited occupational health & safety service. The service provision consists of health management, prevention, sick leave follow-up, as well as intervention and reintegration.",
         "name": "Linde",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "commercial",
         "website": "http://www.santar.nl",
         "@id": "way/269843742"
@@ -19092,7 +19092,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -19181,7 +19181,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1978",
         "img": "",
@@ -19221,7 +19221,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -19266,7 +19266,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
@@ -19367,7 +19367,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "name": "Campuslaan Low",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "@id": "way/269844885"
@@ -19421,7 +19421,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -19497,7 +19497,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1971",
         "img": "",
@@ -19582,7 +19582,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -19670,7 +19670,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i5c/66295401031d066d002acff4037c3b0b00931a02030701c13c03000080.jpg",
@@ -19714,7 +19714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "High Tech Factory",
         "start_date": "2005",
@@ -19883,7 +19883,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1967",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
@@ -19952,7 +19952,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "",
@@ -20024,7 +20024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Oosthorst",
         "start_date": "1966",
@@ -20080,7 +20080,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2012",
         "img": "",
@@ -20125,7 +20125,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1967",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
@@ -20193,7 +20193,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "name": "Stall",
         "start_date": "1907",
@@ -20247,7 +20247,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "name": "Campuslaan Low",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "@id": "way/269844710"
@@ -20292,7 +20292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -20332,7 +20332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "2069",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -20380,7 +20380,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -20436,7 +20436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -20484,7 +20484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Waaier",
         "start_date": "1992",
@@ -20785,7 +20785,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -20875,7 +20875,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
@@ -20971,7 +20971,7 @@
         "imgurl": "http://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen/Horst?fc=browse&column=4#nav_dir{24}Gebouwen/Horst",
         "info": "This large complex of buildings is the home base of several faculties and institutes. For example, the laboratories of the research institute MIRA, the institute for biomedical technology and technical medicine of the University of Twente are located here. Leading research into how stem cells can be induced to form new bone tissue is conducted here. The complex also houses several departments of the faculty of Engineering Technology. Besides that students attend lectures of the Science and Technology and Engineering Technology faculties in here.   Horst by van Mourik & Du Pon/ Van Mourik & Vermeu len  Horst Tower, an important landmark on the campus, also has its origin in the New Objectivity. The tower clearly demonstrates the principle of the separation of functions: supporting functions such as elevators, emergency staircase, washrooms and air conditioning are installed in thehuge concrete shafts.",
         "name": "Horstring",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "type": "multipolygon",
         "@id": "relation/3611481"
@@ -21234,7 +21234,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1964",
         "img": "",
@@ -21274,7 +21274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1992",
         "img": "",
@@ -21343,7 +21343,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "The 'Zilverling' is the home base of students and staff of the Electrical Engineering, Mathematics and Computer Science faculty of the research institute CTIT. In the building research is conducted into, among other things, how to improve the reliability of ICT networks. Research is also conducted into the way in which small, cheap sensors can be used for tracing oil leaks deep into the ocean or to measure the water quality of the Great Barrier Reef in Australia. Among other things the 'Zilverling' accommodates the Smart XP Lab. This Laboratory is highly suitable for interdisciplinary research, such as research into the interaction between humans and robots. The purpose of the laboratory is to have researchers look at experiments intuitively, from different perspectives.",
         "name": "Zilverling",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "university",
         "type": "multipolygon",
         "@id": "relation/3611484"
@@ -21820,7 +21820,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -21892,7 +21892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -21941,7 +21941,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "name": "Campuslaan Low"
       },
@@ -21985,7 +21985,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1965",
         "img": "",
@@ -22034,7 +22034,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -22099,7 +22099,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "name": "Motorstalling",
         "start_date": "1978",
@@ -22180,7 +22180,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -22228,7 +22228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2007",
         "img": "http://campusapp.webhare-test.utsp.utwente.nl/.uc/i13/a4eb420103245ca200f7d89d02fe3b0b0039b163020701c13c03000080.jpg",
@@ -22273,7 +22273,7 @@
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "dormitory",
         "building:levels": 4,
         "name": "Piramide"
@@ -22367,7 +22367,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -22447,7 +22447,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "2010",
         "name": "Meander",
@@ -22576,7 +22576,7 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
         "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "building:levels": 2,
         "name": "Campuslaan Low"
@@ -22621,7 +22621,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
@@ -22669,7 +22669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "start_date": "1968",
         "img": "",
@@ -22714,7 +22714,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -22787,7 +22787,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
@@ -22871,7 +22871,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1968",
         "img": "",
@@ -22944,7 +22944,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "The on-campus child care centres De Vlinder  (0-4 years) and De Reuzenvlinder  (4-12 years) offer day care and after school programmes for children of on-campus employees of University of Twente. The childcare centres include many outdoor activities in their daily routine as part of a play and move in nature  programme. A Green Council focuses on increasing environmental awareness. Facilities include a garden with a little patch of forest, as well as use of University of Twente's open air theatre, swimming pool and sport facilities.",
         "name": "Vlinder",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "website": "http://www.kinderdagverblijf-vlinder.nl/",
         "@id": "way/269843519"
@@ -23106,7 +23106,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1969",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
@@ -23220,7 +23220,7 @@
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "The campus accommodates a large sports centre. Students and staff of the University of Twente practice a great variety of sports in this venue. A large number of (student) sports associations use the sports centre for training and competition purposes. Besides this the sports centre is used on behalf of events and (international) sports tournaments. The centre includes a 25-metre swimming pool and two large sports halls that are used for football and basketball, among other things. And what to think of a dojo and four sports halls for badminton, volleyball, fencing, table tennis, zumba and power yoga, to name a few.",
         "name": "Sports centre",
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "@id": "way/269843764"
       },
@@ -23414,7 +23414,7 @@
         "info": "The 'Ravelijn' building houses the Behavioural, Management and Social sciences faculty as well as the research institute IGS. It is the home base for education in the area of management and technology, public administration, business and information technology, as well as European studies and health sciences. Besides this multidisciplinary research in the area of administration and management of technological and social innovation is performed here.",
         "name": "Ravelijn",
         "layer": 1,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "yes",
         "@id": "way/269843643"
       },
@@ -23679,7 +23679,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1964",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
@@ -23772,7 +23772,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "house",
         "start_date": "1965",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
@@ -23837,7 +23837,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "apartments",
         "start_date": "1967",
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
@@ -23905,7 +23905,7 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "end_date": "2017",
         "building": "industrial",
         "start_date": "1992",
         "img": "",
