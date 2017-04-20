@@ -9,10 +9,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "name": "Campuslaan High",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "end_date": 2016,
         "building": "Campuslaan High",
         "fill-opacity": 0.5
@@ -334,10 +334,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -500,8 +500,8 @@
         "end_date": 2016,
         "building": "apartments",
         "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=4&fc=browse&query=calslaan&inresults=1&queryid=1",
         "info": "",
         "name": "Calslaan White"
       },
@@ -588,10 +588,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": " Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -674,10 +674,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
@@ -1240,10 +1240,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -1848,10 +1848,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "end_date": 2016,
         "building": "apartments",
         "name": "Campuslaan High"
@@ -2012,9 +2012,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -2124,10 +2124,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -2177,9 +2177,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1965,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -2221,10 +2221,10 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "house",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1965,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -2455,10 +2455,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "2008",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -2577,9 +2577,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -2673,10 +2673,10 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "name": "Campuslaan Low"
       },
       "geometry": {
@@ -2731,9 +2731,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -2815,12 +2815,11 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan Old"
-      },
+        "start_date": 1964,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
+        "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
+        "name": "Calslaan Old"      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3444,10 +3443,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "2008",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -3532,10 +3531,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "2008",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -3653,10 +3652,10 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1964,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
+        "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
         "name": "Calslaan Old"
       },
       "geometry": {
@@ -3812,8 +3811,8 @@
         "end_date": 2016,
         "building": "apartments",
         "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=4&fc=browse&query=calslaan&inresults=1&queryid=1",
         "info": "",
         "name": "Calslaan White"
       },
@@ -3864,10 +3863,10 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "house",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1965,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -3913,10 +3912,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "2008",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -4008,9 +4007,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -4288,9 +4287,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -4592,10 +4591,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -5092,12 +5091,11 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan Old"
-      },
+        "start_date": 1964,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
+        "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
+        "name": "Calslaan Old"      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5494,9 +5492,9 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1965",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "name": "Piramide"
       },
       "geometry": {
@@ -5647,8 +5645,8 @@
         "end_date": 2016,
         "building": "apartments",
         "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=4&fc=browse&query=calslaan&inresults=1&queryid=1",
         "info": "",
         "name": "Calslaan White"
       },
@@ -5700,9 +5698,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1965,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -5794,9 +5792,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -7024,10 +7022,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -7183,9 +7181,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -7494,10 +7492,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -8009,9 +8007,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -8095,10 +8093,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
@@ -8236,9 +8234,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1965,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -8292,10 +8290,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -8553,9 +8551,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -8975,10 +8973,10 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "house",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1965,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -9241,10 +9239,10 @@
         "end_date": 2016,
         "building": "apartments",
         "name": "Campuslaan High",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": ""
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
       },
       "geometry": {
         "type": "Polygon",
@@ -9543,9 +9541,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -9667,10 +9665,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -10950,9 +10948,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -11028,9 +11026,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -11424,10 +11422,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "2008",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -11474,13 +11472,13 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "name": "Campuslaan High",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "end_date": 2016,
         "building": "apartments",
-        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
@@ -11546,9 +11544,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -11841,10 +11839,10 @@
         "end_date": 2016,
         "building": "apartments",
         "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=4&fc=browse&query=calslaan&inresults=1&queryid=1",
         "info": "",
-        "name": " Calslaan White"
+        "name": "Calslaan White"
       },
       "geometry": {
         "type": "Polygon",
@@ -11890,10 +11888,10 @@
         "building": "apartments",
         "building:levels": 3,
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -12223,10 +12221,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "end_date": 2016,
         "building": "apartments",
         "name": "Campuslaan Low"
@@ -12278,9 +12276,9 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1965",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "name": "Piramide"
       },
       "geometry": {
@@ -12569,9 +12567,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -12746,9 +12744,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -12847,9 +12845,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1965,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -13650,9 +13648,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -13935,10 +13933,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
@@ -14035,12 +14033,11 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan Old"
-      },
+        "start_date": 1964,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
+        "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
+        "name": "Calslaan Old"      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -14114,12 +14111,12 @@
       "type": "Feature",
       "properties": {
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
         "end_date": "2016",
         "building": "apartments",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -14374,10 +14371,10 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "house",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1965,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -14512,9 +14509,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -14602,10 +14599,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "name": "Campuslaan Low",
         "end_date": 2016,
         "building": "apartments",
@@ -14655,10 +14652,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -14701,10 +14698,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "end_date": 2016,
         "building": "apartments",
         "name": "Campuslaan High"
@@ -15550,10 +15547,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "end_date": 2016,
         "building": "apartments",
         "name": "Campuslaan High"
@@ -15847,8 +15844,8 @@
         "end_date": 2016,
         "building": "apartments",
         "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=4&fc=browse&query=calslaan&inresults=1&queryid=1",
         "info": "",
         "name": "Calslaan White"
       },
@@ -16307,9 +16304,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1965,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -16360,9 +16357,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -16840,10 +16837,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "2008",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -16937,9 +16934,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -17030,9 +17027,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -17288,10 +17285,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "end_date": 2016,
         "building": "apartments",
         "name": "Campuslaan High"
@@ -17388,9 +17385,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -17741,10 +17738,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
@@ -17880,10 +17877,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
@@ -18031,9 +18028,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -18252,8 +18249,8 @@
         "end_date": 2016,
         "building": "apartments",
         "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=4&fc=browse&query=calslaan&inresults=1&queryid=1",
         "info": "",
         "name": "Calslaan White"
       },
@@ -18702,9 +18699,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1965,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -19091,9 +19088,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -19271,12 +19268,11 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan Old"
-      },
+        "start_date": 1964,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
+        "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
+        "name": "Calslaan Old"      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19366,10 +19362,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "name": "Campuslaan Low",
         "end_date": 2016,
         "building": "apartments",
@@ -19589,9 +19585,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -19889,10 +19885,10 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1966,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "name": "Campuslaan High"
       },
       "geometry": {
@@ -20132,9 +20128,9 @@
         "end_date": 2016,
         "building": "apartments",
         "start_date": 1967,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "name": "Campuslaan High"
       },
       "geometry": {
@@ -20246,10 +20242,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "name": "Campuslaan Low",
         "end_date": 2016,
         "building": "apartments",
@@ -20339,10 +20335,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "2069",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -20387,10 +20383,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -20785,9 +20781,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -20881,12 +20877,11 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan Old"
-      },
+        "start_date": 1964,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
+        "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
+        "name": "Calslaan Old"      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -21942,10 +21937,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "end_date": 2016,
         "building": "apartments",
         "name": "Campuslaan Low"
@@ -22188,9 +22183,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1965,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -22274,9 +22269,9 @@
       "type": "Feature",
       "properties": {
         "start_date": "1971",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
+        "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
         "smoking": "yes",
         "end_date": "2016",
         "building": "dormitory",
@@ -22577,10 +22572,10 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d8/UT02518_85e7f.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?view=&bsize=&column=4&fc=browse&query=campuslaan&inresults=1&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7#nav_bsr0",
+        "info": "De flats met 400 kamers zijn ontworpen door H. Hazewinkel en kwamen in 1967 gereed.",
         "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
@@ -22629,10 +22624,10 @@
         "end_date": "2016",
         "building": "apartments",
         "start_date": "1969",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan"
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/59/UT01270_9f9ce.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?listview=overview&fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=36&column=4&fileid=37#nav_dir{32}Gebouwen",
+        "info": "Ontworpen door M.D. van Wensveen. De 496 kamers waren in 1969 gereed.",
+        "name": "Calslaan New"
       },
       "geometry": {
         "type": "Polygon",
@@ -22794,12 +22789,11 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
-        "name": "Calslaan Old"
-      },
+        "start_date": 1964,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
+        "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
+        "name": "Calslaan Old"      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -23115,8 +23109,8 @@
         "end_date": 2016,
         "building": "apartments",
         "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/84/UT00254_405b6.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=4&fc=browse&query=calslaan&inresults=1&queryid=1",
         "info": "",
         "name": "Calslaan White"
       },
@@ -23688,9 +23682,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1964,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/ff/UT01220_fbddf.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?view=&bsize=&column=&fc=browse&query=+Langenkampweg&inresults=1&queryid=1#nav_dir{0}Gebouwen",
+        "info": "Deze 15 stafwoningen bedoeld voor hoogleraren en arts zijn ontworpen door A.C. Nicolai en kwamen gereed in 1964.",
         "name": "Staff residence Langenkampweg"
       },
       "geometry": {
@@ -23781,9 +23775,9 @@
         "end_date": 2016,
         "building": "house",
         "start_date": 1965,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/e8/UT01272_836af.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=183&fuid=10000%2Fimg3%2FUT01272.tif",
+        "info": "De dienstwoningen aan de Achterhorst zijn gebouwd door architect Van Tijen en waren gereed in 1965",
         "name": "Staff residence Achterhorst"
       },
       "geometry": {
@@ -23845,10 +23839,10 @@
         "fill-opacity": 0.5,
         "end_date": 2016,
         "building": "apartments",
-        "start_date": 1969,
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "start_date": 1967,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/03/UT00746_32526.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=d1e7026b15ec3aa9cbf15ef3f8272ca7&order=createdate&column=4&listview=overview&view=preview&fileid=35&fuid=10000%2Fimg2%2FUT00746.tif",
+        "info": "3e tranche studentenhuisvesting Campuslaan, ontworpen door Tj. Hazewinkel. Aanbesteed in 1965. 400 kamers gereed in 1967."
         "name": "Campuslaan High"
       },
       "geometry": {
@@ -23973,9 +23967,9 @@
       "properties": {
         "end_date": "1964",
         "start_date": "1950",
-        "img": "",
-        "imgurl": "http://beeldbank.utwente.nl",
-        "info": "",
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/16/UT02668_63c5d.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?style=fullscreen&fc=browse&queryid=1&order=createdateRev&column=7&listview=overview&view=preview&fileid=12&fuid=10000%2Fimg3%2FUT02668.jpg",
+        "info": "Dit theehuis was een buitenverblijf van de Enschedese fabrikant Lasonder. Het huisje en de omliggende bossen behoorden tot het landgoed Drienerlo. In de oorlogsjaren zijn er Duitsers ingekwartierd, evenals bij de boerderij van de familie Scholten, later de Boerderij en nu de Faculty Club. Ten tijde van de verbouwing van de Boerderij gebruikt architect Pieter Blom het theehuisje nog voor een tijdelijk onderkomen, omdat hij bij de bouw veel aanwijzingen wilde geven. Daarna is het theehuis afgebroken.",
         "name": "Het Theehuisje"
       },
       "geometry": {
