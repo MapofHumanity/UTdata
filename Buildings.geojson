@@ -4,13 +4,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Campuslaan",
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "name": "Campuslaan High",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
-        "building": "apartments",
+        "end_date": 2016,
+        "building": "Campuslaan High",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -69,13 +73,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -365,13 +374,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -473,13 +487,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan White"
       },
       "geometry": {
         "type": "Polygon",
@@ -645,14 +664,19 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -786,13 +810,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -1014,13 +1043,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -1246,13 +1280,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -1613,13 +1652,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -1725,13 +1769,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -1789,13 +1838,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
-        "name": "Campuslaan"
+        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
@@ -1945,13 +1999,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -2193,13 +2252,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -2417,13 +2481,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -2485,13 +2554,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -2577,13 +2651,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -2629,13 +2708,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -2709,13 +2793,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan Old"
       },
       "geometry": {
         "type": "Polygon",
@@ -3473,13 +3562,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3537,13 +3631,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan Old"
       },
       "geometry": {
         "type": "Polygon",
@@ -3621,13 +3720,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -3685,13 +3789,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan White"
       },
       "geometry": {
         "type": "Polygon",
@@ -4073,13 +4182,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -4951,13 +5065,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan Old"
       },
       "geometry": {
         "type": "Polygon",
@@ -5071,13 +5190,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Residence staff"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -5495,13 +5619,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan White"
       },
       "geometry": {
         "type": "Polygon",
@@ -6959,13 +7088,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -7931,14 +8065,19 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -8376,13 +8515,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -8604,13 +8748,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -8684,13 +8833,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -9044,10 +9198,15 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "name": "Huize NGTV",
-        "start_date": "1969",
+        "name": "Campuslaan High",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": ""
@@ -9341,13 +9500,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -10743,13 +10907,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -10917,13 +11086,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -11260,13 +11434,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
-        "name": "Campuslaan"
+        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
@@ -11324,13 +11503,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -11452,13 +11636,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -11512,13 +11701,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -11604,13 +11798,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": " Calslaan"
+        "name": " Calslaan White"
       },
       "geometry": {
         "type": "Polygon",
@@ -11984,13 +12183,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -12244,13 +12448,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -13160,13 +13369,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -13388,13 +13602,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -13554,13 +13773,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan "
       },
       "geometry": {
         "type": "Polygon",
@@ -13666,14 +13890,19 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -13759,13 +13988,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan Old"
       },
       "geometry": {
         "type": "Polygon",
@@ -14225,13 +14459,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -14313,12 +14552,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Funest",
-        "end_date": "2016",
+        "name": "Campuslaan Low",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
         "@id": "way/269844701"
@@ -14407,13 +14651,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
-        "name": "Campuslaan"
+        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
@@ -14992,13 +15241,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -15112,13 +15366,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -15241,13 +15500,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
-        "name": "Campuslaan"
+        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
@@ -15445,13 +15709,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -15525,13 +15794,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan White"
       },
       "geometry": {
         "type": "Polygon",
@@ -16028,13 +16302,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -16600,13 +16879,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -16688,13 +16972,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -16944,13 +17233,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
-        "name": "Campuslaan"
+        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
@@ -17036,13 +17330,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -17387,14 +17686,19 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -17521,14 +17825,19 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -17885,13 +18194,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan White"
       },
       "geometry": {
         "type": "Polygon",
@@ -18394,13 +18708,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -18890,13 +19209,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan Old"
       },
       "geometry": {
         "type": "Polygon",
@@ -18982,12 +19306,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "The Cave",
-        "end_date": "2016",
+        "name": "Campuslaan Low",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
         "@id": "way/269844885"
@@ -19036,13 +19365,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -19192,13 +19526,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -19488,13 +19827,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1966",
+        "start_date": 1966,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Campuslaan"
+        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
@@ -19552,13 +19896,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff Wooning"
+        "name": "Staff Housing Drienerbeeklaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -19720,13 +20069,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1967",
+        "start_date": 1967,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Campuslaan"
+        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
@@ -19832,12 +20186,17 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Los ChiChis",
-        "end_date": "2016",
+        "name": "Campuslaan Low",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
         "@id": "way/269844710"
@@ -20460,13 +20819,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan Old"
       },
       "geometry": {
         "type": "Polygon",
@@ -21401,13 +21765,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -21513,13 +21882,18 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -21605,13 +21979,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -21665,10 +22044,15 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "yes",
         "name": "Motorstalling",
-        "start_date": "1978",
+        "start_date": 1978,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": ""
@@ -21923,13 +22307,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -22123,14 +22512,19 @@
     {
       "type": "Feature",
       "properties": {
-        "start_date": "1969",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "end_date": "2016",
+        "end_date": 2016,
         "building": "apartments",
         "building:levels": 2,
-        "name": "Campuslaan"
+        "name": "Campuslaan Low"
       },
       "geometry": {
         "type": "Polygon",
@@ -22260,13 +22654,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -22328,13 +22727,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan Old"
       },
       "geometry": {
         "type": "Polygon",
@@ -22408,13 +22812,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1968",
+        "start_date": 1968,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Reelaan"
       },
       "geometry": {
         "type": "Polygon",
@@ -22638,13 +23047,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Calslaan"
+        "name": "Calslaan White"
       },
       "geometry": {
         "type": "Polygon",
@@ -23206,13 +23620,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1964",
+        "start_date": 1964,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Langenkampweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -23354,13 +23773,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "apartments",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Campuslaan"
+        "name": "Campuslaan High"
       },
       "geometry": {
         "type": "Polygon",
