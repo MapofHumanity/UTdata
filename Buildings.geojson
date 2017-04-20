@@ -286,13 +286,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "yes",
-        "start_date": "1992",
+        "start_date": 1992,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": ""
+        "name": "Bromfietsloods"
       },
       "geometry": {
         "type": "Polygon",
@@ -2164,13 +2169,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1965",
+        "start_date": 1965,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -2204,13 +2214,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -3842,13 +3857,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -5672,13 +5692,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1965",
+        "start_date": 1965,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -8203,13 +8228,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1965",
+        "start_date": 1965,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -8938,13 +8968,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -12804,13 +12839,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1965",
+        "start_date": 1965,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -14327,13 +14367,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1969",
+        "start_date": 1969,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -16254,13 +16299,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1965",
+        "start_date": 1965,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -18644,13 +18694,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1965",
+        "start_date": 1965,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -22125,13 +22180,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1965",
+        "start_date": 1965,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -23713,13 +23773,18 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2016",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2016,
         "building": "house",
-        "start_date": "1965",
+        "start_date": 1965,
         "img": "",
         "imgurl": "http://beeldbank.utwente.nl",
         "info": "",
-        "name": "Staff residence"
+        "name": "Staff residence Achterhorst"
       },
       "geometry": {
         "type": "Polygon",
@@ -25309,6 +25374,49 @@
             [
               6.850933134555816,
               52.24476257428272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Chalet",
+        "start_date": 2009,
+        "end_date": 2014,
+        "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/d5/UT01605_5b897.jpg",
+        "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen?fc=browse&queryid=a2bd71ec53e115214f96f8ffcd105491&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01604.jpg",
+        "info": "Het Chalet is een semipermanent gebouw om de groei van de faculteit Gedragswetenschappen op te vangen. Opvallend is het zadeldak met open zijden. Hierdoor ontstaat een natuurlijke ventilatie waardoor de binnentemperatuur niet al te hoog oploopt."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.855297088623047,
+              52.241160889297404
+            ],
+            [
+              6.85497522354126,
+              52.24080776719121
+            ],
+            [
+              6.855125427246093,
+              52.24075685167898
+            ],
+            [
+              6.855447292327881,
+              52.24110833176657
+            ],
+            [
+              6.855297088623047,
+              52.241160889297404
             ]
           ]
         ]
