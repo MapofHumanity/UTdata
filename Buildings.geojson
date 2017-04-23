@@ -2819,7 +2819,8 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
         "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
-        "name": "Calslaan Old"      },
+        "name": "Calslaan Old"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5095,7 +5096,8 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
         "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
-        "name": "Calslaan Old"      },
+        "name": "Calslaan Old"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5489,9 +5491,14 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2017,
         "building": "apartments",
-        "start_date": "1965",
+        "start_date": 1969,
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
@@ -12273,9 +12280,14 @@
     {
       "type": "Feature",
       "properties": {
-        "end_date": "2017",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "end_date": 2017,
         "building": "apartments",
-        "start_date": "1965",
+        "start_date": 1969,
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/14/UT01854_4c346.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=6dc18217c3310ae132844d3f80703782&column=4&listview=overview&view=preview&fileid=1&fuid=10000%2Fimg1%2FUT01964.jpg",
         "info": "De piramidewoningen zijn ontworpen door Herman Haan.",
@@ -14037,7 +14049,8 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
         "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
-        "name": "Calslaan Old"      },
+        "name": "Calslaan Old"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -19272,7 +19285,8 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
         "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
-        "name": "Calslaan Old"      },
+        "name": "Calslaan Old"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -20881,7 +20895,8 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
         "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
-        "name": "Calslaan Old"      },
+        "name": "Calslaan Old"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22793,7 +22808,8 @@
         "img": "https://beeldbank.utwente.nl/beeldbank/pcache/10000/3a/UT00041_a19c3.jpg",
         "imgurl": "https://beeldbank.utwente.nl/beeldbank/start/allematerialen/Gebouwen?fc=browse&queryid=c396dc488c88aaef41426dfff4ae341a&order=createdate&bsr=21",
         "info": "Studentenflats Calslaan - architecten Van Tijen c.s. - gereed in 1964 - eerste steen door minister Cals op 10 juli 1963 - 7 x 36 studentenkamers in 7 topflats.",
-        "name": "Calslaan Old"      },
+        "name": "Calslaan Old"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
